@@ -12,3 +12,8 @@ This project runs on python==3.7.3. It is requires on [FAIRSEQ](https://fairseq.
 ```sh
 $ pip install nltk==3.4.4
 ```
+
+### Other Requirements
+Both the analysis of emotion connotations and the re-ranking of hypotheses are based on an emotion classifier. You are free to use one of your choice.
+
+Put ...
