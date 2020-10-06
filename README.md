@@ -25,5 +25,21 @@ Both the analysis of emotion connotations and the re-ranking of hypotheses are b
 
 Put ...
 
+## Data Preprocessing
+
+0. Clone the repository
+```sh 
+$ git clone https://github.com/EnricaIMS/LostInBackTranslation.git
+$ cd LostInBackTranslation
+```
+
+1. Preprocess the data.
+
+```sh
+$ python -m sesame.preprocess
+```
+The code above puts the data in the right format (Sentence_id EmotionLabel TargetEmotion Text).
+The same format is required both for analysis, emotion recover and transfer.
+
 # Contact
 For questions, please contact `enrica.troiano@ims.uni-stuttgart.de`.
