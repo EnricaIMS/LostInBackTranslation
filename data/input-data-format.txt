@@ -1,0 +1,3 @@
+Put in this folder your emotion-annotated data. The (tab separated) data should be in the format:
+
+Sentence_id	Emotion_label	Text
