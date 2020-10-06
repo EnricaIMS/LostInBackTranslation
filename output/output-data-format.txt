@@ -1,0 +1,38 @@
+The output of the pipeline will be saved in this folder.
+
+* paraphrases_[DECODINGMETHOD].txt contains the backtranslations in the following (tab separated) format: 
+Sentence_id	Emotion	Backtranslation	emotion_score
+
+*
+
+*
+
+###################################################################
+
+The type of entries depend on the goal of the pipeline usage,
+which you can indicate in the ../config.ini file.
+
+* Simple analysis of emotion back-translation (RQ1 in the paper):
+
+  Backtranslation is the one spontaneously retourned by the NMT system, 
+  which receives one emotion_score for each Emotion label in the dataset.
+  
+
+* Recovering of emotion-preserving back-translation (RQ2):
+  
+  Backtranslation is the one that our re-ranking method chooses among
+  the n-best translations retourned by the NMT system as the one
+  preserving the original emotion.
+  It receives one emotion_score for each Emotion label in the dataset.
+
+* Style transfer (RQ3):
+
+  Backtranslation is the one that our re-ranking method chooses among
+  the n-best translations retourned by the NMT system as the one having
+  a target emotion.
+  Each Emotion label is used as a target emotion, and receives an
+  emotion_score by the classifier.
+
+
+You can set the parameters for usage goal and number of back translations in
+../scripts/config.ini. Parameters values are explained in config.doc.
