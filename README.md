@@ -1,5 +1,7 @@
 # LostInBackTranslation
 
-A NMT-based pipeline for the analysis of emotions in back-translations. The pipeline ...
+A NMT-based pipeline for the analysis of emotions in back-translations. The pipeline, described in our paper [Lost in Back-Translation:
+Emotion Preservation in Neural Machine Translation], compares the emotion connotation of input texts and back-translations by re-ranking
+the generated hypotheses. A visualization is shown below.
 
-![procedure](https://user-images.githubusercontent.com/60070888/95168635-e6ef9980-07b1-11eb-8357-ecd258f458a0.png)
+![procedure](fig/pipeline.png)
