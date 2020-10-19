@@ -1,5 +1,5 @@
 '''
-Reads XML files containing Sentence_id\tEmotion\tText, and converts them to different formats depending on the
+Reads .txt files containing Sentence_id\tEmotion\tText, and converts them to different formats depending on the
 goal of pipeline usage.
 
 Returns filename_preprocessed.txt in folder data.
