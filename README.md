@@ -32,14 +32,21 @@ Put ...
 $ git clone https://github.com/EnricaIMS/LostInBackTranslation.git
 $ cd LostInBackTranslation
 ```
+0.1 Put data in folder data
 
-1. Preprocess the data.
+0.2 Put emotion classifiers in trained classifiers folder
+
+
+
+|    ISEAR | BLOGS | TALES |  TEC  |
+|------------:|------------:|-------------:|----------|
+|[Download](https://drive.google.com/file/d/1hX0ey3EcVCMdL8ZkQ4Y-YiEmVNT8T_Y2/view?usp=sharing)| [Download](https://drive.google.com/file/d/1gA092woQIeh54omQStThvhLsStLOnH6l/view?usp=sharing) | [Download](https://drive.google.com/file/d/1Oh0V6QQ1dW8j_uqRYwz4FHveUmAkxVPX/view?usp=sharing) | [Download](https://drive.google.com/file/d/1KpfQne8l0QX3sybD3xu6RivUoC-K25eG/view?usp=sharing)|
+
+2. Classify the data.
 
 ```sh
-$ python -m sesame.preprocess
+$ python -m emotion_module.classify_file.py 
 ```
-The code above puts the data in the right format (Sentence_id EmotionLabel TargetEmotion Text).
-The same format is required both for analysis, emotion recover and transfer.
 
 # Contact
 For questions, please contact `enrica.troiano@ims.uni-stuttgart.de`.
