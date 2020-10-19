@@ -74,7 +74,6 @@ def classify_file(nameInput,emo_labels,goal):
     for i,row in myFile.iterrows():
         #classify the original sentence
         sentence=row["Sentence"].strip()
-        print(sentence)
         ids=row["Sentence_id"]
             
         sentence=re.sub('[^A-Za-z0-9,;:\-\(\)\'\"\!\?\.]',' ', sentence)
