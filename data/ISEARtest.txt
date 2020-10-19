@@ -1,0 +1,1533 @@
+1	Sadness	Not doing well in an examn.
+2	Fear	When I lost a wallet while travelling, since it belonged to the group I was very afraid.
+3	Fear	Before my final examination.
+4	Joy	When I understood that I was admitted to the University.
+5	Anger	When someone took my pen away.
+6	Sadness	I had a very short term romance during the summer vacations.  When we first met I felt excited but I wanted to avoid him after we had met a few times and so I proposed that we stay apart, I felt very sad then.
+7	Guilt	When I met another person I began to go out with him, and my boyfriend (with marriage accorded) met us together he did a great scandal, he broke the engagement and I began to go out with the other, and it didn't work because my mind was all mixed up.
+8	Sadness	I finished the relationship with my boyfriend, after having felt myself very unhappy for a long time.
+9	Shame	Some time back I had signed a letter which I had not read.  What had happened is that something had been written against my friend and this went to the higher authorities.  My friend asked me  -\you also signed ?\"   "
+10	Sadness	I dreamt of my father's death while I was at secondary school.  I was screaming at the top of my voice and was woken up by my friend.  That day I was really sad.
+11	Disgust	When programmes on violence or pornography are shown on T.V.
+12	Fear	Before the examn.
+13	Guilt	I felt guilty when I mislead a person into thinking he was a close friend when that person was more of a casual acquaintance.
+14	Shame	[ I was not, I am not, I will never ever feel ashamed of myself for something I have done.]
+15	Sadness	When I was not accepted as a student in finance and accounting.
+16	Fear	Before Uni started, I had to leave home and take up residence in Brisbane (the \big smoke\") leaving home, my family, and moving to á|such a big place was quite intimidating at first, and I was á|anxious about it."
+17	Joy	Getting into this university to do medicine.
+18	Fear	When I had to talk to some strangers, from whom I was expecting a negative answer.
+19	Sadness	I heard that a former superior of mine had died, I was later at home home reading about it in the newspaper and I thought of our interaction and how it was no longer possible.  The limited scope of human life is sad.
+20	Joy	In a day when at work, in school, and relationships came out as I wanted, and I was recognized in my work.
+21	Disgust	I read in the newspaper about a 21 yr. old woman who was found naked and dead along a roadside. It turned out she had had two relatives 14 and 19 who were kidnapped, raped and killed earlier.
+22	Shame	When somebody I knew greeted me and started to talk with me and I didn't know, I couldn't remember who he was.
+23	Sadness	A close relative was at odds with a very powerful firm.  All his things had been taken, His dad had died a little before this event.  He gathhered his children and vowed to give them a good life with a new start - the words were hollow, he bit back his tears .....I asked to be excused and then went and cried in the loo.
+24	Fear	When I was young I had gone to an old lift and played with the antique lift.  The guy discovered me and warned me, I was very frightened.
+25	Fear	When I broke the window pane of my next door neighbour's house.
+26	Joy	When I was admitted to the Higher Institute.
+27	Shame	Upon returning from a journey of about two weeks duration, I found that a collection of pornographic literature had been removed from my room I had previously thought that no one was aware of the existence of this material.
+28	Shame	Not brave enough to take up a challenge in a group discussion.
+29	Guilt	When I have to take exams I am very excited and have not much time for the housekeeping. Then my friend has to do everything.
+30	Guilt	Something very unpleasant happened when I was a soldier and I was directly involved in it.
+31	Sadness	Finding out that China is still backward in science.
+32	Shame	When a friend told me a story and I stayed dumb because I had no story to tell.
+33	Disgust	Bisshop Ter Schure intoduced himself on TV to the Dutch Nation. He spoke as if he was God himself, and didn't discuss the way he had achieved this position.
+34	Shame	When my mother asked me to do a job for her which does not require much effort on my part, yet I refused for selfish reasons and saw her have to do it.
+35	Fear	When I began school at UC. The pre-enrollment the classes, and the question of success really scared me.
+36	Sadness	My father recently having a heart attack - spending a few months in hospital.
+37	Disgust	During a recent meeting, Mr. A showed his excitement and overindulged in the notes delivered.  Though his curiosity could not be blamed, his way of accquiring knowledge was an extreme behaviour e.g he always tried to know what I was reading and gained everything he could.
+38	Anger	When a boy tried to fool me so he would be OK trying to show me that he is a gook boy.
+39	Sadness	My brother came to tell me about some problems we had in the  family.  I felt sad because I thought that if my mother had not gone away when this brother was younger, things would have been different.
+40	Joy	When, for example, I was in my eleventh school year and I learned I had been classed for the Bulgarian Language and Literature National Olympiad.
+41	Joy	When I was back home after a long time, meeting beloved people and close friends.
+42	Fear	I was rock-climbing and absailing & felt OK, but suddenly as I was going over the cliff I was hit by fear - I couldn't go on absailing down the cliff and had to be actually hauled back up it.
+43	Guilt	I had not written to, or called my grandmother, who was lonely, for a long time.  My mother asked me to call her on her behalf and when I did so, my grandmother was delighted and she told me that she had been waiting for some news from us.
+44	Sadness	I was told that a friend of mine was going to Mexico for good.
+45	Fear	A friend and I were going to have a study session together in which we quiz ourselves in biology material. Because I believed I didn't study enough. I feared I would fail.
+46	Disgust	When some friends and I get acquainted a guy during vacations I thought he was disgusted and \a friend\" of mine for whom I feel a á|little disgust wanted to stay with him."
+47	Fear	I was sexually assaulted one night by a stranger.
+48	Shame	China not winning more gold medals in the Asian Olympics.
+49	Guilt	Thinking about other things in a lecture.
+50	Guilt	Borrowed someone else's towel without asking.
+51	Shame	When I arrived too late at a meeting of mentor (the night before the introduction of novices on the University start).
+52	Anger	In a situation whereby a friend's actions were deliberately against my wishes and (with) no regard to my feelings.
+53	Joy	I received money from my father at a time when I was completely broken.
+54	Shame	When I tried to steal a book from the bookshop and was caught.
+55	Shame	The mother of a small child found me shaking the child in exasperation, because I couldn't get it to sleep.
+56	Guilt	[ If one has planned to do something \important\" and then, for á|some reason, fails to do it.]"
+57	Anger	When a friend told me that my education had nothing to do with our discussion.  This friend has failed the 7th grade, what made me angry was that I had not used my education to argue.
+58	Sadness	When I failed the entrance exam to IMEC.
+59	Guilt	I stole 5c from my mother's purse for a choo-choo bar - I was 6.
+60	Shame	Lying to my grandparents about visiting my boyfriend in Chico.
+61	Joy	For my parents anniversary, we hosted a party and we were very happy.
+62	Guilt	Not getting the class paper in time for the lecture.
+63	Joy	When the lady who is now my wife accepted my proposal to be my lover and future wife.
+64	Sadness	At set-backs.
+65	Disgust	In a certain book I read about cruelties and violence in prison and souteneur circles; I felt especially disgusted when I read detailed descriptions of physical and mental torture of less powerful people.
+66	Anger	I wanted to see a friend, I had been looking forward to it and had certain expectations, but he did not pay any attention to me, played cards with other people.
+67	Sadness	When the grandmother of my friend died in a hospital. My friend was crying and I was sad, too.
+68	Fear	When I was going to bring back my girlfriend to LA to meet my parents.
+69	Anger	A tailor ran away with my skirt.
+70	Fear	Being driven by friend who suddenly swerved and skidded a little. It was night and on a long trip. We ended up on side of road.
+71	Fear	Getting lost in a strange place.
+72	Guilt	A situation where I stole a friends wife's wallet.
+73	Shame	When I noticed that a person I found attractive had seen me picking my nose.
+74	Joy	The birth of my first child.
+75	Anger	My grandmother's brother had taken active part in the resistance movement. He had been in prison many times and there he lost his health. He became an invalid. When we phoned to First Aid the nurse on duty behaved quite unkindly when she understood how old he was (79).
+76	Fear	I was going to knock down a pedestrian with my car.
+77	Guilt	In adolescence I had a very violent fight with my sister I hold her stong in her neck, she had a throat surgery what make me feel guilty about the future reactions she might had injuring the surgery.
+78	Guilt	When I \hated\" one of mmy flatmates who was nice to me."
+79	Anger	I feel anger when I see a \parent\" beating and punishing his child á|in the street. Recently I was a withness of a similar case."
+80	Joy	When my husband suddenly came to see me at my new job and brought some flowers and cake with him.
+81	Guilt	I used to have two boyfriends in the past. Then one of them wanted to get engaged to me. I agreed but was guilt-conscious for disappointing the other one.
+82	Shame	We where in a bar and my friend had a fight with some guys who were in the table aside.
+83	Sadness	I asked a girl out on a date and she said no.
+84	Sadness	One of my class-mates had a disease unexpectedly, he had been in a coma for six days in a hospital before he died.
+85	Shame	We had arranged a beach party with 20 people. There my father got drunk I felt very ashamed.
+86	Disgust	I was dancing Malipenga (traditional dance). I exaggerated the steps I was supposed to make in the negative way. This happened in front of spectators. It was bad for our Boma (group) because I was on the front line where ability is displayed and it is this ability that counts when choosing the winning side.
+87	Fear	I feared that my dog's eye was infected too much. He had played around in the weeds and a foxtail had gotten under his eyelid. I took him to the vet and I feared that he may go blind because of the foxtail.
+88	Shame	When I got 1 mark in an Abnormal Psychology exam.
+89	Disgust	Once when I had started to write a paper, there was a phone call for me.  I had to go downstairs to receive it and after the conversation I discovered that all the information had disappeared from my mind.
+90	Joy	At the moment when I heard the result of an examination and it proved that I succeeded the second year of my study.
+91	Guilt	A friend of mine shot himself through the head after having told me and others that he would do so.
+92	Disgust	I feel disgusted since I am unable to cope with all the wordly affairs as I spend much precious time to pursue my hobby and to be admist the people I love and long to be with.
+93	Fear	We went fishing some 5 or 8 kilometers off the shore of Lake Malawi. Before we could settle down the lake became very rough to the point of threatening our lives.
+94	Anger	I felt anger of a friend when she met \a date\" and become nervous á|and pest as she always gets when she meets him."
+95	Fear	My mom called early in the morning (On a Monday) and I had just seen her that weekend. I couldn't understand what could be so important as to make her call at such a strange hour. I missed the call and had to call her back that afternoon.
+96	Disgust	I was listening to a priest in church saying how sinful man was, and how all men should renounce their desires and pleasures to please God. I could never understand how something that brings you joy could be a sin.
+97	Guilt	Often I forget to give my immediate family birthday presents.
+98	Fear	At about nine p.m., I went home by bike on a dark cycle-track; because of lack of time I had to take the short-cut.
+99	Sadness	When my mum's brother passed away after having been involved in a car accident.   He was bringing me a present as I had passed my form five exams with flying colours.
+100	Anger	My car had been towed away by the traffic police because it had been wrongly parked.  However the sign had been put up only after I had already parked.
+101	Joy	One night, at a friend's place I realized that I had everything I most wished, around me.
+102	Sadness	When I realized that it did not make much sense to start a relationship with a girl who was not very constructive to establish a firm relationship.
+103	Anger	It happened that my brother promised to give me money for school and then he told me that he had failed to fulfil his promise a day before school started. I became so angry for I thought my future would be ruined.
+104	Sadness	I was very sad when I could not take the M.A (I) exams due to illness, and a relative of mine disheartened me about it.
+105	Anger	Too many people in TV room, I was not able to get a seat to watch TV.
+106	Guilt	When I provoked a fight with my mother, hurting her feelings very much.
+107	Joy	When high level results were declared, I found my candidature number.  I was very happy as I had not expected it.  As I had been  injured before the examination and I had performed poorly.
+108	Anger	When I had an argument with my best friend and I thought that I was right and she was not.
+109	Sadness	When I was trying for a girl who I really liked and cared for and thought she felt the same way too. But she didn't like the idea and just wanted to stay friends.
+110	Disgust	I was disgusted with a friend's behaviour when she got absolutely drunk so that she vomitted all over my house.
+111	Joy	I made dinner for some friends and they appreciated it very much.
+112	Sadness	When I learnt that I had to repeat the first year, I found the solution immediately but was blocked by many difficulties.
+113	Sadness	After my father died suddenly of a heart attack.
+114	Guilt	Going out with another girl besides my girlfriend and not telling her.
+115	Fear	The day I was nearly stabbed to death by ruffians who wanted to take my money.  I refused to give them any money and they started running after me, I ran into somebody else's house to save myself.
+116	Disgust	I feel disgusted with toadies, hypocrites, chameleons.
+117	Disgust	When I was a teacher in an evening school, a girl raised a lot of questions and expressed her opinions.  She, very often, took a stand which was different from mine and she thought that it was better than mine.  Her opinions were helpful academically, but  she did not take into consideration my position in public.  Also she seemed to be very talkative and so she disgusted me.
+118	Fear	When I stayed alone in a house in Great Brittain and there was a lot of rumour in the newspaper about a murderer still being free.
+119	Fear	One afternoon, helping at home on the property, I was (mustering) getting in cattle and a bull turned and came for me.
+120	Joy	I went to see the entrance examination results at university.  I rejoyced at my success.
+121	Shame	After shouting at a friend.
+122	Shame	A serious drug error while nursing that I knew I was responsible for (patient lived, no complications fortunately).
+123	Joy	The inflammation of the ear of my child got cured and the doctor said that the ear was completely all right.
+124	Joy	I acted in an English play in college and got the Best Actress award, while our play got the first place.
+125	Guilt	When I am dishonest to a friend to whom I am very close.  I feel guilty because I know that he gives a different version of the truth and I have not corrected these mistakes, and he is aware that I know that they are wrong.
+126	Shame	After having failed my driving test.
+127	Fear	When my mother was robbed in a shop.
+128	Guilt	I dated another boy several times, when I was still \going with\" á|my former boyfriend. This made me feel a little bit guilty towards á|my friend."
+129	Anger	An argument among friends in which my opinions on the way to spend spare time were disapproved.
+130	Shame	Can't remember that feeling.
+131	Sadness	My living and working conditions at home were unbearable. We used to live in a three room flat together with two more families. The discords caused a change - one of the families moved out. The other family stayed with us but I drifted away from my fiancT. In fact we were two families in the flat. Then I found myself alone in the struggle for this life because my fiancT did not stay next to me my grief and sorrow took on large proportions. I wanted to commit suicide but instead I threw myself against the cause of the irritation.
+132	Sadness	My elder sister scolded me in front of my younger sisters and cousins.  She said that I was very lazy and I felt so sad that I cried myself to sleep.
+133	Sadness	The death of a friend.
+134	Fear	When it was found that I had gone out of the school premises without permisssion and at the wrong time.
+135	Disgust	In a warm bus full of people, someone vomited and the whole bus stank.
+136	Joy	Once a week I work as a volunteer in a biologic garden. this work in the garden and the contact with other volunteers filled me with joy. They also gave me support after I failed passing my driver's test.
+137	Sadness	When my grandfather died, I saw my grandmother crying against my aunt's shoulder (I had never seen my grandmother cry before).
+138	Sadness	When my father was imprisoned for burning the house of his younger brother.
+139	Fear	Being threatened by another person.
+140	Sadness	When I got separated from my first love.
+141	Guilt	Last year I put off an exam for the autumn session without knowing if there was a supplementary examination session. When I came home with my exam unpassed I felt guilty before my parents when I remembered how much they had done for me.
+142	Shame	I had a test in the class and I had not adequately prepared myself. I didn't fare so well on the exam and I felt bad about it.
+143	Fear	Waiting for the results of the High level examination.  I was afraid of not being accepted.
+144	Fear	When I was in my village one of my enemies had written a non-sense letter to a girl and he told the father of this girl that I was the culprit.  When I got to know this I was scared as  the girl's father was a worse man.
+145	Disgust	When I heard the bad news about the death of a close person.
+146	Anger	When we were in high school a few guys sometimes provoked a friend of mine.  They called her a pig and then grunted.  This irritated most of the girls.  Once, one of the girls got angry at my friend and said something nasty and this made me terribly angry.
+147	Shame	When some unforgiving acquaintance dragged up an old and rather embarassing situation from my past.
+148	Sadness	When I found out that a person I went to school with had died in a car accident.
+149	Joy	Helping in the nursery school.
+150	Joy	I felt joy when I came to know Christ.  That is when I became a Christian.
+151	Disgust	Disgust with oneself after being intoxicated enough to go to bed with a stranger.
+152	Anger	When a classmate hit me on my occipital region when I was busy studying and concentrating on my classnotes.
+153	Fear	My mother had fallen down from a ladder when she had been gathering cherries. Her back was hurt. Just when I arrived, I saw people of the life-saving service giving her medical care.
+154	Sadness	When I got separated from the woman I loved.
+155	Fear	Listening to horrot stories at night.
+156	Fear	Fear when fulfilling my obligations on my first night fatigue duty as a soldier.
+157	Shame	At a concert an old man arrived and began to danse, sing and do silly things.
+158	Anger	Insulted by disgusting people.
+159	Guilt	While playing basketball I broke a team member's spectacles.  His face was injured by the  pieces of glass.  It was not serious but I felt guilty and blamed myself for being too careless and vigorous in my game.
+160	Joy	That was what I felt when I was finally accepted in the Bulgarian Conservatorie after I had applied a couple of years.
+161	Disgust	Disgust - no. Maybe it is more precise to say revultion at a worm or a snake. But I mean it in a social aspect when somebody had behaved like a scoundrel to you, when by his actions he has made you change your attitude towards him but I thing this feeling the way I meant it, is not typical for the people interrelations.
+162	Fear	When a car ran into me. The moment that I felt on the street I thought \This is my end, I am going to die\"."
+163	Fear	When my relatives and I were in a car going slowly on a frozen road.
+164	Fear	Once sitting in the cinema, I became very anxious (watching a \cold\" film). I do not know the reason."
+165	Anger	During the Summer, at my workplace, a person kept interfering with my tasks and making unfounded remarks.  I felt hatred for him but it stopped when I realized that he just longed for attention.
+166	Sadness	I felt very sad when I heard that a friend had committed suicide.
+167	Anger	Last week I had planned to play tennis and had booked a tennis court.   However when I arrived at the university gym the clerk told me that the court was being used for lessons.
+168	Sadness	When I realized that I did not have the basic things needed by a student like me.
+169	Shame	A patient, to whom I had given a powerful medicine, shouted at me in front of many people.  I realized that he did so because he was very ill.
+170	Disgust	I saw a film where snakes were crawling everywhere. I felt them crawling over all my body with that ... skins. The noise that they did disturbed me very much.
+171	Fear	When I was 20 years old, I fell severely ill and was bed-ridden for 6 months.  I felt very scared for my health and my studies.
+172	Joy	I was in ILHA GRANDE with a wonderful sun, with wonderful people, with a wonderful sea, with a wonderful boy.
+173	Sadness	I slept in a tent at the Barracks which caught fire at night and my best possessions got burnt in there.
+174	Shame	When I was a school girl and I copied at a class work.
+175	Guilt	When I triffled with other people.
+176	Fear	Few years ago my father was very ill. He stayed at a hospital for a long time. Then I experienced that terrible feeling that I might lose him.
+177	Disgust	Obscene phone calls.
+178	Fear	Sometime back, my boyfriend and I were having a walk nearby my parent's house. Suddenly we met my grandfather and I was afraid that he would report to my parents.
+179	Disgust	A friend's boy-friend treated her very badly, let her serve him, provoked her and just utilized her.
+180	Fear	My father had been drinking and I feared him when we went to bed at night.
+181	Joy	My joy knew no bounds when I was selected for a job even before having finished my studies.
+182	Sadness	When I learned that two of my friends had had a serious car accident.
+183	Anger	When my aunt scolded me for something I was not responsible for.  A boy had come to our gate asking for me, my aunt went out to see him.  I had neither met nor known the boy.
+184	Sadness	When my grandmother died.
+185	Disgust	I feel disgust with my first boyfriend who made fun of our love in an abominable way.
+186	Disgust	On a trip abroad, a lady-like member of our group turned out to be an alcoholic.  She spoilt many days of my holidays because of her behaviour and paranoia.
+187	Guilt	When I noticed the negative changes in a friend's behaviour.
+188	Sadness	My father suddenly fell ill. He stayed for 3 months in the hospital: the last month on intensive care of the Academic Hospital, then he died.
+189	Anger	Last night - finding that someone in the house had eaten an entire packet of almonds I had bought for a family treat.
+190	Anger	My older brother who gives me unwanted advices about problems in my relationship with my girlfriend.
+191	Joy	When Christmas holiday started, I felt very joyful when I finished my last exam.
+192	Fear	Stopped at lights in Mangere late one Friday night on way home from work. Alone in car when someone came up behind the car and started banging and shaking it. Light was red and had nowhere to go until light changed. When green I took off.
+193	Guilt	When I was about 14 years old, I \borrowed\" a can of drink from á|the refrigerator, intending to replace it later that day. But it á|was found missing before I could do anything - no one owned up to á|its disappearance."
+194	Guilt	I was supposed to have done some things for my mother, but just plain didn't get around to it.
+195	Fear	On a trip to Santander we wanted to stop at a curve because a friend was sick, and the car skidded of the gravel.
+196	Joy	When a person that I like very much got near to me.
+197	Joy	When I passed the B.A exams with first class results.
+198	Guilt	Because I had not studied.
+199	Disgust	The disgust I feel towards a certain person.
+200	Sadness	When I heard that my father had been involved in a car accident in Lusaka.  This happened when he had gone to get the car which had been stolen in Lusaka.
+201	Shame	At the funeral of my uncle, I was one of the bearers.  I was not familiar with the etiquette and acted tactlessly because of my ignorance.
+202	Fear	When I had gone for a boxing tournament which ended at 2 o'clock in the morning.  I was alone on my way back, and I could hear the barking of the dogs, the nocturnal animals and the sound of my     own footsteps.  There had been a rumour  circulating that there were ghosts in that area.
+203	Joy	I am a school teacher. At a teacher-parent meeting I received a good deal of positive feed-back on my work both from the parents and through them from the pupils.
+204	Shame	Insulted by somebody.
+205	Anger	Being subject to unfair treatment in a working group, someone \bending the rules\" was protected by the boss. This resulted in á|more work for the others."
+206	Sadness	When my mother died.
+207	Fear	I was in a camp and went out for a walk at night on my own.  I lost  my way and spent several hours looking for the camp.
+208	Joy	When I passed the first examination that I had to repeat.
+209	Sadness	I felt alone among a large number of people.  I was sad to see that nobody cared about what was happening to me.
+210	Guilt	One of my pupils escaped from school to the street.
+211	Anger	When I saw a big man hit another one, and nobody did anything.
+212	Joy	After watching the 49ers lose game after game, year after year, I was finally rewarded with a Super Bowl victory which made me extremely happy.
+213	Fear	I was on my surf ski. Rather large waves to strong current separated me from my ski and we both began to drift slowly (actually rather quickly) away to sea. The direction I was drifting in was taking me straight over a reef on which rather large sharks were constantly being caught. (I was alone with no one to help me).
+214	Anger	When I was locked out of my room by my room-mate's friend.
+215	Anger	Someone signed up for a workshift at the co-op where I live and she did not want to work the switchboard. I became very angry. She had mentioned earlier that she wanted and needed the workshift to me so I did not sign up.
+216	Disgust	[ Can not think of any situation.]
+217	Joy	I met a friend I had not seen for a long time on the street.
+218	Disgust	I saw a dog who was eating excrements.
+219	Sadness	I felt sadness when my grandfather died.
+220	Anger	Being told that I am a stupid person.
+221	Joy	When I entered University.
+222	Shame	I had promised to lend something to my mother-in-law and I forgot it a couple of times.  When she asked me about it the third time, I was ashamed at my absent-mindedness.
+223	Disgust	I was drinking coffee in a cafe and I found a piece of scrubber in my cup.
+224	Sadness	When I found that my ability to do ordinary work was worse than my fellow mates.
+225	Fear	Finding out in your lecture that a doctor can make misdiagnoses because of ignorance in neuropsychology.
+226	Disgust	Disgust is a feeling that I have never experienced with peoplie but , on the other hand, it has been with repulsive animals, i;e snakes on T.V.
+227	Guilt	I felt guilty when I was robbed of a friend's radio at Lilongwe bus depot after promising that I would keep it safe.
+228	Guilt	My mother always took my side. That brought about quarrels with my father. I knew she didn't like that and I felt very sorry for that.
+229	Shame	I took an exam which I failed terribly as I had not studied.
+230	Joy	When my father was saved from a severe work accident.
+231	Joy	The way this particular girl spoke, behaved, and reacted the first time I was introduced to her, I felt certain that something between us would materialize.
+232	Sadness	When my grandfather died.
+233	Shame	At a weakness on my part.
+234	Sadness	When my mother was operated.
+235	Fear	When I was hitch-hiking and I went with a man who drived like a madman.
+236	Shame	When as an 8 year old, I wet myself in school.
+237	Disgust	Watching an alcoholic woman who was approaching everyone at the wharf for cigarettes - a prostitute in Auckland (elderly).
+238	Guilt	I broke my friend's badminton racket and she kept quiet about it.
+239	Shame	I was watching T.V with my parents and some pornographic scenes came on, I felt uncomfortable and tried to distract my parents attention by talking to them.
+240	Fear	When I was first taken to the dissection room where I found 10 dead human bodies.
+241	Anger	When I was talking to HIM at a party for the first time in a long while and a friend came and interrupted us and HE left.
+242	Guilt	When I broke something and a friend of mine was blamed.
+243	Joy	Hearing Fran Wilde introduce the Bill.
+244	Anger	Sometime back another girl who was in terms with my ex-boyfriend came to shout at me at twelve midnight. It was because she thought I was still interested in the boy.
+245	Guilt	When I caused needless anxiety to a person close to me because of my lack of self-insight.
+246	Fear	I could have been killed by a falling object.
+247	Sadness	Passing away of my father.
+248	Anger	I felt much anger when my fahter interferred in my relations with another person whom I liked very much, ending something that I adored.
+249	Fear	A \near-accident\" in a car, driving too fast on an icy road."
+250	Anger	My father promised me a bicycle for my birthday. Just before my birthday he forgot he promised this to me.
+251	Fear	My 2 year old daughter disappeared in a moment of inattention; I was responsible for her.
+252	Disgust	In a film there was a scene in which a rat was sliding on a bed, leaving a trace of blood behind, finally it entered the mouth of one of the actors.
+253	Guilt	I had promised myself that I would do one good deed every day.  One night I saw a beggar whose muscles had been atrophyed.  I walked passed him thinking that he was feigning.  Later I realized that he had not been pretending and I had a feeling of guilt as I had not kept my promise.
+254	Disgust	When a close friend wilfully cheated me.
+255	Guilt	Telling my parents that I did not get into a good university.
+256	Anger	I'm crazy about football. When my team lost a goal in the Paulist championship, and so it lost the classifications.
+257	Fear	My friend and I planned to search for old documents and utensils in the cellar. It was very late at night when we arrived in the cellar. He indicated the place where the police (40 years ago) found two dead bodies. I got very scared when he told me this story.
+258	Joy	I went home and visited with my family and friends.
+259	Disgust	Saw an arrogant girl walking pass by.
+260	Disgust	We had a birthday party with 5 friends. One of us frequently used hard drugs. On the party I discovered that the other 3 friends also used them. While we agreed we would help the big user to stop using it.
+261	Anger	One winter day I, unwillingly, was outdoors with my younger brother (10 years younger than me).  I lost my temper on him and wanted to throw my brother down the snow bank we were on.  I pushed him but not as hard as I had wanted to. We were alone the two of us.
+262	Disgust	Can't remember any episode of disgust.
+263	Anger	I felt anger at my roommate due to his habit of leaving dirty dishes in the sink and generally not cleaning after himself.
+264	Disgust	I went to eat at my aunt's house and she served macaroni with a horrible appearence. I felt the sensation above. The worst was that I was practically obliged to eat.
+265	Joy	My boyfriend made me a proposal.
+266	Fear	Beaten up by a classmate in school.
+267	Guilt	Low evaluation of other people's cares.
+268	Shame	I omitted to do a favor to a friend, while he was very much in need for help.
+269	Guilt	When my ex-husband left our house, and the children cried because he was not coming back.
+270	Sadness	I felt very sad when I lost my three Kwacha at civo Stadium when Sam Mangwana was playing some Rumba records. That was not what I expected, I wanted some Disco records.
+271	Joy	When last year in college I received the award \Best Student of the Year\", á|  I felt very happy as I got what I had wanted and my wish had á|been fulfilled.á
+272	Fear	I was fearful when I realised that the relish was overcooked simply because I was not keen enough at checking whether there was still enough water in the relish or not, instead I was just playing with my friends.
+273	Guilt	I send a word to my boss through my servant telling him that I would not report for work as I was not feeling well and that the   doctor had refused to give me sick leave.  My intention was actually to go out of Lusaka for a week-end.  I left the same day and the following morning my boss found me in Mongu.  I felt guilty when asked to explain things on my return.
+274	Joy	At a choral concert I appeared as a solist. The concert5 was very good, I forgot all the hard work that had been done before. There remained only an undescribable joy and a feeling of warmth, security etc.
+275	Guilt	Once while playing tennis with my classmate I lost a few tennis balls.  I found one near the tennis court and took it to be mine despite thinking that it might belong to the student in the next court.  I felt guilty.  Later someone came to me to claim the ball and I gave it back to him.
+276	Fear	Almost had a bicycle accident.
+277	Guilt	When I got very drunk and really misbehaved at Christmas.
+278	Joy	My father had an operation which lasted for hours.  We were all very worried but it was successful.
+279	Anger	I am usually angry at myself. This happens often. For instace when I want to pet without falling in love and it soon proves that I have fallen in love with him.
+280	Shame	When I talked to a psychotherapist for the first time, I started to cry; first I talked to him but he did not say anything and after a while I was crying.
+281	Guilt	I felt guilty when I thought that I was still not standing on my own feet.
+282	Disgust	Someone not responding to my criticism.
+283	Disgust	I was disgusted the other day I was told to take off the dog's faeces around the house since they smelled bad I did the job but in the end I felt disgusted.
+284	Shame	I saw a bag on the street and just then a stranger passed by.  I picked up the bag immediately and gave it to the stranger as I thought that it belonged to him.  But it was not his bag and I felt ashamed.
+285	Sadness	Unrealisation of the desired profession (aviator).
+286	Joy	I got an A in anatomy - the first one I have ever gotten in a science class here.
+287	Sadness	Failed an examn.
+288	Shame	None.
+289	Guilt	When I broke up my relationship with my former girlfriend as she would ask me irrelevant quetions about my past.
+290	Joy	I was at school whhen I received a letter from the dean of my school congratulating me for my performance at the previous year's exam.
+291	Anger	During a dance someone slashed my tires and dumped paint on my car. I had four other friends with me that I drove and furthermore it was raining.
+292	Anger	Before the certificate examination I was very poor in Biology (the worst result in my class).  Ever since F.5 it had been getting poorer and poorer.  I had tried my best and had spent most of my time studying this subject.  Finally my results were so bad that I thought that it was just not fair.
+293	Joy	When my special friend said \I love you\" for the first time."
+294	Joy	When I won a tennis match.
+295	Fear	Going to a disco by myself to wait for some friends. We had separated and hadn't planned where to meet. I wasn't sure if they were even going to this place so I felt very conscious of being alone.
+296	Shame	One rainy day when the streets were wet, and as I was walking down a slope, I fell down out of my carelessness.  There were many people and they saw me, so I felt ashamesd.  Moreover I hurt my ankle and it was painful.
+297	Guilt	I had spent the weekend visiting relatives and friends and didn't study for Anatomy class on Monday.
+298	Anger	When I was insulted by a man.
+299	Disgust	When I heard about the disaster in Bophal (India).
+300	Anger	Some classmates said I did not do enough social work. Therefore I was not elected as a \Tree Good\" student."
+301	Shame	I felt ashamed when a friend, I had always respected, insulted me in public.  He was drunk.
+302	Fear	I was nearly knocked down while I was cycling.
+303	Fear	When I entered the operation theatre and underwent a difficult operation.
+304	Anger	When, after having cleaned up the kitchen, two hours later I saw that there was a big mess. It irritated me very much.
+305	Shame	When I was in the toilet and someone came in.
+306	Anger	At home when they lost three pieces of my puzzle.
+307	Disgust	Being in a Malaysian city with my girlfriend coming out of a picture theatre - seeing her rush up to a taxi that a very old sick man was trying to get to. Seeing her take over the taxi.
+308	Joy	First time I slept with my present girlfriend. Had been best friends for a year but had been hesitant about getting involved emotionally.
+309	Anger	A co-worker and I had to rush a project. I was only working there for one month and he for some years. Instead of letting me know that he wanted to do the project himself, he went to the superviser and let the superviser tell me to let the co-worker do it himself since he was quicker at it.
+310	Fear	The week before I entered to army, when we were being selected. During 5 days I had to pass 10 hours a day waiting for the answer, which at last was the worst. The fear of being convoked, of hearing the fated phrase, was constant.
+311	Fear	Walking through campus at night a squirrel jumped in front of me.
+312	Fear	During a football game I made an offence towards an acquaintance. Later on this acquaintance also tackeled me and the game became very rude.
+313	Shame	A truth expressed unthinkingly at a coffee party.  I realized later that I had been inconsiderate, at a wrong moment and the wrong place.
+314	Joy	The day I finished my military service.
+315	Shame	When I had my first sexual relation and it didn't work.
+316	Joy	Receiving a letter from a boy I care.
+317	Fear	A few weeks back I had a very important seminar and I had circulated my papers to all the panel members.  A day before the seminar I realized that I had inadvertantly burdened certain       derivations and I had failed to correct it.  I feared that this    would reflect very badly on my performance.  Fortunately none of  the panel members detected it and I felt relieved.
+318	Guilt	A friend came to visit me and I was not there.
+319	Disgust	When I was giving private tutorials to my student; he would not concentrate and was lazy.  He had not done the home work that I  had assigned and his academic level was very low.  It was a nuisance.
+320	Anger	My girlfriend started singing (she cannot sing) and did not stop despite my asking her to do so.
+321	Joy	The high school entrance exam.
+322	Guilt	I promised to join a meeting but did not turn up as I did not want to do the work.
+323	Guilt	While trying to get my little brother over a ditch, he fell on his head and started crying.  I was scared of having caused him permanent injury.
+324	Guilt	Once when I complained I caused a great discussion between my parents.
+325	Shame	After our sad first of May party, I felt ashamed because the friends who had been invited had to suffer.  We, the organizers of the party, did not drive the intruders away.
+326	Anger	When my brother-in-law's brother stole my clothes when my brother-in-law and I had gone to cut wood for the fire.
+327	Guilt	I spread abroad an intimate secret.
+328	Fear	I thought that I would be scolded for a comment I had made, which I should not have made.
+329	Disgust	A saturday night a bus full of drunken people.
+330	Sadness	Not getting on with someone of my classmates in high school.
+331	Fear	When I was a child, I had a nightmare. At that time, I was not yet able to tell anybody about it, so I was very frightened. I could not explain myself all that and I had to deal with it by myself.
+332	Anger	Someone borrowed my textbook and deliberately did not return it.
+333	Joy	After a long time (of no communication with him, physical illness and worry) my lover came to see me, when I least expected to see him.
+334	Anger	A certain boy came into my room and started telling me that I was not pretty, that I had no manners and that I should learn some.  I had just come to campus and he was in fourth year.
+335	Shame	I experienced shame when I failed to keep a promise to meet my friend at the bus depot. He later came and asked me why I had not turned up.
+336	Shame	This was when one of the Clinical officers scolded us in the hospital on how to make beds but we did not deserve to be scolded.
+337	Anger	When the person I am going out with let me down in a situation that I was depending on them, and didn't show respect or care.
+338	Joy	Finding out I am chosen to collect norms for Chinese aphasia (I will contribute to China's catching up with the West in neuropsychology).
+339	Guilt	Meeting a male friend with whose wife I was having an affair.
+340	Sadness	Watching a football game. This remindes me of the time when my father was still alive and when we watched football games on TV together.
+341	Joy	I took a math midterm and I knew I did really well and it was Friday so I felt great joy because the week was over and I did well on a test.
+342	Guilt	When my niece was 3 years old she was in the living room while we were fixing the table for a birthday party and, as every child, she couldn't stay calm. She burst a balloon. When I told her to be quiet her father pinched her. I believe if I hadn't said anything this wouldn't have happened.
+343	Shame	When I dated my friend's boyfriend after they had broken up.
+344	Fear	I have been afraid several times. What marked me was that I almost didn't enter University.
+345	Guilt	I borrowed money from a friend and did not pay back the debt when I said I would.
+346	Sadness	The inability to read a book at college.
+347	Anger	When I used to go to my chief asking about any doubt about the job and he didn't care, didn't answer me, leaving me speaking alone.
+348	Disgust	The stories about my aunt who was beaten and humiliated by my uncle.
+349	Shame	When I got very low marks in one of the assignments.
+350	Joy	When I finally got a job after days of wondering whether I would be hired or not and counting on the money that it would bring.
+351	Joy	Time had struck 8 o'clock when I heard from the radio that I had been selected to Robert Blake Secondary School for Form I. I was very happy for the selection. My parents and I were very happy and full of joy.
+352	Joy	Easter holiday - I had been working weekends and had just left.
+353	Joy	After my girlfriend had taken her exam we went to her parent's place.
+354	Disgust	When I was working, I got treated in a way which I felt was not democratic.
+355	Sadness	Watching an old lady running up the street to catch her bus and miss it, it reminded me of my own mother and how dreadful it would be to be her in the same situation.
+356	Shame	I ride my motorbike in my village and everyone stares at me as if I was a rare specimen.
+357	Joy	In Southern Tyrol, I was gathering apples, it was a fine day, I was not thinking about anything, I felt an overwhelming joy.
+358	Shame	When I woke up after a night of drinking I couldn't remember and discovered several untoward things had occurred.
+359	Fear	My episode of fright happened when I came to study.  I had to stand in front of my still unknown fellow students and talk about myself.  My hands shook, I flushed and became tongue-tied.
+360	Fear	Disappointment over a friend.
+361	Shame	When an intimate friend of mine passed B.A with first class and I got only pass class.
+362	Disgust	To go through the underground way at suburb station of LAPA. Poor people and the ambulants badly dressed up in a passage badly kept.
+363	Shame	During an informal discussion I contributed a lot even though I had not spent much time studying.  Whenever someone said that someone was not paying attention, or that he had too many other things to do, or that the persoon was not trying his best, I would feel ashamed.
+364	Guilt	I told my elder brother that he was irresponsible and that I did not care for what he did because he was teasing me.
+365	Joy	On my 18th birthday I passed the driving-test. I was glad because I had had to study very much, because I had been lucky and because - as a proof that it was really difficult - not everybody had passed the test.
+366	Fear	My friend started to misunderstand and hurt me.
+367	Anger	When I tried to breake it up with my boyfriend, and he refused to let me go.
+368	Shame	[ ....has not really happened.]
+369	Anger	When a thief broke into my house and stole some valuable goods.
+370	Shame	When I was given detention at secondary school.
+371	Disgust	When I failed the  grade 7 exams.
+372	Anger	When my sister broke my china tea set.
+373	Disgust	I felt disgust when I realized that I had eaten something fatty, and vomited too much.
+374	Shame	When I let my girlfriend use my essay to help her to write hers and the tutor found them alike.
+375	Disgust	When I failed to secure employment after my form 5 in Lusaka despite my excellent certificate.
+376	Sadness	Last year, when I took the college entrance examinations I failed the FUVEST. It was for me the most frustrating situation because I had studied all year long, and only thought about this.
+377	Disgust	I was shopping in Utrecht with friends, we also ate some chips and snacks in a snackbar, then we saw a shabby fellow. He took a cold half eaten croquette (a snack) from a rubbish bin and eat it.
+378	Shame	Making bloopers: e.g. telling something negative about a certain person, while that person is standing besides you and hears everything.
+379	Shame	I just opened the bathroom without knocking not knowing that someone was bathing inside, it happened to be my father.
+380	Fear	I was in Sierra Nevada, climbing a peak over 3,000 metres high, without any light and with many other problems.  I was afraid for my life.
+381	Disgust	[ Do not remember any incident.]
+382	Guilt	I was on a visit to friends who have a baby. The baby was crying in another room, but soon it became quieter and it seemed that it would fall asleep. I went into the room where the baby was lying - and it started crying again.
+383	Disgust	A few days back I was waiting for the bus at the bus stop.  Before getting into the bus I had prepared the exact amount of coins to pay for the bus fair and when I got into the bus I put these coins into the box meant to collect the bus fair.  I thought that I had paid and wanted to get inside.  However the bus driver called me and asked me in an impolite way if the coins were stuck at the opening  of the box.  He had not seen me paying and there wasn't a stack of coins in the box.  I could not understand this and the driver kept questioning me.  He made me feel angry and at last i inserted a dollar coin in the box just to get away from him.  Later I found that I had forgotten a few coins in my pocket and had not paid enough for the fair the first time.  After I had entered the bus I could still hear him scolding me and I felt disgusted.
+384	Anger	I once was accused of falling in love with someone's girlfriend which was not true because the girl was just a friend of mine.
+385	Sadness	It was shocking news to me when I received a telegram from home telling me that my grandmother had passed away. I had to go home to attend the funeral but unfortunately I found that the burial had already taken place.
+386	Fear	Finding out that my health condition may be against my attending university lectures.
+387	Joy	Receiving understanding from within self of a subject I had previously wished to understand better.
+388	Fear	Almost had a bicycle accident.
+389	Guilt	Once, when I arrived home very late, my parents had an argument because of this; my mother wanted to stand up for me.
+390	Guilt	When I spoke ill of a fellow worker in the absence of this person.
+391	Disgust	Was picking up my father from work and on passing through the Valley watched three prostitutes walk up and down waiting for someone to pick them up. Clothing was disgusting.
+392	Shame	[ No response.]
+393	Shame	China cannot let you give more lectures because you are needed in the specialist clinics. We are so backward in medicine.
+394	Sadness	A friend of mine could not make it back to Unza after having failed the exams.
+395	Joy	When I met a good friend of mine after a long time.
+396	Guilt	The cat of my landlady escaped through the window which I had left open.
+397	Joy	When I felt that my love was returned.
+398	Disgust	Sitting in the dorm when the guys were verbally reading letters in Penthouse.
+399	Anger	I saw in a movie a block on which affluence and poverty existed. I saw that the rich made no attempts to help the poor.
+400	Joy	My first kiss.
+401	Anger	I told my boy friend not to park in a certain place because the car would ger towed away - he didn't listen and it was towed away. At that stage, our finances were below the poverty line & it cost us $10.00 - all the money we had to get us through that week (including rent).
+402	Guilt	I made an appointment to pick up someone. However I arrived too late and she had to wait a quarter of an hour.
+403	Guilt	While intoxicated I damaged my sister's car in a minor way and someone elses in a minor way.
+404	Disgust	[ No response.]
+405	Shame	When I confessed to my girl-friend (now my wife) that I had betrayed her with another woman.
+406	Shame	After a party in which I made love with a boy in public. Later on I heard that others were talking about me and called me a slut.
+407	Disgust	At a party where the boys were telling revolting stories about the girls they'd been with.
+408	Anger	Recently when my sister, who is four years younger than me and very spoiled, shouted at my mother for no apparent reason .  The heart-broken expression on my mother's face made me feel very angry.
+409	Sadness	When I was younger I was very good in apparatus gymnastics. I always won in competitions, but once I was only at the fourth place.
+410	Fear	In the real sense of the word I experienced fear in my first months in the army. During my first night of duty. The cause for all this was a bear. I became panic sticken (may be for the first time) and even forgot that I had a gun.
+411	Disgust	I saw the gare of a prison.  This gare and the building were in deplorable condition and were full of rubbish.
+412	Guilt	When I don't go to my parents on Sunday and phone them to tell them that I have to study. The truth is that I listened to sports on the radio.
+413	Joy	When I got my drivers licence.
+414	Shame	When my mother found out that I smoke maryhuana.
+415	Disgust	This was when I saw, for the first time, a naked woman (prostitute) run away from a house after having been discovered by the guardian.
+416	Anger	When someone stole my bike.
+417	Anger	When others let me down, fail to keep agreements.
+418	Guilt	Yesterday my boyfriend and I wanted to play billiards. However there were boys playing (5 times). My boyfriend then is fed up and chagrined. In such case I think it is my fault.
+419	Disgust	Once when I was studying for my examination, I was asked to do some work which was unavoidable.
+420	Guilt	I had known the girl for a few months when I proposed to her and this put an end to our friendship, as from then on we started withdrawing from each other.  I liked her very much.
+421	Anger	When my dress was stolen.
+422	Sadness	Day time robbery of our house.
+423	Sadness	When I was betrayed by a friend, and decided to stay apart form her.
+424	Sadness	The person whom I liked most left me for a friend of mine, after several months of mutual help and a profound knowledge of each other.
+425	Joy	When I recently got a very positive answer from a clinic telling me that they would willingly assist and collect data for me for a clinical pilot study.
+426	Sadness	When I was left alone one week-end without being prepared for it.
+427	Joy	The weekend after I argued with my parents I went home again and they couldn't have been nicer. As soon as I walked in, Mum kissed me, then Dad, and thanked me for the birthday presents I'd left for him, including a very sentimental birthday card.
+428	Sadness	The death of my grandmother.
+429	Anger	Finding out about some girls who have been nice to the class leader in order to go to the neuropsychology lectures (English ones).
+430	Joy	I spent a lovely relaxing evening with my boyfriend. We played games and talked all evening.
+431	Sadness	Last year when I worked during the Summer holidays and studied at the same time for an examination I had to repeat; my boyfriend went to Greece for a holiday for a month.
+432	Joy	I wanted to go out to walk but I didn't know either where or with whom, suddenly an invitation appeared.
+433	Fear	Left alone in the biology building surrounded by empty buildings.
+434	Joy	I felt joy when I saw my daughter after a separation of twenty days.
+435	Fear	Recently my younger brother disappeared for two days without leaving a trace. Usually he tells me when he wants to do something like that, therefore I was afraid that something had happened to him.
+436	Fear	I was walking from my friend's house, a few blocks from my house, when a car began to follow me. He waited I passed by it rotateed a little and stopped on my way. I changed completely my way and the car went on following me until I turned at a corner and running I hid in a garden of a house, waiting for the car to pass by. I went back home terribly afraid.
+437	Guilt	Eating too much I felt guilty afterwards because I knew I shouldn't have overeaten as I'm putting on too much weight.
+438	Guilt	I forgot to lock the outside door at my Land Lady's place.
+439	Fear	When I was looking for a job I felt a lot of fear but the fear was greater when I found it.
+440	Fear	I was a passenger in a vehicle when suddenly another vehicle came from behind to overtake us.  However another one was coming right in front so the other vehicle changed course and blocked our way and so we crashed against the side of the road.
+441	Disgust	I saw in an ice-cream kiosque a cockroach walking through a cornet.
+442	Anger	Somebody was blaming me of a story which was not real and not true.
+443	Shame	When a soppy poem that I had written to a boy was found and every one read it and started teasing me about it.
+444	Sadness	My best friend got married and left her home-town to go and live in Poona.  After her wedding I felt sad.
+445	Disgust	When I discovered my mother had been having an affair with my father's best friend, and then ran away with him without even speaking to me about what she was doing letting me come home from school simply to find her gone. I was filled with disgust and contempt.
+446	Joy	During my high school time I succeeded to play a concert of Mozart on the piano when I gave my first performance I succeeded to play it very well.
+447	Joy	When the results of the part I exams came out I felt tremendous joy in my heart.  The results came out after a long period of worry and anxiety, so it gave me endless relief and joy.
+448	Joy	My sister had a daughter. I saw the baby for the first time through a pane of glass and she looked at me.
+449	Anger	When I was concentrating on my work, my friend disturbed me continously.  I asked him to stop but in vain.
+450	Anger	At the end of my holiday job I got less money than was due to me and nobody mentioned anything about that.
+451	Guilt	Remembering (at the time I did not feel guilt) in recent yrs. how angry I would get when I was babysitting my new brother and he would not stop crying. I did not do anything harmful or shocking. But I feel guilty for treating him the way I did especially since I adore him now. That's why I spoil him now.
+452	Sadness	A friend's mother died.
+453	Guilt	I was alone at home when I broke a figure and then mended it.  A few days later my mother noticed it and asked me about it, I told her that I had no idea.
+454	Joy	When India won the Prudential cup by beating West-Indies in the final match and became the world cricket champion.  West-Indies was the strongest of the eight countries which participated in the competition.
+455	Fear	[ Uncertainty about my own abilities in an exam.]
+456	Anger	One day I had sunned my favourite shirt and was putting it back in the wardrobe when my younger brother snatched it from me and wore it.  He had not had a bath and was very dirty.  I scolded him but he answered back and locked himself up in a room.  I was very angry so I starteed kicking on the door and abusing him loudly and freely.
+457	Joy	When Wayne and Sue (close friends) were announced our guardians at ther wedding.
+458	Sadness	[ I feel sad when somebody is unjust to me.]
+459	Sadness	I realized that the girl I loved had to leave me.
+460	Shame	Caused fault in V.C.R. by not following instructions carefully.
+461	Disgust	When I was studying in the library a pair of lovers were sitting next to me talking in an intense and soft voice.  They were disturbing others.
+462	Joy	After making an effort to enter at University I found a course and a school of higher education which were compatible with my experience and potentiality.
+463	Joy	Receiving a very personal letter from a lady that I like, which revealed that she was more enthusiastic about me than I had thought possible.
+464	Disgust	In a disco, there was a dirty little chap who punched my bottom.
+465	Guilt	When I didn't study for tests in High School. In particular  remember a physics test. I didn't study because my friends talked me out of it and we did something else boring. I felt so helpless just being there - then guilt set in because I was very close to getting an A in the class.
+466	Sadness	Summer, heavy rain, storm - I was standing with my face stick to the window: the childhood, something was going away forever this summer, I was leaving my home, I was going to study in another town, for the first time I was leaving my parents, friends, I had to manage myself, a long and loved period of my life was over - I was crying.
+467	Joy	I sensed this feeling when I passed successfully the second tour of a competition.
+468	Joy	When I had a good result in the certificate examination.
+469	Disgust	[ This is an everyday feeling.  Many situational events : causes are unclean and dirty environment, illiteracy, poverty and neglect of human resources, disgust at the lack of perception on the part of us ( educated few) for the lack of drive and drive towards their redemption. ]
+470	Guilt	Beating my brother up.
+471	Shame	A young visitor to the house stole money from an elderly visitor's purse. It wasn't noticed for some hours.
+472	Joy	When I knew the feelings of a beloved person.
+473	Disgust	In a park near our home, a group of young people who were strangely dressed were seated in the middle of the street.  They began to eat while carressing each other.
+474	Disgust	Saw my father with that woman he is married to now.
+475	Anger	I always get angry when somebody deceives me, or tries to conceal his lie skilfully and this offends me even more.
+476	Sadness	When my uncle died.
+477	Disgust	Saw a dead rat on the street.
+478	Disgust	When I visited a creche. The conditions weren't too precarious but the children were in conditions of physical and emotional penury.
+479	Guilt	I wasn't able to see my girlfriend on her birthday and because I was late arriving home from uni, I didn't phone her as arranged at a certain time (she rang in the meantime).
+480	Guilt	I was at school and afterwards went to work. After work I went to see a friend and stayed out late. when I got home my mother was awake and I felt guilty.
+481	Joy	The time when my sister had her first baby I was so happy and joyous because she stayed for two days after marriage before she had a child.
+482	Fear	When I had my first oral examination after a long time; especially one day before the examination when I had the feeling that I had not studied enough and had not enough time to make up for it.
+483	Guilt	When I was starting in romance with my husband, we went out to curt, and we stayed in the car \making love\". At the time I was á|seventeen and I was very immature until a day I lost my á|virginity."
+484	Fear	I lost my way on a trip in the mountains.
+485	Fear	When I was stopped by plain clothes policemen because the car I was driving had overturned on the Avenue.  I had been driving too fast, and I was afraid when I was stopped, questionned and then toild to go.  The situation ended happily since there were no consequences.
+486	Guilt	NO RESPONSE.
+487	Joy	I liked to see off my aunt (from Zaire) to the airport. That appeared to be impossible because I had to go to school. For long time I wasn't sure if I could accompany her. Two days before the departure they told me I was allowed to miss school.
+488	Shame	I cried for 3 hours because I felt very miserable. Then I called my boyfriend and he said lovely things to me. After this feeling disappeared I felt ashamed.
+489	Sadness	Since I moved into the dorms and I've been spending most of my free time with my boyfriend. I hardly see my old high school friends. I had several bad incidents with my 2 past best friends.
+490	Anger	When I learnt that my younger sister had been expelled from secondary school because she was pregnant.  That was the second time that this happened in the family - the first time it had been my elder sister.
+491	Guilt	That I didn't take the time to make an appointment with someone.
+492	Joy	When I passed standard 8 exams I jumped, rolled over the ground.
+493	Anger	I was at the corner shop, which I patronise regularly I had only a $ 50 note and I purchased about $ 3 worth of goods that I really needed - the keeper made sarcastic remarks to others about people using him to cash notes.
+494	Shame	Truely, I got very ashamed when my brother was sent out of Business Machines Limited Company due to improper handling of the office equipment in Sales Services.
+495	Disgust	When I was getting up, I found a live cockroach in my bedroom.
+496	Anger	Had an insulting letter from my father.
+497	Guilt	Made a mistake at work.
+498	Joy	I went for a walk on the beach with a friend whom I had not seen for many months.  The weather was very pleasant, we had some ice-cream and lots of fun on the beach.
+499	Disgust	Viewing the nuclear war film \Threads\"."
+500	Disgust	At the crowded conditions of living.  I always quarrel with my elder brother as he puts the T.V volume at a deafening level and I can not practise my piano lessons.  Thus I feel that my home is disgusting.
+501	Anger	When I wanted to talk to someone I liked and whom I have been told likes me (by his brother and even by himself) however he avoids any confrontation, and is vague.
+502	Anger	I had an exam and I had it well prepared.  I did the first part very well but did not know the second part.
+503	Guilt	I hapened to overhear something which I was not meant to hear.
+504	Anger	A friend of mine played a joke on another friend over the telephone.  This friend, crying, called me and I got very angry and made the other person apologize.
+505	Anger	My ex-boyfriend began to date my best friend. After they had been seeing each other, I found out that he had been sleeping with another girl, without my friend knowing, I told my friend what he had been doing behind her back.
+506	Sadness	A and I were walking along the new Asia stairway to the Chung Chi college for our lecture and I saw him with her.  He put one arm around her shoulder and laugher brightly and joyfully.  I did not dare and did not want to look, just walked by them quickly.  The interest of talking to A disappeared and I just wanted to remain silent.  But I did not want A to know and so I left him and went to F.  I should have expected this to happen.
+507	Sadness	I remember that when my mother died the day was sad and every time I think of it I am saddened by the loss of my mother.
+508	Fear	One night I and my friends went to the cemetery. We stopped the car in front of the wall and suddenly the grave digger appeared over the wall looking like a ghost. I was already afraid and almost died.
+509	Shame	In the past I experienced this feeling almost all the time - wherever I went, in different sutuations. I was small and I had to be taken to kindergarten, but me the fool didn't dare to tell exactly where, finally as a result I was late.
+510	Fear	I was seven years old and swimming outside the flags at the Gold Coast. I was caught in a rip and taken out about 100 m. I couldn't swim too well, but an older friend (17) swam out and saved me.
+511	Disgust	In ward 2A there was a patient suffering from Syphilitic Paraplegia and had pressure sores. The wounds had offensive smell that only a few people .... the place.
+512	Guilt	My son drank four pills of diazepam every two hours instead of amidophen.
+513	Joy	After a long time I saw my boy-friend again.
+514	Joy	When the girl with whom I am in love smiles at me.
+515	Sadness	Several years ago my brother died in an accident. When I heard about it, I was very sad. It took years until I resigned myself to it.
+516	Joy	When my nephew was born. The birth was hard, it was a big baby.
+517	Joy	Meeting an old friend from high school.
+518	Sadness	My current work load is too much.  The feeling comes back from time to time.
+519	Joy	Having passed an exam.
+520	Fear	I am afraid of my academic results as I will face several problems.  I am scared of my limitations and the unlimited problems and I do not know how to cope with them.
+521	Sadness	When my boyfriend almost had a relationship with a close friend of mine.
+522	Joy	I felt happy when my mother gave birth to a son who is the last born in the family.
+523	Shame	I choked on a cold drink in front of girls who were strangers.
+524	Shame	When I was doing my homework at home, some relatives came and advised me to help my mother do the house-work.
+525	Guilt	One day at school I had quarrelled with a school-mate, and ultimately I had hit him hard.  He, being physically weak had to visit his doctor and remain absent from school for two days.
+526	Sadness	The loss of my father as he died of a massive and sudden heart attack.
+527	Joy	When a friend of mine had her period, while thinking she was pregnant.
+528	Anger	One day in a crossroad somebody crashed my car. I got out and this person laughed at me. I felt such a great anger that I got in my car and went away.
+529	Sadness	When my grandfather died.
+530	Sadness	Leaving the house myself and a female friend had shared for 6-8 months because of the friendship which developed and our approach to each other in occasional instances of several personal crises.
+531	Joy	When I was admitted to the Bulgarian State Conservatoire.
+532	Fear	I was bitten by a dog.
+533	Fear	When I first came to the UNZA I did not know the kind of people I would find here and the kind of behaviour they would have towards me.
+534	Fear	[ No response.]
+535	Guilt	I felt guilty when I once went out with another boy and made love with him while I had a close boyfriend.
+536	Shame	On New Years eve I drank too much alcohol, so much that I had to vomit in the presence of other people.
+537	Fear	When I slept for the first time all alone in the house where I live now. A man phoned me at 2.00 am. He wanted something from me. I was afraid.
+538	Anger	[ When bad and disgusting language is uttered by people, or when someone tries to show what is beyond his own capacities.]
+539	Disgust	In a bus I fell sick and vomitted in a bag.  The entire situation was disgusting in itself.
+540	Shame	One day I was supposed to go to a movie with my boyfriend. In the morning I went to see my Auntie and I didn't come back up to evening.
+541	Disgust	When my grandmother came to stay with us permanently as she is a very difficult person to stay with and when she started telling false stories about us to other people.
+542	Joy	Winning Queensland Chess Championship.
+543	Disgust	I witnessed a scene in which two women were abusing each other.
+544	Anger	When you kill yourself with work and see the number of slakers wandering around, doing nothing.
+545	Sadness	After having been ill, when I was coming back to the hostel, I felt very sad leaving home.
+546	Shame	When I had to go to the gynecologist and to sit on that special chair, I felt ashamed.
+547	Shame	I felt shame when I didn't study enough for my exams and as a result I failed. I then invented idle stories to talk it good for myself and the others.
+548	Sadness	When I had to move away from home to study, and I knew that I would not be coming back home for a long time.
+549	Fear	When my exboyfriend threw me around the dorms because I was talking on the phone to another guy of whom he was jealous, after we had an argument in which I thought we broke up.
+550	Joy	Passing an examination, although I felt sure I had failed.
+551	Guilt	In the begining of teenage, on the matters of sex - speaking about sex.
+552	Anger	I feel a strong anger when I am treated unjustly.
+553	Anger	The landlord had selected a new lodger on her own, while we used to do that it was not what she had done, but how she did it that made me angry.
+554	Shame	My father was a member of the public Alcohol and Drugs Board, when I was picked up by the police for being drunk in a public place.
+555	Joy	For a few days I felt very miserable, distressed and listless, with crying fits. When this was over I felt very happy, although there was no special reason.
+556	Guilt	Make a mistake, offended my friend.
+557	Shame	When I dropped a bottle in the state liquor store and everyboby started laughing.
+558	Shame	In my 20s - and was going out to dinner to celebrate a friend's birthday. Her (older - in 30s) cousin, really wanted me to get drunk cos I'd visited their (cousin & wife) place quite a bit, but had always been very careful - brought up to believe in moderation in drink (but not guilt repression etc). I mixed drinking with smoking (which I rarely did) and got drunk and had to leave the table to get sick in the loo, and later went home and was sick again; have never felt so awful in my life. And I didn't want to face or tell my other flatmates, or family.
+559	Fear	When I took the first year university exams and made a lot of mistakes in the P110 exam.  I was afraid of failing and thus being unable to go to the school of medicine.
+560	Joy	I received a letter from a friend whom I was missing
+561	Disgust	When I went home by train from Sicilia, I was molested by a man.
+562	Joy	I felt it when on duty in the hospital I understood that I was not afraid to face death, that I also helped a little to relieve the pains of a patient.
+563	Shame	My article not chosen by the college newspaper
+564	Anger	When I learnt that a friend of mine had talked about me to another friend and had said wrong things about my abilities and attitudes.  I was very angry.
+565	Anger	In a confrontation with a person, he provoked me several times till I reacted in an angry way.  Fortunately there were no disastrous consequences.
+566	Joy	Realizing one's desire, an experienced feeling of satisfaction from the realization of one's desires and aims.
+567	Anger	When, after a week at school, a teacher sent a note home saying that my son was inattentive and unable to do his lessons.
+568	Shame	This situation happened when I was found kissing a girl who was my friend's girlfriend.
+569	Fear	When I went to town in a double dekker bus.  The bus was about to fall on the way when the driver controlled it.  It had almost fallen.
+570	Shame	When a certain girl I believed to be my life partner refused an engagement.
+571	Disgust	I was an instructior in a youth organization.  Whenever we, the instructors would have a meeting the advisor would be present.  He did not understand our worknig conditions but talked a lot and had a lot of outdated ideas.  Whenever we disagreed with him he was very discontent and said that we had a prejudice against him.  Why did he have to treat us as his subordinates ?
+572	Disgust	When a boy whom I refused to be my lover told all his friends that I was his girl he has refused me because I was not faithful to him.
+573	Sadness	When my grandfather died.
+574	Joy	I got a very good grade on one of my midterms a few weeks ago.
+575	Fear	Once when I crossed the street, and was nearly trampled by a car.
+576	Guilt	When I was bluffing in front of my mother to get more money.
+577	Shame	Watching TV about china is behind in winning gold medals.
+578	Sadness	When my grandfather died, with whom I had a very close relationship.
+579	Anger	Not being alowed on a school camp with the class I'd been in for 11 years (I had stayed down due to illness)
+580	Sadness	When I got a message that my child was not feeling well.
+581	Sadness	When another fellow worker decided to leave the company. We had been very close and we would not be able to work with eachother any longer.
+582	Shame	I was ashamed at being the only one to have got a C+ in ED120 assignment.
+583	Joy	When I called my boyfriend he asked me if I would live with him.
+584	Shame	Once I spoke without thinking very much - it was quite a nonsense.
+585	Fear	I'm afraid of not being able to go to the school I want because of suffering grades.
+586	Sadness	My father died. I was away at the time and did not know until two days after.
+587	Guilt	I had undertaken to help my sister for her class work but some unexpected circumstances prevented me from doing that.
+588	Disgust	Saw someone spitting in public.
+589	Guilt	I beat my young sister because she refused to wash plates. She started crying and I felt sorry and guilty for what I did.
+590	Anger	When I had a serious argument with a dear person.
+591	Guilt	Forced to fill in a questionnaire.
+592	Joy	As the time to get the results drew near I became more and more anxious.  My friend called me and said, \ You have passed.\"  My á|heart was full of joy."
+593	Joy	My father promoted to be a professor.
+594	Anger	My grandmother is a highly authoritative person, who lives alone, is independent, but doesn't know to live without commanding the others. I hate this!
+595	Shame	In primary school I once faltered while answering a question and the others started laughing.
+596	Shame	My father who is very quiet discovered I was going out with a coloured boy. He called me names and was really upset.
+597	Joy	When I was accepted to study at this school I was very happy.
+598	Disgust	In a study group, a person always liked to argue on some unimportant, irrelevant and minor points.  He tried to persuade    others in an unfriendly way.  He was obstinate and would not accept  other's point of view.
+599	Sadness	My old teacher in primary school died.
+600	Fear	Suddenly met someone in the biology building at night.
+601	Sadness	When my cousin passed away during the holidays at home.  He fell ill at night and the next day he died in the evening.
+602	Guilt	I felt guilty of having suspected my room-mate of stealing the money last term.
+603	Shame	I was very fat and felt absolutely unwell. I was afraid of leaving the house and getting to know new people.
+604	Joy	Six months ago when I got acquaintanced with a person whom I trusted infinitely and from whom I expected help and friendly feelings. With him I found much in common - in our views and in our fate.
+605	Anger	I was most angry when India lost the Triangular Cricket trophy held in Australia.  I was so angry that I fought (orally) with my friend.
+606	Joy	When my brothers had passed all of their exams and were able to  graduate from their courses.
+607	Guilt	I dreamed that this girl and I were cuddling in bed when my girlfriend walked in. I really love my girlfriend so I felt guilty and sad. I know that this is a wierd example but the dream and the feeling was clear to me as if it had really happened.
+608	Sadness	My best friend suddenly acting strange towards me.
+609	Guilt	When I shirked the gymnastic lesson I met the director of our school who asked me what I was doing.
+610	Guilt	When I lied to my mum, who later came to know that what I had been teling her was false.
+611	Fear	[ I was thinking about death.]
+612	Disgust	Seeing a person panhandling money on Telegraph.
+613	Guilt	Being catched when stealing.
+614	Fear	In Sweden, a friend and I lived in an appartment owned by a Finn.  One day, this man came back to the appartment heavily drunk (hashish and alcohol).  He was quite dizzy and he broke down, and I could not foretell his reactions.  However, nothing happened.
+615	Anger	Anger with boyfriend's best friend for alienating me and blaming me for personality changes in my boyfriend and changes in my boyfriend's attitude to him and his obvious egoistical attitude himself in doing so. I also lost one of my best friends - his girlfriend.
+616	Shame	I told some acquaintances of mine something that I regretted later.
+617	Guilt	When I hurt my sisters for no reason at all.
+618	Anger	Being treated unfairly.
+619	Joy	I had a little cat which was very sick. As I liked it very much I went to a veterinary with it. He told me how to tend it and it really recovered its health. Everybody said that I had saved its life.
+620	Anger	I could not find my monthly tickets for the bus when I was on the bus.
+621	Fear	When I nearly collided with another car.
+622	Anger	When I was dancing with a dame at a social, one of my friends who  was interested in her came and took her away from me.  I was really angry with him then.
+623	Anger	When I found out that the guy I was dating at a particular time had a steady relationship going on with someone else for a long time.
+624	Fear	When I was first exposed to the dead bodies, for dissecting        purposes at the school of medicine.
+625	Joy	The joy came to me when I heard that I was going to start a Medical course at the Lilongwe School for Health Sciences.
+626	Anger	I missed the train and had to wait for the next for two hours. For this reason I missed an appointment which had been very important for me.
+627	Fear	While drinking a soft drink, I had the impression of swallowing   a piece of glass so I went to the district hospital and got admitted there.
+628	Fear	After a motor accident (I was the frong-seat-passenger) I spit blood.
+629	Fear	I felt a physical fear, if I can call it this way, today, in the bus where I was sitting on the first seat. While turning the driver didn't see the tram which was making a dash towards us (coming from the side I was), and whose driver intended to cross in yellow light.
+630	Fear	A rainy day, I was cycling downhill and a car door suddenly opened and while trying to avoid it the back wheels of my bike got caught in the tram tracks.  I somersaulted but had no injuries.
+631	Sadness	I saw a lot of starving people in a T.V news report.
+632	Anger	A few days back a friend of mine poked me in the ribs for fun's sake, though I had warned him an infinite number of times that it really hurts me, he did it again.  I usually ignore this but this time I flared up for a split second and threatened to bash him up.  This is the latest incident when I lost my temper, though I felt very bad about it later.
+633	Fear	When my sister had the still born child, she was emotionally very deep down, and it took her a long time to recover.
+634	Joy	Every year during carnival I am very joyful I have an intense feeling of happiness then.
+635	Guilt	Squeezed the puppy in the door.
+636	Anger	Going away for the weekend, leaving my College room open - when I returned several friends had had a party there, leaving the mess.
+637	Anger	My best friend at school told lies about me to a boy I was seeing and went out with him herself.
+638	Shame	[ Never experienced.]
+639	Disgust	When I found out how the people of Ethiopia were starving and their government was spending millions on celebrating being in power so many years. Then I saw all these people on TV needing food, etc.
+640	Joy	I was happy to hear that my sister had won a prize at running competition.
+641	Sadness	When my boyfriend did not turn up in time as he promised he would be coming.
+642	Anger	I get angry with people who attain certain status without deserving it, only with the support, authority and influence of other people.
+643	Fear	I woke up in the middle of the night of a nightmare, I was alone, it was very quiet and very dark.
+644	Fear	One night at three o'clock I was followed by a cardriver, who tried to molest me.
+645	Sadness	My son's mother told me that she wanted to move to Vienna and take the child with her. This means a rather long distance for me. My whole family was sad and dumbfounded so that my own feelings were intensified.
+646	Shame	I was made a very sharp remark at a rehearsal.
+647	Shame	Failing in an examn because of lazyness.
+648	Guilt	Not giving up something for Lent.
+649	Sadness	Hearing about developments of sience in the West a lot better than China.
+650	Anger	During the Christmas holdidays I wanted to invite my brother, his girlfriend and their child for dinner. When I said to my brother's girlfriend that I would like them to come at my place for dinner, she refused and never mentioned it again as if I had never asked her.
+651	Sadness	When my father passed away in 1978.  I was left alone with my mother who was very sick so I had to go and live with my aunt, who is very short tempered, till my mother was discharged from the hospital.
+652	Fear	When a big angry dog put its snout on my arm and had I made one movement it would have bitten me.
+653	Disgust	One of my very good friends came to me for advice as her boyfriend had been hitting her and beating her quite harmfully.
+654	Disgust	I went to the shopping centre to buy something and saw packets of Kapenta  with maggots in them. Oh !
+655	Anger	The sight of a man who ran amok (fighting) at a dance.
+656	Disgust	[ Normally I do not feel disgusted.]
+657	Sadness	My best friend could not get into university.
+658	Anger	When I was victimized for running away with a girl who was somebody else's wife and niece at the same time.  I was very angry over this issue because I was told to pay him money after having been punished for it.
+659	Sadness	I was very sad at hearing that my grandfather had passed away.
+660	Anger	When my boyfriend wouldn't dance with me on my graduation night because he thought I could dance with my friends who were friendly.
+661	Anger	I had a very heavy work load and two colleagues, whom I have nothing against, disturbed me by \terror ringing\", i.e á|continously interrupting me by telephoning."
+662	Anger	When I was in F4 I played a basket-ball match against another school's team.  One of their team members kicked a team-mate of mine so I kicked him back and we had a fight with each other.
+663	Joy	When I got my results ( I had made it to the second year ).
+664	Shame	While quarelling with a fellow worker of mine, I was vehement and irritated and I told him what I thought of him in plain language.  I was ashamed of myself when I met him the next day.
+665	Disgust	During military service I heard the story of someone who tried to commit suicide and as a result of this got a week custody.
+666	Shame	I had lunch in a restaurant with a friend and I paid the bill.  The change was that of a two dollar and a ten cent coin.  As I was talking with my friend I took the two dollar coin and forgot to leave a tip.
+667	Joy	I was very happy when I passed the B.A with first class marks.
+668	Fear	Being harrassed for being gay; suggestions of being physically beaten - acting as informal bouncer in a gay bar.
+669	Joy	On December the 28th I was filled with Joy when I was told by my bosses that I had been selected to attend a course at the Lilongwe School for Health Scienced in Lilongwe.
+670	Joy	Someone (a boy) paid special attention to me.
+671	Guilt	Whenever I see poverty and starvation. I live in an affluent society and am privileged to have many opportunities.
+672	Shame	My first girlfriend. I had the feeling that she was going out with me only because of my defect.
+673	Shame	I felt shame at the hurt I caused to my family especially my parent father, shame of hurting people emotionally. A misconceived self-blaming that didn't do me any good. Shame at being myself as I am.
+674	Shame	[ No response.]
+675	Fear	When the doctor told me that there was something wrong with my eye and I had to undergo an operation.
+676	Fear	When I was sitting in a car next to a man who was masturbating.
+677	Anger	I was informed by my flatmate that, when we'd moved into our flat, she'd expected us to buy our food separetely - this event actually happened some 5 months after our sharing began. Prior to this, she had said nothing.
+678	Disgust	When I worked at the life-saving sevice and saw the first exitus.
+679	Shame	When I gave water to the plants of a friend. Then one plant fell over, and a little statue broke. I, of course, had to tell him everything.
+680	Guilt	A friend who was 22 years old, died of leukemia; I had not known that he was so ill and therefore had not cared.
+681	Shame	When I ate my sister's food and then she found out that it was me.  I felt very ashamed but still refused to admit that it was me.
+682	Guilt	Did not return the library book on time.
+683	Guilt	I am not very affectionate and I feel guilty as I do not give as much affection as I receive.
+684	Sadness	When my mother left for Kenya.
+685	Sadness	The news of the natural calamity, an earthquake in which hundreds  of Mexican people died.
+686	Shame	A person (a male) told me that he liked me.  He has a problem, he is a homosexual.
+687	Anger	In arguments with a close friend or relative where my point of view is completely disregarded.
+688	Joy	My 3 children - each top his class in the final exams 1984.
+689	Sadness	My father's death in January 1983 moved me deeply.  The gloom prevailed for almost two years and I am still to recover from it.
+690	Shame	In a play (secret friend) during the time of the high school I had to give a present to a boy and I was very ridiculous because of this.
+691	Anger	In a conversation my boyfriend expressed definite and quite pretentious opinions and he took up an attitude towards a theory which he himself had never known. His information was from fortuitous sources.
+692	Guilt	I experience a sense of guilt as my middle son cannot express himself like other children, neither verbally nor in writing.
+693	Guilt	A good friend of mine who is at the moment in a foreign country. I didn't write her for several months and now I feel guilty.
+694	Guilt	When once my mother asked me to do some work for her at home because she was busy and moreover this work was to be done by a man. But it remained undone.
+695	Disgust	When at school I thought that I was going to get the best results in mathematics, but it was someone else who got the prize.
+696	Sadness	I was not chosen for the All English class.
+697	Sadness	When my boyfriend openly let me down, preferring another girl.
+698	Fear	I needed a recommendation for something. I decided that the best person to get one from was a professor who I had never talked to before. I felt a lot of fear going up after class to ask him to recommend me considering he had never heard my name before. But I did.
+699	Anger	This happened recently, I  was in the dining hall and one of my friends with whom I was eating called me a fool.
+700	Shame	When I had been angry at my friend without any reason.
+701	Sadness	When my father a 4th/5th generation colonial (from Eng.) attacked me verbally about my chosen partner. A man whom he discarded because his colour skin was not white. His ultimate disgust saddned me.
+702	Disgust	When reading a newspaper story of a man who had committed incestuous acts on his two-year old child - the thought that anyone could do such a thing is abhorrent to me.
+703	Anger	It was when I discovered that my boyfriend had another girl. I discovered it through a letter he wrote to the girl when he was away. When I asked him he accepted it.
+704	Guilt	I called my little sister to make her pick up her toy from the floor. When she still refused after I had asked her for the fourth time, we began to quarrel. At last the whole family was involved in this quarrel and trouble was brewing.
+705	Fear	When the car I was driving skidded on an icy road and landed in   a ditch with one side against a rock.
+706	Disgust	When employer made a pass at me whilst I was at work.
+707	Guilt	When my friend needed my help very much and I, at that moment, made an end to our relationship.
+708	Guilt	When I used an adjective for a person without knowing what it meant.   When I got to know the meaning, I felt guilty as it was a clear and unfair insult.
+709	Fear	I felt fear when my mother was heavily ill.
+710	Joy	When I won a position on the track-team for the trans-tasman games when I was eleven.
+711	Sadness	When grandfather died.
+712	Sadness	[ No response.]
+713	Fear	I had climbed on a cherry tree alone and there was a thick caterpillar beside my fingers. I feel disgusted by caterpillars and snakes. I was terribly afraid of the caterpillar crawling on my fingers. Out of the fear I was almost unable to climb down.
+714	Joy	When I got accepted to CAL.
+715	Fear	While cycling in the country a dog started running beside me, growling and barking, and trying to bite my foot.
+716	Anger	While I was away for the weekend some friends went into my room and played my very expensive stereo without asking me or my roommate.
+717	Guilt	I felt guilty when I failed to take an exam though I had had enough time to read for it but I hadn't made use of it.
+718	Disgust	A friend once reacted childishly (he is 23 yearrs old) to my not responding in his favour to a request, that is: he asked me for some money I refused, and his reaction was quite childish.
+719	Guilt	[ I had, by being silent, disapproved my love and made him unhappy.  He had not been able to keep his promise.  I thus was thinking about my own conduct towards another person.]
+720	Sadness	There was a conflict of interest between me and a close friend of mine.  He only thought about his own interest and not about our friendship.  This behaviour hurt his friends.  Another incident is when a friend isolated himself without giving any reasons.
+721	Sadness	[ No response.]
+722	Guilt	[ When I act thinking that I know everything and I then realize that there were things I had not thought about, thus hurting others.]
+723	Joy	When I met my mother after months of absence.
+724	Sadness	I couldn't be with a girl on whom I was very keen.
+725	Guilt	I felt guilty about talking negatively, and agreeing with a person who was doing likewise, about a non-present third person.
+726	Sadness	Leaving Melbourne to move interstate - leaving relatives and friends behind.
+727	Anger	When they denied a job to a person that I propsed giving political reasons that has nothing to do directly with the professional level.
+728	Sadness	Death of my father.
+729	Shame	[ No response.]
+730	Guilt	I ran over my dog with a bicycle when I was carrying him tied to the handle bar.
+731	Anger	My flatmate was asking questions about my relationship with my boyfriend, whether I wasn't treating him as unfairly as I claimed he'd been treating me. As a result, I was angered, and became defensive.
+732	Joy	When I thought that my high school love and I had a mutual emotion.
+733	Guilt	When I discovered that the girl I was courting was a relative of mine.
+734	Sadness	There is a boy who I love very much. I asked him to have dinner with me, but he refused I don't know why he didn't go with me, but I felt very lonely.
+735	Shame	When criticizing something about a person and then realizing that the person whom one is talking to is similar.
+736	Guilt	One day I took my playmates to the river to swim and play. One of them was epileptic so he drowned into the water. I felt guilty because it was me who took them there.
+737	Disgust	When I was travelling to school by bus, I went past a place where a sewer had been repaired.  There was a bad strong smell which suffocated me and I wanted to leave the place immediately.
+738	Sadness	Leaving home to move closer to University. As an oldest child, this experience was traumatic for both my parents and myself.
+739	Anger	[ When I do not get any co-operation from my friends/partners.]
+740	Sadness	After training for an Australian championship competition for a year and then injuring myself 2 weeks before the competiotion.
+741	Sadness	[ When I feel that I have made a mistake.]
+742	Shame	Lying to a friend about something that was trivial.
+743	Fear	When I was six years old we were on holiday in France. There was very heavy weather then.
+744	Fear	Once late at night (around midnight) a person asked me to give him a lift. He suddenly tried to attack me but I could escape. After this he followed me for a little while.
+745	Joy	I felt happy at the settlement of our marriage, even though we are from different socio-linguistic backgrounds our parents agreed to the wedding without any conflict or discussion.  We had  thought that they would object to the wedding but it did not happen.
+746	Anger	Without my permission, my son had made popcorn after coming back from school.  The consequences were a spoilt kettle and chaos in the kitchen but what could have happened with the hot grease ?
+747	Anger	I am a teacher in arts and crafts (boys from 15-16 years). for them it is obligatory and they dislike it. They tease me. When one of them cut up some material I flared up.
+748	Disgust	Heard some postgraduate students talking about girls being unsiutable to do medicine.
+749	Disgust	When I saw a lady putting on a pair of trousers, I felt it was a disguise according to Malawi culture.
+750	Anger	Brother continually interupting while I was talking on the telephone.
+751	Sadness	When I saw the pictures of the draught in Etiopia.
+752	Fear	When I decided to separate from my husband.
+753	Shame	A friend of mine was shouting at me in a group of juniors.
+754	Shame	A few years back I had proposed love to a girl who later turned out to be related to me.  Though we were in love with each other, we both felt ashamed and withdrew from each other.
+755	Sadness	I partly colored my hair black. My mother didn't like it and reproached me to be a \subversive element\". Later on she stated á|that this was due to my friends. As I see it, this all resulted á|from colouring my hair."
+756	Disgust	I hate the behaviour of my so called friends, they use bad language, spit, boast and treat the youngsters badly.
+757	Disgust	I was working in a classmate's house with a group. A girl began to graze her foot against mine under the table.
+758	Disgust	The day I went to eat dinner in the dinning hall and found a dead fly in my gravy.
+759	Guilt	A friend of mine trusted me to back her in a decision she had made.  But when the moment came I did not agree with her opinion.
+760	Anger	On the occasion of assignment of tasks and responsibilities in which such an assignment, dispropotionately carried with it high responsibility and low ability of organisation and resolution.
+761	Shame	When I was caught with someone's daughter.
+762	Sadness	My fiancT left me for my best friend.
+763	Guilt	I once stole my father's money and denied having done it. Instead father threatened my young brother and he was beaten. He was innocent and I felt guilty.
+764	Sadness	When we decided, my boyfriend and I, that we would separate, I realized that he would have wanted to continue our relationship and the coming separation hurt him.
+765	Anger	Last year I had a friend visiting me for several days. The only thing he did was sleeping, drinking, taking pills and thinking only about himself.
+766	Anger	When I learned that my brother had spoilt an LP of mine.
+767	Shame	When I hadn't studied for an exam, so I pretended to be sick so I wouldn't have to go to school. I lied to my mother - she realized I had been lying when she got home from work and found that I had been over to a friend's place.
+768	Fear	Once, when I was very young, my mother left me alone in the house and came back very late.
+769	Joy	When I was offered a high position of trust, which I later accepted.
+770	Guilt	When I was made to feel responsible for the emotional state a friend of mine was in.
+771	Guilt	When my brother had to spend all evening repairing a gear-lever that I had broken.
+772	Disgust	I was reading in the paper the feature on Henry Lucas who claims to have killed 380 people. He was a recreational killer and a necrophiliac and zoophiliac. He has raped and beaten many women and killed men too.
+773	Joy	Passing a very difficult examination which I didn't expect - MCE.
+774	Sadness	When I was eight years old my father was run over by a car. When I saw his body I was sad beyond words.
+775	Guilt	My sisters asked me to fetch them at a discotheque which is 5 km off. There was a thick fog and snowfall. There was not enough room in the car for all of them and they asked me to go there once again. When I did not do that they had a way to make me feel guilty.
+776	Sadness	Caused a family disturbance.
+777	Shame	An out-patient asked me to read for him a certain prescription but I was unable to do so. The patient was dissappointed and lost hope in me.
+778	Joy	Selling my used car.
+779	Joy	It was about a fortnight ago, I was declared successful in the U.G.C exam this year (only four in Bombay succeeded).  My joy knew no bounds.
+780	Joy	Several good friends made me a surprise visit and this made me happy.  They are my closest friends and we had not seen each other for a long time.
+781	Sadness	When I see children on T.V from areas devastated by drought and war.
+782	Joy	When I received a letter of acceptance to CAL.
+783	Fear	The first time that I saw a dead person.  This was when I started my gross anatomy practicals.
+784	Joy	[ During inter-rail-trip, after troubles, I met my little sister.]
+785	Disgust	When after a party celebrating a friend's 21st birthday - upon leaving I found 10 people outside throwing up and further 4 unconscious.
+786	Guilt	I felt that I contributed to a possible rift in the relationship between a boy and girl soon to be married, in my flat after I moved in. After stating my celibacy to him which she overheard and didn't previously know about I suspect.
+787	Guilt	I once torn the inner tube of a bike, that was not mine. Then I saw it was a brand new one. I felt very guilty then.
+788	Joy	Naturally when I got myself discharged this was my second birthday.
+789	Fear	I was alone and someone tried to break in from our back door.
+790	Joy	After my marriage I received the B.Sc results by post, I was very happy to learn that I had got very good marks - first class.
+791	Fear	I was sleeping in my room but woke in the middle of the night to think I could hear noises and see shadows moving. I felt that someone was in the house.
+792	Sadness	My sister was in a hospital, later in the evening we received the information that she had died.
+793	Joy	I received a grade above average on a midterm (chemistry) and I expected onevery below average.
+794	Joy	Birth of children.
+795	Joy	I had a very pleasant conversation with one of my friends.
+796	Shame	When I got a bad result for one of my assignments.
+797	Fear	It was the time when I was in no position to secure a Ist class in the M.Sc exam and this was likely to affect my career.
+798	Fear	In 1960,  I was going to a school which was near my village and I met a lion on the way, which disappeared suddenly.
+799	Shame	I am troubled by hair growing in my neck. I was troubled by this for a long time and was much ashamed when someone brought his/her hands close to my face.
+800	Joy	I was admited to the Chinese university of Hong Kong.  The day the results were announced I looked in the newspaper and saw my candidature number.
+801	Anger	When my father asked me if I was a communist, at the same time he made it clear that I should no longer see myself as his daughter.
+802	Disgust	In the evening, while I was watching TV, my little brother came in and started eating food he had brought from the kitchen while I was trying to concentrate on the program.
+803	Guilt	I met my ex boyfriend by chance.  We separated a few months ago and I am now with a new boyfriend.  My ex boyfriend looked depressed, and I know I am not to be blamed.
+804	Shame	I came home from a party rather drunk. I said things I would never have said normally. Next morning I was terribly ashamed about what I had said.
+805	Guilt	I felt guilt when my friends were punished to slash grass at the gound because of making noise in class. I was in the group of noise-makers but I denied having done any noise.
+806	Anger	My elder brother often criticizes my mother's cooking.  Once he did it very impolitely and lost his temper.  This made all of us very sad.  I was very angry and I scolded him.  He asked me not to interfere with what was his buisness.
+807	Sadness	I felt sadness when I notice that I'm not important for a determinate person. We do many things for a friend, and we see soon after, that he doesn't do anything for us, nor thinks of us.
+808	Disgust	My parents claimed me on their income tax after I had been out of the house for two years receiving no financial support from them. As result I had to work more during school because they were expected by the FAO to contribute to my education when they refuse to do so.
+809	Joy	I noticed that Meryl Streep and I had similar cheekbones and jaw structure.
+810	Shame	A few months back I had gone to my friend's place and they offered me tea and coffee.  I do not have the habit of drinking tea or coffee and so they offered me a glass of milk instead, so I felt ashamed.
+811	Shame	I was ashamed when I was being introduced to the church congregation.
+812	Disgust	Was confronted with a person having negative thoughts of other people because of their social status, beliefs, color and outlook on life (perspective).
+813	Guilt	When I shouted and quarrelled and for no reason I had been rude to my mother and when my behaviour had been influenced by other outward factors.
+814	Sadness	My father resigned from work, and soon after this his elder brother died.  The next day my granny died (my mother's mother).  My dad remains the only living member of his family.
+815	Guilt	A few days back my mother was not feeling too well and still did all the house work.  I felt guilty as I had not offered to help.
+816	Sadness	Saying goodbye to a friend.
+817	Guilt	When I saw a program on Ethiopia on T.V, a fews hours earlier I had thrown away some clothes and food.
+818	Joy	I felt happy when my mother borrowed me the car in order to let me go out alone for the first time.
+819	Anger	With the job appointments committee when the headmaster in charge explained that a male teacher was more suitable for the particular post.  I had more years of service than the male teacher, but this was not taken into consideration.  I could have been given a less attractive job if things had gone the way the headmaster wanted.
+820	Guilt	When I could not fulfill my expectations.
+821	Joy	My boyfriend returned after a long absence.
+822	Guilt	Once I was not able to give a relative, who was in a critical period, a helping hand.  Whenever I think about it I feel guilty  for letting down the person who trusted me to give him a helping hand.
+823	Disgust	My roommate's lack of consideration of me.
+824	Guilt	I once felt guilty when a certain passenger in the same (ship, plane ?) which I boarded when coming from home lost his 10t which in fact fell into my pocket unknowingly.
+825	Sadness	When I finished a relation after four years, leading to much sorrow for the other one and myself (\although it was the best á|solution\")."
+826	Guilt	I left a boy with whom I was going around without giving him any explanations.
+827	Guilt	I had an appointment with a friend. I promised him to meet with him, but at last I did not without having informed him.
+828	Guilt	When I was a kid I stole toys from other kids.
+829	Joy	When on holiday in Greece I called my best friend, she told me she passed the examinations and that she had been admitted to the study for speech therapy.
+830	Shame	Not doing well in the examn.
+831	Guilt	I have cut loose from my father a few years ago. I know he is very sad about this.
+832	Guilt	Once I promised to do something but I didn't do it.
+833	Disgust	When a girl I knew aborted and threw the seven month foetus in a man-hole.
+834	Fear	One night we were having a barbecue on the beach and I needed to go to my car, which was far away from the beach.  It was very dark as there were no street lamps.  I ran in the dark, very scared, I ran as fast as possible.
+835	Disgust	When some people, including me, are treated in a way which equates them to an animal or a thing.
+836	Anger	I was angry when I heard that my only girl was going about with another man. So I decided to drop her but later the story came to be untrue.
+837	Joy	Getting University Entrance accredited and arriving home from boarding school on accrediting leave.
+838	Shame	When I had slept with a boy for the first time I felt ashamed for three reasons. First, because I was only 13 years old, second, because I did not really like him, third, because he had caught me napping.
+839	Shame	In the last day of carnaval I met a boy and began to flirt with him. I was in love with him. When he introduced me to his friends I died of shame because I was with them before, I met my boyfriend in carnaval.
+840	Guilt	Yesterday I broke my sister's raio. She hears it always when she has school examinations and now she has examinations.
+841	Sadness	When I lost the person who meant the most to me.
+842	Fear	Fighting with class mates in Highschool.
+843	Joy	My sister in law was about to have a child, and there were some problems.  They had to do a Caesarean.  After a while, everything  was all right.
+844	Fear	I was watching a movie alone - it was a horror movie. The music was a deep pulsing type - not really music. And a light flashed on and off. It was in the complete darkness of a movie theatre that was almost empty.
+845	Sadness	When on Christmas day my grandmother died. I received the news when I was coming back from a party on the 24th at 5 am.
+846	Guilt	My brother wanted money but I refused to give it to him, two days later he stole it from my father.
+847	Fear	I was working at a certain place and everyday after work dad would come to pick me up.  One day he did not come, it started getting very dark and I had no money on me and my home was very, very far away.
+848	Anger	I helped my little sister (13 years) learning mathematics. Obviously she did not want to understand what I explained and started to cry. I grew angry.
+849	Fear	One of my fellow students had bunked field work and in my attempt to cover up for him I myself was exposed, though not directly.  We were to meet our field work suprevisor and we were afraid of the consequences.
+850	Guilt	When I did not go to work because I had to study for a midterm.
+851	Anger	It was necessary to organise a competition in connection with a celebration. Everyone was to be present at that event. It turned out that there was no audience at all because everyone had pretended to be very intelligent and no one had come. I got furious.
+852	Shame	Failing an examn.
+853	Joy	I did a solo flight from Ardmore to Kaikohe before I got my pilot licence. I can remember it was gorgeous day and I was on a natural high, cruising up the coast with my maps and compasses and gear. Other pilots had seen me off and wished me good luck and it was a real adventure.
+854	Fear	No really strong such emotion. Just falling off to sleep when I caught sight of a 5 cm diameter spider crawling onto the pillow beside me.
+855	Anger	I was coming home in a taxi with a fellow worker of mine.  He was criticizing my earlier conduct towards him, which to my mind was unfounded.  When I reached home, I ran out of the taxi and slammed the door.
+856	Disgust	When I came to know that my father and his parents were : self interested, dirty, negative, egoist, bad peolpe,......
+857	Disgust	When I felt the smell of industries that pollute.
+858	Fear	Occured while preparing for a midterm in Social Welfare that I thought was going to be very hard and felt unprepared for.
+859	Guilt	Making a sexual pass at my cousin with whom I have a very close personal relationship.
+860	Sadness	I got separated form my closest friend. He went to work abroad.
+861	Guilt	When something went wrong for me I lashed out at someone else whom I loved and who was not in any way responsible for what had happened (my sister).
+862	Disgust	Someone had stolen an article from a library journal.
+863	Fear	One day I was near home, kissing my boyfriend in a car when my mother appeared and asked me to go home, because she didn't know about the event.
+864	Fear	When I go out alone at night.
+865	Shame	When I began to date, the first gestures of affection made me feel ashamed. Note: for GUILT go to record n¦231
+866	Shame	[ I have never felt this emotion.]
+867	Joy	When I got home from my job, I found a letter from the university telling me that I had been admitted to begin my studies.
+868	Guilt	Being rude to someone I do not like.
+869	Anger	Insulted by other people in the shop.
+870	Disgust	I saw a magazine with photographs of dead and maimed people whose limbs were separated from their body like a head on one side and the leg on the other.
+871	Joy	When my girl told me that she loved me more than any male creature on earth and that I would be the only one in her heart for all her life.
+872	Joy	For instance when a girl is interested in me and likes me.
+873	Guilt	Too busy to write letters to friends and they said I had forgotten about them.
+874	Guilt	I had told a person unpleasant things in a bad manner. He was very depressed and caused an accident.
+875	Shame	When I as a Pakeha (white) new Zealander, was just as racially prejudiced as other people whom I had condemned.
+876	Disgust	A lie on the part of a person close to me.
+877	Sadness	When I heard about the death of somebody I liked very much and I was not present either to see the person or to try to share my emotions with other friends.
+878	Guilt	In neglecting some work that had to be done around the house and telling my roommate I would get it done.
+879	Fear	Once when I was walking alone at mid-night, I happened to put my foot on a frog, as it felt smooth I thought that it was a snake  and I felt afraid. á
+880	Joy	Inter-national sports events won by my favourite national team or player brings me joy, e.g when India won the World cup cricket match.
+881	Anger	When my father talks about our relatives and favours them, I feel angry.
+882	Joy	Today I did a lot better on my architecture project than I expected.
+883	Guilt	I rejected a person whom I had always thought to be a friend.  I told him so and he reacted angrily.  I felt guilty at not having realized it before and at having hurt him.
+884	Shame	I felt shame when I was asked by my cousin that I promised to buy her a birthday present but I didn't buy it for her in front of friends.
+885	Fear	Before knowing my marks I was not sure that I wanted to go to that class.
+886	Guilt	When my uncle and my neighbour came home under police escort.
+887	Sadness	Tonight in bed when I realised how bad my relationship with my friend was.
+888	Guilt	I added a little   ?   to a yield in an experiment to get more of a yield.
+889	Fear	When I was cycling past a parked car someone opened the door and nearly pushed me off my bike and into the traffic.
+890	Fear	Having my luggage checked at Customs.
+891	Guilt	When I was parking my car I was not cautious and bumped into another car. I caused considerable damage. The driver of the other car was very angry and I let him insult me because I felt guilty.
+892	Disgust	Over an argument.
+893	Sadness	When my first girlfriend an I left each other.
+894	Disgust	As a child, when I saw an \unesthetic\" sight."
+895	Fear	When they tried to rob me.
+896	Anger	I had planned to go to town with my friend at 1500 hours but she went for the registration and I waited for a good 1 and a 1/2 hours.  It was vital for me to go to town but I could not as it was she who had the money.  Finally I borrowed some money from friends and we went to town.  I was really angry with my friend.
+897	Shame	When I made an end on a relationship after three years.
+898	Joy	Watching China winning the Asian Olympic games.
+899	Fear	When my friend was involved in a car accident.
+900	Anger	One of my friends asked me to go shopping with her, another friend of hers was also coming along.  During the outing they kept talking to each other and I felt left out, even when I tried to talk to them they seemed not to listen to me and did not pay me much attention.
+901	Fear	When, for example, my grandfather fell seriously ill. It was necessary for him to be operated and I felt great fear of losing him because he is so dear to me.
+902	Disgust	A person I know who tells lies and so pretending to be better than she is.
+903	Joy	When I received a positive answer from my appeal to withdraw my registration at UNZA.
+904	Fear	The house was on fire, and I was saved by the dog. I am afraid of the fire, verging on panic.
+905	Joy	When I recently got an appartment in central Gottenburg.
+906	Disgust	A dirty person, smelling bad and unknown laying on me.
+907	Anger	I went to the dining hall and found that the cooks were cleaning the plates and there was no food for me, and the blue birds  (security guards) were busy eating the food that was supposed to be for me.
+908	Disgust	When I stayed in the house of friends, I washed my face and wanted to dry it with a towel. This towel seemed to have been used over a long time already. It smelled indefinably awful.
+909	Joy	Can't remember specific event - besides just being moderately happy until a year or so ago.
+910	Fear	In the dark an unreal figure formed by a shadow.
+911	Fear	When I was cycling to school, I nearly got knocked down by a car which (overtook me too closely) did not give me any swerving space.
+912	Sadness	I felt sadness when I had to get separated from the woman I loved who had to leave for her motherland.
+913	Guilt	I wanted to get rid of a bad habit and it seemed that I had succeeded.  However a year later I got the bad habit again.  I felt  useless as I always found excuses to explain my behaviour.  As a result I felt guilty.
+914	Guilt	Not being a good host for a friend from a far away place.
+915	Sadness	My friend who was in the Bago was kicked out of the sorority.
+916	Joy	My friend replying to my letter and again saying he was attracted to me and suggesting we write, talk and get together and see how things went and his suggestion that I could ring and doing that it was really good - though really insane conversation.
+917	Guilt	I was looking after a child and she fell down because I was not paying her much attention.  One side of her face got bruised.
+918	Fear	We were driving on a very dusty road at night and the driver tried to overtake a very big truck only to find another big truck parked right in front.
+919	Disgust	Such a feeling springs up in me sometimes when I have meals at a catering establishment. It is a result either of the look of the food or when watching the way some people eat.
+920	Disgust	Returning home in the late afternoon I saw an indecent act made by a man with the purpose that I saw it.
+921	Guilt	My friend had written a letter to me, the contents of which I misunderstood and I wrote back a very harsh letter to her.  On realizing the blunder I had made, I felt like hiding my face in the sand.
+922	Fear	A friend's father had died, I was to come and see this friend although I did not know his family.
+923	Joy	Two years ago, somebody I like very much wanted to give up his studies. I tried to make him understand the importance of what he was going to do, not only of the difficulty to find a job but also because he will decrease his culture etc. This person made the test to the college entrance examination and to our great joy we found out that he succeded in entering at the University.
+924	Anger	When my mother decided to clean out my room and throw out what she thought was junk, without my knowing about it, so I returned home to find half my stuff gone.
+925	Disgust	With the N.Z. Rugby Union wanting to send the All Blacks to South Africa.
+926	Shame	When harassed by this boy - it was sexual (refer to GUILT).
+927	Fear	[ While approaching to test the situation.]
+928	Sadness	My grandmother died, and my mother called me one sunday morning in the Autumn.  The way my mother told me about it, I hated her at that moment.  She sounded as if she had been waiting for the death of my grandmother.  I had lost a person close to me.  I felt guilty too as I had been bad to my grandmother of late.  I had not remained calm when she no longer understood everything so well.
+929	Shame	Some persons, who are important for me, came to see me and I had not washed the dishes.
+930	Anger	I played chess with my 12-year-old brother. I made a stupid mistake - and he won!
+931	Shame	I was in my room, I just heard that my Uncle had been caught in somebody's house with somebody's wife. He had to appear in court. I went to see what would happen to him.
+932	Shame	I failed my Nutrition paper which was the paper ending the course.
+933	Sadness	When my boyfriend was changing his behavior there was something wrong, I felt sad, because it's desagreable when a relationship is ending.
+934	Guilt	I forgot to convey an important announcement.
+935	Disgust	Grandfather lives in a home for the elderly. He always looks forward to visits. On his birthday (by coincidence it was on \Mummy's day\") however, nobody went to see him. Is the own family á|more important than grandfather ?"
+936	Disgust	When I was a child I broke plates because I wasn't given food on the grounds of coming home late.
+937	Fear	When I was a child, I had a terrible nightmare with St. Nicholas' Devil Servant. I asked my mother if he really existed and she said yes. The following nights I could not sleep and a light had to be left turned on.
+938	Fear	When I had to go through lonely streets in the middle of the night.
+939	Sadness	Losing a boyfriend for the second time to my friend. He fell in love with her. The same thing happened a few months earlier with another boyfriend.
+940	Guilt	Forgot to give a present to my little nephew.
+941	Disgust	When I slept with a guy because my best friend wanted me to.  He had never had intercourse with anyone and had a terrible complex about it.
+942	Anger	That was what I felt with a teacher who put down quite unreal marks.
+943	Shame	When unjustified hurting other people.
+944	Joy	My parents and brother came up over the weekend. We are a very close family. This was my first year away from home. They brought one jacko-lantern with a new design. That is the old joke that we have a great new design - it's always the same.
+945	Anger	I felt angry when I heard that my sister had failed the Examinations which we hoped she was going to pass with distinctions.
+946	Sadness	The death of a close relative.
+947	Guilt	I said something which was against my conscience.
+948	Sadness	Shifted from Melbourne to Brisbane. All my old school friends gave me a party and I had to say good-bye to them all.
+949	Shame	Not finishing homework.
+950	Guilt	When I could not complete my assignment on time.
+951	Sadness	Finding out that we cannot have good references because China is poor.
+952	Joy	When seeing a friend that I had not seen in a long while.
+953	Shame	News was spread that I had been found doing sexual intercourse with a small girl. At first this annoyed me but later on I became ashamed because many people seemed to believe it.
+954	Shame	Cannot remember such a situation.
+955	Sadness	When I was told that my father had passed away.
+956	Shame	I feel shame mixed with anger with the behavior of some incultivated people because my fiancT is a foreigner.
+957	Shame	Last Summer I went camping with some C.U students.  As I was working then, I had to leave the second night (some of them had joined us the first night).  Next morning, 6 o'clock, a female classmate knocked on our door and tried to wake us up.  I was not fully conscious and I said something which I should not have.  I realized the trouble I had made and wanted to hide.  Later I said sorry to her and the matter came to an end.
+958	Disgust	In school I had difficulties mith mathematics. When I had to work for an examination, I really felt disgusted.
+959	Joy	I met a dear friend of mine after a long time.  I expressed my feelings in our own usual way, by mutual scolding and abusing (with complete understanding) and by touching, patting and taking the hand of the other person, etc...
+960	Sadness	On rising. No apparent reason.
+961	Guilt	I had to call somebody between 12 and 12:30. As I had no possibility to call him at this time, I did not do it until 3 p.m.
+962	Shame	I was ashamed with my biology lecturer when he asked me a question and I could not answer it.
+963	Joy	When I had an anticipatory honey-moon with my fiancTe.
+964	Anger	The last day of school is traditionally celebrated by singing a song about all the students who are leaving.  In the song about me, there were things which irritated me a lot.
+965	Joy	Found out that the girl I love loves me, too.
+966	Fear	A workmate and I had been antagonistic with each other for some weeks - he had reacted violently to my criticisms of his work standards.
+967	Anger	An utterance, which I had intended to be a joke, was taken as an offence.  In my opinion, this was stupid, and I got angry.
+968	Shame	Yesterday while playing volley ball, there was one person extra    and somebody had to out.  A mess worker and I were the  last ones to arrive and we had arrived at the same time.  Rightfully one of us had to opt out of the game, as I was delaying leaving the mess worker opted out saying that I should play.  I felt ashamed of myself.
+969	Fear	When I witnessed a bus accident in which a bus, full of passengers,  nearly overturned on the Lusaka-Kabwe road.á
+970	Anger	I had left a student newspaper of the Chinese university on the table of the library.  It had disappeared when I came back.
+971	Joy	When I spoke to my daughter and wished her luck for the examinations she was about to take.
+972	Shame	It was a shameful moment when I heard that I had failed my Primary School leaving Certificate Exam in 1978. My girlfriend was there when the news was released.
+973	Disgust	I felt disgust with a person whose behaviour was out of the elementary human norms.
+974	Disgust	When people manipulate others through appearing better than what they really are.
+975	Joy	Got a big fish in fishing.
+976	Fear	First day at University (I didn't know what to expect).
+977	Sadness	When I found out that my girlfriend would not be coming back to UCB for one semester, but would be living in San Jose.
+978	Disgust	Whenever I see a spider or a snake I feel disgusted.
+979	Sadness	I felt sadness when I remembered my former boyfriend with whom I got separated an year ago and when comparing him with my present one with whom things are not much of a success.
+980	Guilt	I have chosen to put my son in a private school were the examination marks are low.  Every time that he gives me his term results I am left with a sense of guilt.
+981	Sadness	Finding out about the university does not have enough foreign currency to buy the yournals in your reference list.
+982	Disgust	When I vomitted a lump of blood.
+983	Fear	I had a car accident.
+984	Joy	I didn't like my former fob and felt joy when I received a telegram offering me a new one that I though better and for which I had been waiting.
+985	Fear	When I nearly drowned in icy water wearing ice skates.  It was difficult to get out.
+986	Disgust	I was travelling in a local train when a drunkard, smelling terribly, entered the same carriage and started eating fish that was stinking.
+987	Guilt	I took my father's car to church one Sunday (I told them that's where I was going ) I decided instead to go for a drive to the beach - on the way I got a puncture.
+988	Shame	I was dishonest to my boyfriend concerning something that is important to our relationship.
+989	Sadness	[ No response.]
+990	Sadness	It was the time I went home for my holidays only to find that my sister had passed away.  The news had been hidden from me, so that I could take my exams.
+991	Sadness	Sadness - this is an emotion which I have felt very often recently. I can't remember a concrete example. I will describe my general impression from severl situations which evoked this feeling in me.
+992	Anger	My friend misunderstood me.
+993	Sadness	After an operation I had to stay in bed for a long time.
+994	Anger	When I saw a car run over a child, out of carelessness.
+995	Guilt	At my summer job, I was responsible for making various orders.  It was not me who had ordered some seasonal merchandise, but when much of it was left over and had to be thrown away in the Autumn, I felt partly responsible for the much too large order.
+996	Guilt	I told my parents (or more realistically) would not do what they wanted me to do anymore. I guess I sort of betrayed them after all they had done for me.
+997	Fear	When I am travelling by car and have to meet an oncoming car while overtaking.
+998	Anger	My classmate always borrowed my notes and would not return it to me on time.  When I had a test she was selfish and irresponsible and so delayed my studies.
+999	Anger	I locked myself out.
+1000	Fear	When a man who had a knife grabbed me and threatened me with it,   during my holidays in Monze.á
+1001	Sadness	A person I really like left for overseas for a few months, I had hoped to go out with her soon.
+1002	Fear	I was physically assaulted and sexually abused about a year ago. Just the feeling that I might not get away intact, or even alive, produced fear.
+1003	Sadness	[ No response.]
+1004	Disgust	When I heard about the treatment of a friend in jail. Really inhuman. I never realised that such things also happen in the Netherlands.
+1005	Fear	This was when I was being followed home every day from the campus, by a stranger.  He would follow me to the campus and then sit outside my class.  If I was not there he would ask my friends as to where I was.  He was a dark, ominous looking person and I was terrified of him as I did not know his intentions.  I reported him to the security officer, who turned him over to the police.  I was even more petrified then.
+1006	Disgust	Our neighbour came and gossiped, about others, with my parents.
+1007	Sadness	After the fact that made me ashamed I felt sadness.
+1008	Shame	I was misbehaving in the agency.
+1009	Sadness	A young, close relative of mine died, leaving behind a baby a few months old.
+1010	Anger	I was very angry when my friend lost my practical's journal, which I needed to study for the exams.
+1011	Anger	A whole crowd of us went to a folklore festival. The instructor of the cast where my boyfriend played was traveling with us. We decided to catch the train that leaved early in the morning because we had business on the following day. The instructor tried to get the upper hand and made us catch the train in spite of everything, all the time he made me angry.
+1012	Fear	When one has arranged to meet someone and that person arrives late, in the meantime one starts thinking about all that could have gone wrong e.g a traffic accident.
+1013	Guilt	As I could not be home before midnight I called home at 11.30 and asked them to leave the door open so that I could get in.  I actually woke up the whole family by calling them so late.  My mother could not go back to sleep, besides she had a conference   the next day and really needed to sleep.
+1014	Shame	I recently became sexually involved with my sister's lover. I care for him very much, but I am ashamed of the hurt I may cause her.
+1015	Guilt	Once I quarrelled with my sister and after this I deliberately messed up her belongings.
+1016	Guilt	That evening when I opened the songbook while I was singing the song \Those were the days\" that guilt feeling became stronger.  á|The lyrics described well - I was really wrong.  The wish that I á|had made was really bad. If she were with me I would really be á|happy and we would play happily together like the days in á|secondary school and she would not be disappointed and gloomy á|because of me."
+1017	Sadness	[ When family mmembers or friends blame me for something I am not responsible for.  I feel very sad as it was not my fault.]
+1018	Fear	After seeing a terror movie at the cinema, I was so scared that I couldn't even drive the car into the garage. I often thought about the film afterwards, hoping such things couldn't exist in the \real world\"."
+1019	Shame	When I was a child it was found out that I had taken off my clothes outdoors.  It was summer and my friend and I were out in the woods.  It had felt exciting at that time.  My parents discovered that my trousers were back to front and I felt ashamed.
+1020	Shame	Arguing about price with private shop-assistant.
+1021	Joy	Getting a good mark for a subject I had worked hard at but expected only a moderate mark.
+1022	Disgust	When I was studying and someone disturbed me.
+1023	Fear	The last time I was face to face with with the monstrous dog which lives in my street.
+1024	Guilt	I felt it when playing I pushed my brother and he fell down cutting himself in pieces of tile.
+1025	Anger	Being sexually assulted on a bus.
+1026	Anger	When my brother got very low marks in the exams, I was very angry. I put my studies aside to help him, as every time my brother does  badly at school, my family members blame me as well.á á
+1027	Shame	A month ago I turned in an English paper in late after I had already had a previous paper late and promised not to do it again.
+1028	Guilt	My uncle had promised to buy me a bicycle. As time went by and I had not received it yet, I asked my father to buy it for me. Later I heard that my uncle had wanted to offer me the bicycle on my birthday two weeks later.
+1029	Disgust	Disgust at myself when I stroked a sleeping girl's private parts.
+1030	Fear	When I got to know that the friend I am closest to got engaged, and she was going away.  I was overjoyed for her, but also felt frightened as I was very emotionally dependent on her.  I did not know what I would do without her.
+1031	Anger	A man treated his dog very badly - he insulted and beated him until the dog kept lying on the floor with his tail drawn in.
+1032	Disgust	When I patronized a certain tavern which had prostitutes, it was almost a brothel.
+1033	Shame	Shame of not doing something well.
+1034	Shame	As a child - being sent to the shop by mother - buying some chocolate - getting caught by mother.
+1035	Anger	I came across a girl at the school bus-stop, I had seen her several friends as she was a friend's friend.  However my friend had never introduced me to her and when she got off the bus I smiled at her but she did not respond pretending not to have seen me.  Her arrogant behaviour made me sick and angry.
+1036	Anger	My girlfriend disliked it when I played majong (a game of gambling).  I expressed my regrets and when I went to see her she neglected my existance.  I was very angry and left in displeasure.
+1037	Sadness	When India lost the Benson and Hedges cricket trophy.
+1038	Sadness	Talking to a pensioned and bitter \street order\" policeman."
+1039	Anger	[ When I was treated unfairly, regardless of my motives or deeds.]
+1040	Disgust	A friend told me that a boy wanted to get to know me.  At that time I felt disgusted and thought that it was a nonsense thing.
+1041	Disgust	In a film, there was an episode where they used a chain saw to cut a man.  I could not look at it, but I could not avoid listening either.  I sought shelter in my boyfriend's arms.
+1042	Sadness	Got a package from my parents, without even a small note enclosed.
+1043	Guilt	I am not good enough to join any team to play sport for the class.
+1044	Disgust	When my oldest sister discovered that her boyfriend had another girl.
+1045	Guilt	When I was young I felt guilty because I thought that I had commited a grave sin.
+1046	Fear	I was afraid to walk through the forest one day when I dropped off the bus around 6.30 pm.
+1047	Fear	When I was watching a movie in which there was a pit full of dangers and there was only a small safe place on which a man was standing; he had to catch the lady who was thrown in or else ! The pit was 20 feet deep.
+1048	Fear	A bus drove over my right leg.  The event itself was not very frightening but when I had to wait in the emergency ward for three hours and then my leg began to swell, I was frightened.
+1049	Shame	The girl with whom I was going around had been forbidden to be alone with me in the house.  We paid no attention to this prohibition but one day her parents appeared and I jumped out of the window.  They saw me.
+1050	Shame	When my cousin's wife refused him sex and claimed that she was my girllfriend.  I think that there is something wrong with the woman as I have never even thought of having sex with her.
+1051	Sadness	A friend told me that he had suffered in love and in academics.  I shared his sadness.
+1052	Disgust	When my relatives troubled me so that I would help them financially.
+1053	Anger	When my chief accused me of an error that I hadn't made.
+1054	Shame	I was supposed to go out with my girlfriend one Saturday night, but I got really drunk with some friends earlier that afternoon and evening. So, I totally forgot about going out with my girlfriend. She showed up the next day, and that was when I remembered.
+1055	Disgust	Seeing a film in which there were several bloody crimes.
+1056	Anger	Made mistakes in exam.
+1057	Disgust	When I had to eat scraps from a dust-bin, because of a bet.
+1058	Disgust	I happened to see two boys fighting, one of them fell down and hurt his head.  The other one used this to spank the head of the  boy on the ground.
+1059	Sadness	When I couldn't go for a trip with my friends in a holiday.
+1060	Guilt	I didn't keep a promise I had made to a man, and in this way I lost his esteem and confidence in me. I caused him a lot of trouble.
+1061	Joy	Winning a tight tennis match. One set to play, and the team was behind by 3 games. We won the last set 6-2 and won the match by a game.
+1062	Sadness	When my grandmother died. I had lived with her for ten years.
+1063	Fear	Before an examination.
+1064	Sadness	My girlfriend gave me the mitten (left me).
+1065	Shame	Ctiticized by teachers in public.
+1066	Shame	The last time I had to phone the Registry, after having called them so many times in the last few days.
+1067	Anger	Once when I was playing table tennis I was already sure that I would win , but at last I lost the game.
+1068	Joy	I received an unexpected letter from a friend I had met a short time before.  He sent me a poem and wished me good luck.  I felt very happy because I had great esteem for that person.
+1069	Anger	At my father's treatment of my mother, at his disregard for her, and not being committed to her.
+1070	Anger	Having a fight with a class mate.
+1071	Shame	I got pass marks in the H.S.S compulsory courses while most people performed well.
+1072	Shame	When my younger sister, who was then 16 years old, was pregnant.
+1073	Anger	When talking with my sister, she often ventilates prejudices, which my father also adheres.
+1074	Guilt	I was the reason behind the break-up of my friend's relationship with his girlfriend.  She finished with him.
+1075	Sadness	When my dog died.
+1076	Disgust	[ Never experienced.]
+1077	Anger	I felt anger against a person who told bad things about me in my absence.
+1078	Joy	I thought that someone was angry with me but, by hindsight, that didn't appear to be the case, he even liked me.
+1079	Anger	I loved a person and he went away. It wasn't necessary that he left me to reach his goals.
+1080	Shame	When the brother-in-law of a girlfriend of mine found us in a bedroom with clothes and panties spread all over the place.
+1081	Disgust	My girlfriend lost her temper without any reason and she did not consider or respect my feelings.
+1082	Disgust	A series about Freud was shown on TV.  In it, a tampon had been set in the nose of a woman, and forgotten there.  After great pain it was taken off (close-up picture), the woman was bleeding from the nose and the mouth.
+1083	Sadness	When boyfriend could not stand up to his mother or for himself.
+1084	Shame	I confused a girl with another.
+1085	Sadness	Death of paternal grandmother to whom I was very close - died of cancer.
+1086	Guilt	The greatest guilt I felt and I didn't know if it was really justified is that when I was a child I had a brother very close to me. He  became ill, and asked me to see  him in the hospital. I didn't go, when his situation became worse in the U.I.T. (Unity of intensive therapy) I went and he died.
+1087	Disgust	An Engineer I know wants war so he can get a job making bombs.
+1088	Guilt	The night of a high school dance, I went partying and collided with another car. Both cars were totalled; people were injured but not seriously.
+1089	Shame	I had to go to the doctor's because of a veneral disease. I told the doctor that I must have been infected by my boy-friend. This was not true, but I was ashamed to tell the truth.
+1090	Disgust	On a camp - boys and girls in one cabin. One guy forced himself upon another girl and was having intercourse, while the girl in the bunk beneath was pretending to be asleep and not be ill.
+1091	Sadness	After a disagreement between my parents, when I was alone with my father and my sister, the aggression continued, when my father tried to put me and my sister against my mother revealing facts that had happened in the past like a talk between my father and his mother in law where she told him that my mother was not quite save.
+1092	Sadness	When I read the diary of the girl with whom I was living, it was about another boy with whom she had been going around some time back.
+1093	Anger	When I was accused by my brother of having stolen a 5 kwatcha note from my mother's bag.  I was beaten up for this, the money was found later.
+1094	Guilt	When I cheated my father about the book allowance at university.  He discovered that we were given K150 per year for books.
+1095	Guilt	In September 1984 I got two girls pregnant and the families of both the girls confronted me .  The fact was that my parents were around and I felt guilty answering some of the questions.
+1096	Disgust	I once saw a programme on TV describing how certain wild life films were made and was disgusted by the treatment of certain animals in this particular programme of the polar bear.
+1097	Joy	When I was notified that I had been accepted as a Psychology student.
+1098	Disgust	When the committee, to which I belong, was accused of having squandered the money of the association.
+1099	Shame	[ Cannot recall any incident when I felt shame.]
+1100	Disgust	When my cousin put feaces in my washing.  A silly idea which was meant to be a joke.
+1101	Anger	\ I have been hearing rumours that you have not been allowing á|people in your room,\" he said.  This sentence really shot my á|heart.  I failed to find the right words, instead I walked away á|without uttering a word."
+1102	Fear	Car accident. Travelling as a passenger along narrow bitumen road at night - trying to overtake semi-trailer. The truck pulled over onto our side and we hit the wet dirt, swerved back into the truck, back onto the verge, over a guide post and into a ditch.
+1103	Sadness	When a friend, who has been with me at school, failed to make it to UNZA.
+1104	Disgust	A rich man expressing disgust towards an alcoholic.
+1105	Sadness	Departure of a very close friend - for a long stay overseas, sharing in the sorrow of her parents who were left behind.
+1106	Anger	As for disgust.
+1107	Guilt	Could not buy a reference book because I got up too late to cue.
+1108	Sadness	My grandmother died during Christmas break several years ago.
+1109	Sadness	My father gave money to my brother but not to me.
+1110	Fear	The day I encountered a queer mamba face to face in a chunk of leaves behind our house.
+1111	Fear	Once I had to go home on foot at 5 a.m. I had to pass through a forest and I was going alone.
+1112	Fear	When I was a child I was afraid of big dogs. One day when I came home a big dog was laying in front of our door. I was so frightened that I did not dare to enter the door and I waited until somebody passed by.
+1113	Sadness	Finding out my best friend cannot go to the English lectures.
+1114	Guilt	I broke off with my partner as I wanted him as a friend and not as a lover.  He reacted very violently and I felt guilty as I had made him so desperately unhappy.
+1115	Joy	When I was told that I could take a week off and go for a trip with my friends.
+1116	Shame	About Sweden's arms exports.
+1117	Fear	One evening, while going to meet a friend of mine, I had to cross a meadow by a dark road.  There were bushes on the other side of the road.  The weather was damp and a bit foggy.  I heard steps behind me and kept speeding up my steps all the time.
+1118	Fear	A fall during a climb, with almost with no previous experience.
+1119	Joy	Finding out that I can go to your English lectures.
+1120	Fear	When I was ten I got shut in the school with a friend.  I had to jump out of a window and cross a beam 10 metres high.
+1121	Disgust	When an uncle of mine who is very ill started to cough wich sounded very dirty. (He can't help it of course).
+1122	Sadness	I experienced this when my maternal grandmother passed away.  She was the last of my grand parents to pass away.
+1123	Guilt	I had promised to visit my girlfriend but for different reasons could not make it.  I rang up later to tell her that I could not come.
+1124	Fear	When my husband and I spent a night by ourselves in a house which was in an area on the outskirts of a large town with which we were  not familiar.  We  heard strange noises outside the house and the  house had glass walls so the whole thing was even more frightening.
+1125	Anger	And she said absurd things, false things that filled my ears and inflated my head which seemed to be caught in a carcass where the heart wanted to explode and where the arm wanted to knock down the world.
+1126	Joy	I felt happy at the end of a 10 day student camp.  We had shared our hopes and aspirations and in the open situation so generated, we had made strong frienships and experienced our own worth as well. á
+1127	Disgust	A friend unjustly put the blame on me to relieve his conscience and also spread lies for the same purpose.
+1128	Anger	[ No description.]
+1129	Shame	[ No response.]
+1130	Disgust	One day I went to town to get my grocery.  On my way back, I took a mini bus which was full of drunk students.  I felt very disgusted.
+1131	Shame	When I was young, about 6 or 7, I did not make it to the toilet on time.  I hid the dirty trousers in the cellar as I feared itá being discovered by my parents.
+1132	Disgust	When I was a child, I was sometimes forced to eat things that disgusted me.
+1133	Shame	I was working in I. when a friend of mine borrowed his car so I could get bach there, I had to come to S.Paulo and his car was here. He said :\When you get the car tell my mother that you are á|only taking the car bacause I asked, for she doesn't like me to á|borrow it\". Next day he borrowed me it again for I had to come á|back again. When I was coming back I crashed the car quite a lot. á|One of the first person I met at the accident was his mother, á|that said to me \"You weren't to take the car only yesterday ?\" á|(before I saw her I was already ashamed)."
+1134	Disgust	Some time ago a girl tried to make me up without any action of my part. She used all possible means. Although I behaved refusingly she did not give up for a longer time.
+1135	Disgust	A man tried to have sexual intercourse with me, though I had communicated my unwillingness.  Later on, I felt disgust at that person as well as myself because I had partly submitted.
+1136	Guilt	I became very angry with my friend because he didn't do shopping, while we agreed on him doing this. My being angry was proved to be without reason and I felt guilty about it.
+1137	Fear	A few weeks back my daughter had very high fever and I was scared that it might lead to brain damage or convulsions.
+1138	Fear	A relative died.
+1139	Fear	I went to visit a friend in hospital.  He was going to be operated the next day.  I was afraid that they would not let me in and I did not know what his reaction would be on seeing me.
+1140	Disgust	I felt disgusted when a certain lady spoke words of sarcasm when I was trying to propose to her.
+1141	Disgust	My husband falls ill and does not follow the doctor's advice on the treatment or the diet control.
+1142	Sadness	When I did bad on a chamistry midterm which I could have done well.
+1143	Joy	Listening to the opening bars of Tchaikovsdy's symphony No.2 fourth movement at my sister's wedding.
+1144	Shame	Shame of being reprehended.
+1145	Disgust	I read a book about torture. The book described exactly how the torturing was done.
+1146	Disgust	I was disgusted when my brother was arrested because of stealing money.
+1147	Sadness	I had been caught red-handed having stolen some paw-paw. I was then taken the elders owning the paw-paws.
+1148	Anger	When an unknown person provoked me verbaly and physically.
+1149	Disgust	A sour looking man was beating his thin dog in Remuera.
+1150	Sadness	When I think about the short time that we live and relate it to the periods of my life when I think that I did not use this short time.
+1151	Fear	Students fear many things but we seem to fear the examinations most of all. I remember I was horror stricken before my microbiology exam, because it was a decisive one.
+1152	Shame	I had misbehaved at a party and did not wish to meet the person in question later.
+1153	Guilt	At work a boy was injured because of my lack of supervision.
+1154	Anger	That a friend had been badly beaten and stabbed many times and the person that did it got away without any punishment from the law.
+1155	Fear	Reading a horror story alone.
+1156	Joy	When I had a psychical crisis, I met a girl, who told me that she had had almost the same problems and how she had finally overcome them.
+1157	Shame	In my opinion guilt is a feeling which goes together with shame. Here then I refer to the situation of guilt.
+1158	Shame	When I went for the first time in my life to a nudist-beach.
+1159	Disgust	My older sister used to pick on my brothers and sisters all of whom were younger than her. On one occasion my brother did something my sister didn't like. A full-scale battle began.
+1160	Shame	As a small boy, I took a coin from an empty taxi cab.  My mother saw it and told the driver about it.  I even knew the driver.
+1161	Shame	I had been rude to my mother at a time when she needed comforting, not anger (death of my sister).
+1162	Guilt	A friend asked for help and I was not able to help.
+1163	Disgust	[ No response.]
+1164	Sadness	The death of a close friend.
+1165	Fear	While taking a short cut through the Vasa park, I was surrounded by three people who tried to steal my money.  I was scared and was saved only by the appearance of other people.
+1166	Guilt	No ideal result in the University entrance examn, guilty to family and friend.
+1167	Sadness	When I saw in the newspapers, on the T.V, and magazines the chaotic situation caused by the drought and hunger in Mauritania.
+1168	Disgust	When my elder brother failed form five in 1968 when I was 5 years old.
+1169	Sadness	When I was told that I had not been successful in getting the job I had been expecting.  I was sure that I was sufficiently qualified.
+1170	Guilt	We had a day off from school. Instead of helping my mother with her job, I stayed in bed all day.
+1171	Guilt	At a party, several comments were made about the personal situation of one of the people present.  She was rather affected and uncomfortable.
+1172	Guilt	Could not help a student who needs help.
+1173	Anger	Insulted for no reason.
+1174	Disgust	I went to a party and there were some cakes which weren't good and had a bad smell.
+1175	Fear	My father was very angry with me, and I locked me up in the shower. Then my father knocked his fist through the door, I was scared to death.
+1176	Anger	When a close relative is treated badly.
+1177	Disgust	Some students deliberately disobey me as a class leader.
+1178	Sadness	At end of school - function to \celebrate\" ? Leaving friends who á|I'd known for up to 12 years."
+1179	Disgust	I found out accidentaly that while my uncle was away in Canada, my aunt had been bedding a young man on a regular basis.
+1180	Fear	When I saw a horrible movie - Alien.
+1181	Sadness	When my uncle died whom I had loved very much. I was very sad and I felt totally helpless.
+1182	Disgust	At hostel, my roommate was a very selfish person and would avoid doing anyhting that did not concern him.  A few of us prepared lunch together and had decided to share the work.  My roomate had promised to do the same but I had to wash the bowls everytime after dinner.  I tried to wait and thought that he would realize his fault.  I did not want to tell him to do the work as he is a university student and ought to have self-respect.  He disappointed me and so every time I saw him I tried to avoid him and did not want to keep any contact with him.
+1183	Sadness	I felt sad at having to leave my girlfriend after constant problems and failed attempts at reconciliation.  My sadness was caused by the irreversibility of the decision.
+1184	Disgust	On school, during a fancy fair, there was a stand of amnesty international. There I read (for the first time) a description of the tortures of a woman, what they did to her.
+1185	Sadness	When my best friend died, at the age of 16.
+1186	Joy	A person whom I had not seen for a long time called me and invited me for a party.
+1187	Guilt	Feeling guilt after greed, buying chocolate and pigging out to the point of feeling sick, especially as I am fat.
+1188	Joy	When I won the \Under 18\" Showjumping at the Brookfield Show. The á|competition was very stiff and there were many riders competing."
+1189	Fear	Thinking of the unknown, what happens at the moment of death, etc.
+1190	Disgust	Saw a man dressed as a woman.
+1191	Guilt	When a crawling child got burnt because of my negligence to keep the child away from the fire.
+1192	Sadness	My brother is a soldier. He promised to come home in a furlough but in the last moment he phoned and said that he could not come.
+1193	Guilt	In some special circumstances l lied to my parents, then felt guilty so I told them the truth and felt free.
+1194	Fear	Waiting for a taxi - when within 1/2 an hour two separate people challenged me to fight for no apparent reason except they were drunk.
+1195	Fear	I was teaching someone to drive and when we were about to crash I was scared.
+1196	Sadness	When realizing that my girlfriend and myself in fact had started the process of breaking up.
+1197	Disgust	When a \friend\" woke me up in the middle of a blessful sleep by á|knocking on the door.  Then he started calling me names and á|saying that he had heard that I had been talking behind his back, this á|was a lie and the guy was drunk to the core."
+1198	Fear	When I was going home for my holiday, I almost drowned in the Zambezi river.
+1199	Anger	I am currently taking CS 50P. I had to finish a couple of assignments but I was hindered because I could not get a passing score on my program.
+1200	Disgust	When I think now about the way my father behaved when filing a divorce.
+1201	Guilt	One day I went to see a movie without my parents permission.  It was an adult movie and I was scared that my parents would not allow me to see the movie.  However after coming home I felt very guilty at what I had done.
+1202	Fear	Anatomy lesson and told we have to do it at night sometimes.
+1203	Fear	I wanted to get in contact with a girl I loved, but I was afraid she would refuse me.
+1204	Joy	At my wedding - standing with the man I love and acknowledging that fact to members of family and friends.
+1205	Disgust	The repression of rioting and non-rioting \Blacks\" in South á|Africa by the police of that \"Democracy\"."
+1206	Anger	The doctors from Belogradchik town determined a wrong diagnosis to my son. A month later, after some complex examinations at ISUL (A medical institute in Sofia), the diagnosis was categorically rejected.
+1207	Sadness	When I was told a friend's baby had been born with only partial sight. This was her first child and she was not young (the mother that is).
+1208	Joy	When I got engaged to a boy of my choice.
+1209	Shame	Taking part in the mobbing of some girls in my class in primary school.
+1210	Disgust	In a public swimming hall I saw a very aggressive man who practically attacked the children who got in his way when he was swimming.
+1211	Fear	When I was walking on the street, a group of drunk, bawling young people approached.
+1212	Anger	At school teacher for not allowing us to go out on New Year's Eve when on a class trip overseas.
+1213	Joy	When I was selected to come here.
+1214	Fear	I lived alone in a repulsive area in the city of Rotterdam. I was annoyed, heard a lot of Burglary and assaults. Especially in the evening and the night I frequently felt anxious.
+1215	Joy	This happened when I was selected to go to Secondary school to start Form I in October 1980.
+1216	Sadness	At the funeral of a friend about 20 years old, who was killed in a hit-and-run motorcycle accident.
+1217	Guilt	Flirting with other girls while I already had a very good relationship. When there are problems in my relationship, the flirting increases as does the feeling of guilt.
+1218	Fear	While paddling in the river during a storm.  I feared drowning.
+1219	Joy	The time I qualified to enter secondary school.
+1220	Guilt	Not collecting letters for my friend al I promised.
+1221	Joy	When I passsed the M.S.C board exams with first class, which I had not expected.
+1222	Fear	I was about to begin a journey in a car with an acquaintance of mine.
+1223	Shame	When I was young my mother told the neighbour that I had wet the bed.  I felt ashamed thinking that the neighbour's children would get to know about it.
+1224	Disgust	Normally my father never tells vulgar jokes, we do not speak about sexual things, too. But once he told such a vulgar joke, that I was really disgusted. He did not tell me, but some of his friends, but I was present.
+1225	Sadness	When I noticed that my parents were not in such a prosperity as most people in my surroundings.
+1226	Joy	During the summer I received grade cards from my TA's. I expected a B no better in Computer Science. I looked at the card - I got an A - I was ecstatic.
+1227	Guilt	I was driving my parents' car into a carpark in front of a shop we own, and scraped the corner of the front panel on the back corner of my father's utility. I didn't tell anyone, I lied about the bump (later I had to confess).
+1228	Disgust	A girl with whom I was staying having sex with a person for about 3 nights running, and then with his brother the following night, and back again.
+1229	Anger	When I saw my brother being attacked and I could not do anything.
+1230	Guilt	I had a quarrel with near persons. I said many ill-considered things and I regretted it when it was to late.
+1231	Disgust	I felt dusgust with a self-iterested person who ruined the life of another by means of utterly unfair methods.
+1232	Anger	Falling in love although she is my friend (angry with myself).
+1233	Disgust	[ No response.]
+1234	Guilt	I stole carrots and got caught.  I had to apologize to the owner.
+1235	Guilt	I promised my mother to come home on her birthday, but at last I was prevented. Nevertheless it would have been possible to go but I did not.
+1236	Fear	During labour when the foetal sounds became faint and there was a big alert for a forceps delivery.
+1237	Sadness	I was watching a sunset after my latest boyfriend left me and I realized that we would never watch sunsets again, probaly never see eachother again and none of it mattered.
+1238	Shame	The fact that I was pregnant. I was always considered level headed and did not have sex until 18 and out of high school.
+1239	Joy	In summer when I was sailing with friends in Greece I felt joy.
+1240	Anger	When I heard on the radio that the football match in Belgium had ended in a catastrophe, and several people had died.  I could not  understand how normal people could behave in such a way.
+1241	Disgust	When I was in the army, we got a certain dish for dinner that I do not like at all. We were not obliged to eat, but I was very hungry.
+1242	Sadness	When my aunt passed away in early 1982.
+1243	Anger	Heated discussion with spouse concerning new house.
+1244	Joy	When I passed the university entrance exam.  I had thus finished with a difficult period of my life and I was about to begin one which I had desired a lot.
+1245	Anger	When I was mistreated by my step-mother.
+1246	Fear	When I was the first to arrive at the scene after an accident, and found that a close school friend had been killed.
+1247	Joy	I experienced it when I was accepted at the Medical Higher Institute.
+1248	Fear	[ No response.]
+1249	Shame	After an oral examination I shook the professor's hand, but he had only stretched it out for my ball-point-pen.
+1250	Fear	I was in about Grade 7, I came home from school one day and was told that my mother had skin cancer and would have to go to the hospital straight away.
+1251	Guilt	I had promised to call a girl but I did not do it.
+1252	Guilt	When I realised that I had rejected a boy, who was fallen in love with me, rather bluntly four times.
+1253	Anger	When males in my family try to assign house duties exclusively with referance to sex.
+1254	Disgust	In secondary school I had a class-mate who talked too much.   Once we went to the cinema after school and she sat next to me and commented the movie throughout  - very disgusting.
+1255	Sadness	When they gave away my dog to other people without my knowledge.
+1256	Shame	We were at a football match and when we were leaving the stadium (the stadium was packed with people) and I lost my shoe in the crowd. Our attempts to find it didn't give any result and I had to go home without one shoe. In other words to cross the whole town !
+1257	Guilt	Peeping.
+1258	Fear	After my shoulder operation, I woke up in the hospital room alone. I was in pain and was still under heavy medications. I could not find my parents.
+1259	Fear	I walked up the main street of Auckland at 10 o'clock at night. I expected it to be very active with people, gangs, fast cars etc, thought it was actually quite quiet, though also oppressive. I walked about half a mile and bought a drink along the way.
+1260	Joy	When I bought my car.
+1261	Shame	Arguing with a friend over politics. She was more informed on the issues and made me feel very ashamed of my political ignorance.
+1262	Joy	When I met my girlfriend again in another town after a long separation.
+1263	Disgust	When my roommate forgets to flush the toilet.
+1264	Guilt	While having an argument with my daughter, I got angry and over-excited and said angry words.
+1265	Disgust	My elder sister forced me to do a few things which I did not like to do.
+1266	Guilt	I was in a cafe with another person when, suddenly, several close friends of my partner appeared.  I did not know what to do and my partner felt uncomfortable.
+1267	Shame	I spent an evening with my girl-friend. When we wanted to go to bed I was totally drunk. Next morning I felt rather ashamed.
+1268	Fear	As a passenger in a vehicle travelling from the steep side of Arthur's Pass in the middle of a sleet-storm, icy roads, sheer chasms to one side, sheer face to the other.
+1269	Shame	We were at a party, this guy I liked and me.  I really loved him and gathered enough courage to ask him to kiss me.  He did not do it but instead asked me what I would like for my birthday.  I told him that I would like a kiss more than anything else but he excused himself and said that it was impossible.  I really felt embarassed.
+1270	Fear	Finding out that I made a stupid mistake in the examn.
+1271	Fear	I had decided to propose to the man I liked to make a trip together.  One day, during breakfast I told him my idea.  I was afraid of his not accepting it and that the idea would end up as a failure.
+1272	Fear	When I got in jungle where there was a great number of snakes.
+1273	Anger	When I came for the lesson, it was cancelled and I had to fill in a questionnaire instead.
+1274	Fear	We were walking in the park at night.  It was very dark and very late.  We began to hear foot steps all around us, and we could not find our way out.
+1275	Guilt	Against the will and without the approval of my parents I went for a few days to my boyfriend in Germany.
+1276	Guilt	[ I have not felt this emotion in my life.]
+1277	Disgust	When an untidy and heavyly drunk person made endeavours to approach me.
+1278	Sadness	When one of my cat died of a disease.
+1279	Shame	Talking to friends about how old you are and we cannot be as successful as you at your age.
+1280	Fear	When I was young I saw a horror film.  Then when I went to sleep, the film came back too my mind and the characters frighteneed my imagination.
+1281	Shame	When I had not done well in Geography at my MCE I was expected to get more than I did.
+1282	Guilt	I had to decline an appointment which had been very important for the other person. For this reason we even got into trouble.
+1283	Guilt	I felt guilty one day when I stole a slice of bread in a cafeteria.
+1284	Fear	I had an appointment with a good friend. He came 3 hours later than we agreed upon. During the last hour of waiting I was afraid something might had happened, because usally he is in time.
+1285	Fear	When I had to travel alone, unescorted for the first time.     It was an over-night journey by train to a distant place.
+1286	Anger	Someone didn't show up at a meeting in spite of having agreed to come.
+1287	Anger	My friend often played a joke on me and sometimes I thought that he was a nonsensical person. Once when we went to a friend's house he walked in first and shut the door firmly behind him.  I felt that he did not respect me and moreover I was his friend so he should not have behaved like that.  I was very angry (as it is I was in a bad mood then).
+1288	Shame	When I gave my boyfriend a brush-off.
+1289	Shame	Saw on TV China not winning more gold medals in the Asian Olympics.
+1290	Joy	On a sailing boat at night, under a full moon, listening to Pink Floyd, drinking good wine, with good company, the boat being steered by autopilot, and a full eclipse of the moon.
+1291	Joy	When my husband and I decided to take a few days holiday after a particularly trying period.
+1292	Anger	I was enjoying the company of bird life while I was eating lunch in a park when a group of people began throwing sticks at some of the birds - for no reason other than the satisfaction of seeing them being scared away.
+1293	Fear	I felt fear some months ago of losing the person whom I loved when she said to me that she didn't love me.
+1294	Fear	I was with my boyfriend forgetting that I had left the house unlocked. Unfortunatly a thief came and stole all the kitchen utensils. Thereafter I was afraid of the consequences.
+1295	Guilt	I felt guilty when I learnt that some of friends found the finished at the Cafeteria because I took food which was more than my share.
+1296	Disgust	Heard someone boasting his fortune telling and I knew he was lying.
+1297	Fear	Before an exam in logics.
+1298	Fear	I was scared in the dark when I was a little boy.
+1299	Anger	We were starting a student project, and the teacher we talked to was very negative and not very helpful.
+1300	Fear	I went to the apartment of my boyfriend and saw some people before his door. I thought that something had happened.
+1301	Joy	I felt joy most strongly some years ago, when I took part in a NH Competition and I was the first.
+1302	Shame	When I almost did something awful with a friend of mine and myself.
+1303	Disgust	The time I knocked a deer down - the sight of the animal's injuries and helplessness.  The realization that the animal was so badly hurt that it had to be put down, and when the animal screamed at the moment of death.
+1304	Anger	During my last exam.
+1305	Joy	It was in December last year that I was chosen to come to this Institution to study as a Medical Assistant.
+1306	Joy	When I talk to my friends.
+1307	Fear	When I was walking on a fairly out-of-the-way street.
+1308	Guilt	Not helping other people to do their homework.
+1309	Anger	A chief was unjustly punished on an autumn brigade and the one who was really guilty kept silent. I stepped in front and told the truth. The guilty chief called me in after the roll-call and threatened me.
+1310	Anger	Yesterday I read in the newspaper that a 30 year old woman had abused her 2 month old son and had caused his death.  I was very angry after reading this as this is not a human act and to abuse so fragile a life is not a forgivable sin.
+1311	Sadness	Several years ago my mother died. She had been ill for a long time, but nevertheless her death came unexpectedly. I did not and I still do not want to believe that it is true.
+1312	Sadness	When I failed one of my courses at school - the university of Zambia.
+1313	Sadness	When I learnt that my close friend was going to immigrate.
+1314	Fear	During the last academic year i.e 1983/1984 just before the closure, we were surrounded and threatened by the paramilitary forces.
+1315	Sadness	My friend has to go on field trips, he just told me.
+1316	Sadness	When I was 10/11 years old my father travelled very much for his work (he passed three months away from home).
+1317	Disgust	A certain girl asked me what my major was and when I told her that it was P.A she started criticizing it saying, \I hate that á|course.\"  She just shows off in front of other people."
+1318	Joy	Finding out I was chosen for the English lectures.
+1319	Shame	At a private party I literally fell into the food. The party was completely ruined for the host, carpets had to be cleaned, etc.
+1320	Shame	I think that I am rather shy and do not mix with people as I would have liked to, out of shyness.
+1321	Shame	A friend of mine has not very much money. Therefore, once I stayed with him and his girlfriend, I bought some meat, but nobody wanted to go and prepare it for dinner. My friend said \I thought á|you wanted to invite us for dinner\". \"Of course\", I said, but I á|thought by myself that it must have been enough that I had bought á|it."
+1322	Fear	Staying in the room alone at night.
+1323	Sadness	When I had an argument with a friend.
+1324	Fear	I felt fear when once I was asleep and dreamed that I was dying asfixiated by a cardiac attack, I was afraid and woke up desperate. Altough I wasn't afraid of death I was afraid.
+1325	Disgust	When my husband quarrelled with me for no reason at all.
+1326	Fear	Hearing a strange noise in the biology building.
+1327	Sadness	When I missed my train this morning, I felt sad for some time.
+1328	Shame	When I was tired and unmotivated, I shouted at my girlfriend and and brought up negative sides of her character which are actually not so important.
+1329	Sadness	When a friend, after being free of drugs for half a year, started using them again.á
+1330	Joy	When I was sick my husband bought me a piece of cake.
+1331	Guilt	I moved to Nijmegen for my study. Soon after this my mother had to be admitted in hospital because of cardiac compliants. I knew that my moving was an important reason for this.
+1332	Joy	The day I received the key of my apartment and we could enter in it, for my fiancT and I had bought it yet in plans, and it seemed to us that this was almost impossible to happen.
+1333	Shame	Having finally to admit I was wrong, after having denied it for a long time.
+1334	Sadness	We are several friends but our characters are very different and we inevitably split in the two extremes. It is sad that I myself don't know what to do, I try not to hurt either of the \parties\" á|because there are conflicts to which one I should belong."
+1335	Sadness	When I heard the news that my brother had passed away.  It was the first time that I lost a brother.
+1336	Anger	I missed an opportunity to go abroad because of some silly mistakes for which I had to suffer a lot.
+1337	Anger	I was indignant at the unimpartiality shown by the referees at the football match between Bulgaria and France.
+1338	Sadness	A few months a close relative of mine died.  I had never expected this to happen and was sad for a few months.
+1339	Fear	I had an accident in which I hurt my eye.  I was afraid of having injured it badly.
+1340	Shame	Finding out China is backward in science.
+1341	Joy	Finding out my grades at the end of my freshman year.
+1342	Anger	A conflict with a pupil.
+1343	Guilt	I went to the cinema with my friends, without telling my mother about it as I had been to the cinema the day before also.  When she asked me where I had been, I lied.
+1344	Anger	When someone threw a firecracker into my room at 7:00 am in the morning.
+1345	Sadness	A case of unrequited love.
+1346	Disgust	Someone told me he was chosen for the English lectures because he was a good friend of the class leader.
+1347	Anger	When an English teacher unfairly made me repeat a semester which I thought I had passed.  I had to ask my parents for some more money to carry on studying.
+1348	Anger	At the hardware store, trying to convert Imperial to Metric measurements, I made a mistake, and didn't buy enough tiles for the bathroom. I was angry at myself, because I hope to be a Maths teacher.
+1349	Guilt	I was driving a friend's car, and I got close to the pavement to ask my way and I struck a parked car.
+1350	Sadness	I have high expectations for my future but if I pursue the subject in this manner I will not attain this.
+1351	Fear	I was caught doing something I was not supposed to do.  I did something with the person who caught me (bribe) and even though he promised not to report me, I am still frightened.
+1352	Anger	I felt angry when I failed in an exam about which I knew quite a few things and I did not deserve to be plucked.
+1353	Joy	I felt the greatest burst of joy when after being heavily ill for a long period, my father came back home.
+1354	Disgust	[ No response.]
+1355	Shame	When I bribed the person who caught me doing something I was not supposed to have done.  I was very ashamed of what I had done.
+1356	Joy	Winning a race that I had been training for, for many weeks. (Running Race).
+1357	Disgust	When other people refuse to do their house jobs and give the work to someone else.
+1358	Guilt	The time I was at secondary school during the holiday I appeared to my father while heavily drunk and I talked nonsense like in some sort of carefree.
+1359	Anger	I was on vacation, and therefore I did not attend a meeting of the day care centre.  Nevertheless, the very day I came back they called me early morining to ask me \what are you going to do á|about the matter ?\" (which had been discussed in the meeting).  á|Then I got angry."
+1360	Shame	When I was in grade one, one day I felt like going to the toilet during class but I was very scared of the teacher so I urinated in the class.
+1361	Anger	Disagreements with mother.  When I moved from KankaanpSS, she had promised to help me move but broke her promise because of some hindrance.
+1362	Disgust	I feel disgust towards those who are responsible for the death of others.
+1363	Joy	Talking to a close friend.
+1364	Anger	When my boss enrolled in a course to satisfy his own ends - to trample on his associates.  I have the misfortune to have one of my superiors in my course.
+1365	Fear	After I was thrown out of a car in an accident, this resulted in a fracture.
+1366	Sadness	When I was told that a good friend was seriously ill.
+1367	Guilt	I call my mother at least once a week. However last week I completely forgot. This morning she called me, she thought I felt ill.
+1368	Joy	When I pass exams, or when a close friend of mine recovered from an illness,etc.
+1369	Anger	My mother had for some time been trying to separate me from a good friend who, she thought, was not good company for me.  Finally, at breakfast one day, we had an argument and I tried to defend my friend.
+1370	Sadness	When my father died.
+1371	Joy	When I was admitted to the University.
+1372	Disgust	Having moved into a flat within the last week I felt some disgust that a bathroom tap had been left to drip with a faulty fawcet.
+1373	Shame	When I was leaving home I decided to leave without saying good-bye to my young brother.  My brother saw me and said,        \ Will you not say good-bye to me?\"  He is only 31/2 years old. "
+1374	Anger	[ No response.]
+1375	Anger	When my flatmate put me down because she \thought\" she was better á|than me, or she felt she was."
+1376	Guilt	My mother had sent me to buy a few things.  The change I brought back was not right as I had given away some money to a friend thinking that she would not notice it.  However, my mother told me that the change was not correct.
+1377	Guilt	At times I have been attracted to conducts which are socially degraded due to their ill consequences, and then I feel guilty.
+1378	Sadness	To fight with a sister and to know that she doesn't care.
+1379	Disgust	I visited a place in Morocco where they worked the leather.  I saw the skins emerged in a liquid which ressembled putrification.
+1380	Shame	The time I shouted at most of my friends at a party.  It was as if  all my friends had done something wrong, or may be it was the influence of the beer.
+1381	Sadness	When I was in Bombay one of my good friends was getting married and he had not informed me about it, this made me sad.
+1382	Shame	When my best friend foud out I'd been lying about something I'd been doing behind her back.
+1383	Guilt	I lied to one of my best friends.
+1384	Guilt	I pointed a failure of a friend of mine.
+1385	Disgust	[ When some people act very important in any situation.]
+1386	Guilt	In Biarritz (the South of France) I met some English students who, especially for me, went to Paris and gave me food, while I didn't have any more money.
+1387	Shame	I had a misunderstanding with my father and after some time I found that I had been wrong.
+1388	Joy	After a busy day I went back to my hostel.  I closed the door and had a drink, then I read my favourite book on the bed.  Suddenly I felt peace and joy.
+1389	Disgust	Some boys boasting about their ability to tell dirty jokes.
+1390	Anger	When present boyfriend's mother approached my parents and self - to leave her son alone - as she did not want me for a future daughter-in-law.
+1391	Guilt	When I failed an exam I thought I could pass easily.
+1392	Sadness	When my parents separated temporarily and I was left behind with my father.  As I loved my mother I wanted to go with her.
+1393	Disgust	When I got indecent offers.
+1394	Sadness	One of the greatest sadness was when my grandfather died, because I loved him very much.
+1395	Disgust	I felt disgusted while studying for my applied psychology and mental testing papers in B.A.
+1396	Guilt	I was not able to explain well to my good friend to make him less angry.
+1397	Disgust	When my mother betrayed me by obtaining money from my husband when we were separated - pending divorce.
+1398	Sadness	When I said good-bye to my girlfriend.  I had spent two years on developing this relationship and it was unsuccessful, I felt very sad.
+1399	Shame	When I was a child, my uncle came to see us. I spit at him and ran out - I do not know the reason for that. My father came after me and insisted on my apologizing.
+1400	Sadness	I did not quite succeed in breast feeding my baby.
+1401	Sadness	When my friend (girl) went abroad for two years.
+1402	Sadness	The death of an animal we had reared.
+1403	Sadness	For not having succeded in getting the job as a translator that I wanted.
+1404	Joy	When I was selected to a University College of Nursing.
+1405	Anger	[ No response.]
+1406	Anger	I had been in love with a certain young man who pretended to love me but one day I found out that he had another girlfriend who was also a friend of mine.
+1407	Joy	Seeing relations from overseas after a few years.
+1408	Shame	When I was 13 years old I wrote passionate love letters to my boyfriend and I later found out that his sister had read them.
+1409	Guilt	[ Do not remember any incident.]
+1410	Joy	This happened a year when I was having a hard time, I got admission to do research despite obstacles in the procedure of admission.
+1411	Guilt	Did not get up early enough to watch my class football team playing against another team.
+1412	Fear	I feel fear when I only imagine I could lose confidence in my own abilities and powers. A similar feeling I feel sometimes before an exam.
+1413	Sadness	I was told that a friend of a friend committed suicide.
+1414	Guilt	When I had wrongly explained someone an important exemple for an examination.
+1415	Disgust	When I saw an insect going up my arm.
+1416	Disgust	When I saw President Reagan get elected.
+1417	Anger	A few monthe ago, when my brother's wife told me that I had bad manners.  To make matters worse she did not let me use their telephone as she only allowed people of her own tribe.
+1418	Guilt	Friend's fiancT left her for me.
+1419	Shame	During our last exarcise in agricultural machines we went out in the yard to examine a row of machines. But we seemed not to have fulfilled our task well, because when our teacher came and asked me a question I was unable to answer. I felt awkward because he didn't deserve it.
+1420	Fear	I was in form five at the boarding school and my friends and I had gone drinknig beer in the nearby village.  And we were caught red handed there by a form master.
+1421	Anger	I read in the newspaper that the Student Lodging Fund was going to build new appartments for refugees (in my opinion this is the state's affair).  This is when only a fractoin of the students can find an appartment.
+1422	Disgust	We had friends to dinner and one of them threw a beer bottle in the air, and it bounced on an expensive table and damaged the table .The person did not apologise.
+1423	Joy	When my daughter gave her solo dance performance in Poona and there was a big applause, I was overjoyed.
+1424	Guilt	When I do or say something inappropriate which hurts people close to me.
+1425	Guilt	I had to take care of the plants of a friend of mine for several weeks. I watered them, but let them stand in a cold room so that two of them perished.
+1426	Fear	Once I woke up in the middle of the night and felt frightened as everyone else was sleeping and I could not even go to their room.
+1427	Shame	When I swindled money out of someone.
+1428	Joy	Walking along the beach with a friend (another girl), talking, picking up shells, laughing, chasing seagulls.
+1429	Shame	When my darling found me walking hand in hand with another girl whom I loved also.
+1430	Fear	When there was a bomb threat in Tolman Hall. This was the first time that I felt my life could be in danger.
+1431	Shame	I wanted my boyfriend to stay when he didn't. He stayed but when he left I felt ashamed because I should have let him leave when he wanted. I was too selfish.
+1432	Disgust	When I was watching some scenes from the Bertoluchi's film \Twentieth Century\"."
+1433	Sadness	When my grandmother after staying with us for awhile went back home.
+1434	Joy	I had not studied very much for my final examination at school, so I had to take an additional examination in French. The oral examination was not very hard for me - the more I was glad when I heard that I had passed it.
+1435	Sadness	When I left a man in whom I really believed.
+1436	Disgust	For a drunk man (about 20 years old) that I met one evening, and who behaved impudently with the girls standing by.
+1437	Sadness	I worked for seven months in a factory, and made friends with a fellow worker.  Later, I visited my former fellow workers and was told that, while in the army, my friend had shot himself.
+1438	Anger	I was drawn up a statement for an infringement of the traffic ordinance. In fact I was innocent.
+1439	Shame	Did not finish homework.
+1440	Joy	In 1980 when I was in the 12th standard, we had arranged a small picnic in Kandala.  One of my closest friends wrote a small and cute poem for me, which expressed the feeling of closeness we had for each other.  I was very thrilled and I can still remember it.
+1441	Fear	I was walking alone in the street late at night (2.30 am). It was very quiet. Then a man approached me and said \Hello\"."
+1442	Anger	When a so-called friend let me down, when she promised to tell me when a certain concert was occurring, and that she'd get me tickets. I was really looking forward to it. She did nothing, just told me out of the blue one day what a fantastic concert it was going to be.
+1443	Sadness	When I quarrelled with a very close friend of mine.
+1444	Sadness	At the death of a close relative.
+1445	Anger	Found out that someone I knew well has been misunderstanding me for 2 years.
+1446	Disgust	A colleague and I were sitting on a bench next to an old man in a shopping centre. the old man coughed and spluttered somewhat, then with his fingers removed the resultant phlegm and mucous from his mouth, and transferred it onto the armrest of the bench.
+1447	Joy	Aticle published.
+1448	Sadness	[ No response.]
+1449	Disgust	I met a girl (22 years old), married. I liked her. I asked her for a date and I kissed her. I discovered that she lived nearby where I passed every day. I got amused thinking that her husband would be ... or me . I didn't talked to her anymore.
+1450	Sadness	A friend of mine was hospitalized after having been diagnosed as having typhoid, he had to forgo his exams and also his ambition of doing a dissertation at the M.A level.  It was a very sad event for me and I felt very sorry for him so I volunteered to stay with him in the hospital.
+1451	Disgust	3 years ago I served in the army. Once a collegue denounced me because of a delict, which is usually committed. I was arrested for 3 days. I still detest this man.
+1452	Sadness	I like someone who does not like me and was rude to me.
+1453	Guilt	When I demand too much from my friends.
+1454	Anger	I was watching TV with a friend. After the first film I wanted to watch another film on the same channel. My friend switched over to the other cannel without asking me what I wanted.
+1455	Guilt	A close friend of mine was leaving for graduate school out of state. I had arranged to gather some people together the day before he left to be with him and have a good time, but I didn't pay as much attention to him as I should have.
+1456	Shame	After failing a second attempt at Med 4, following a number of difficult personal circumstances.
+1457	Sadness	When a friend left me and went back home for good.
+1458	Disgust	At an unworthy behaviour of a man, pettiness, stupidity and mostly at a philistinism.
+1459	Shame	Saw a beggar on the street (China still so poor).
+1460	Sadness	Disappointed by a friend.
+1461	Disgust	When I went to report a stolen good at the police station, the woman-officer-in-charge was very rude and did not seem to have respect for anyone.
+1462	Anger	When I found my boyfriend, who I had been dating for a year, at another girl's house. We had had previous conflicts concerning the girl, but he had always claimed they were just friends.
+1463	Fear	I was sleeping alone in the house at night. A boy putting on a short only knocked at the window whispering that I should open for him.
+1464	Disgust	I was sitting in school, waiting for my sister to go home. Suddenly a boy put fire in a paper and threw it were I was sitting. The paper didn't get me, but I felt terribly disgusted at this cowardliness and irresponsibility that caused a great discussion. We went to the director and he, drunk as always, said that I was ... attention in school. I felt disgust of this situation, and of the persons implicated in it.
+1465	Guilt	I was spending a few days at my aunt's place.  One night I got home very late, I had told them I was going to a party but I went to another place.  They were very worried.
+1466	Anger	A girl I was with went off with another guy.
+1467	Disgust	I feel disgusted with the bootlickers, with helpless people.
+1468	Fear	One year, when I went to a camp, I was chased by a dog.  I tried hard and finally managed to escape from it.  My torch suddenly went off and we talked about ghost stories and I thought that there were ghosts.
+1469	Anger	I was angry with a friend of mine who behaved in an affected manner.
+1470	Anger	When I was the target of a great many insults and completely unfair accusations of a large group of people.
+1471	Disgust	When a girl in my class (on the secondary school) appeased the teacher, resulting in getting a higher grade. This occurred often with her.
+1472	Disgust	The way my husband and his family treated me - unfairly, cruelly, and unjustly.
+1473	Joy	When my older sister told us that she was thinking of joining the rest of the family for the winter sports holiday.
+1474	Sadness	I was sad when I heard that my cousin died because of being bewitched by her husband's second wife.
+1475	Sadness	The death of my grandfather.
+1476	Anger	When I saw my younger sister being bothered by a boy she did not know.
+1477	Guilt	I had to leave an important function early because of family commitments. Someone else had to complete my job.
+1478	Anger	Insulted by teacher.
+1479	Shame	I didn't offer my seat to a pregnant woman in the bus.
+1480	Sadness	A very close friend left me.
+1481	Anger	When my bosom friend tried to lie to me.
+1482	Shame	I overreacted towards my mother and felt ashamed afterwards.
+1483	Guilt	Borrowing a car, and then having a minor accident (breaking a headlight).
+1484	Anger	I shared a secret with a friend and it later turned out that he had revealed it to another person with whom I didn't get along very well.
+1485	Joy	When you told everyone in the last lecture you will do all lectures again in English and everybody can come (not only English classes)
+1486	Shame	I went to see a friend. There were other people, too, and everybody brought some present. I was the onlyone who brought nothing. My friend was very hospitable and did not show anything - although I knew how he felt.
+1487	Anger	I got angry at a friend of mine whom I caught reading my notebook (almanach).
+1488	Fear	When going for my driver's licence for the third time, because everything, it seemed, hinged on getting it. I was really nervous, and the testing Officer made me a little afraid as well. There were lots of things to worry about. I passed however.
+1489	Disgust	I stayed for several weeks with a friend of mine before she moved to live with her husband. One evening he came drunk and made an awful scene, which I still remember.
+1490	Disgust	When a close relative got quite drunk. It was a relative that I had respected for a long time and looked up to as a child.
+1491	Anger	When a friend carelessly broke and object in my parent's house and did not apologize, or pay, or anything.
+1492	Guilt	I stopped my car in front of a pedestrian crossing as a child was crossing the street.  The car driving in the next lane did not stop and the child got hurt.  Had I not stopped ...
+1493	Joy	I felt joy when I heard my name being called on the radio as one of the students who had passed the interview of Nursing and was selected to start Nursing.
+1494	Disgust	I had experienced odd moments one time when a patient came into the Ward in which I was working. The patient was badly burnt in the right side of her body. I was very nervous at the sight.
+1495	Disgust	A drunkard fell, started bleeding and wet himself.  Disgust that turned into sadness-unpleasantness.
+1496	Disgust	My roommate boasting about her English lectures.
+1497	Fear	I and my cousin went to a filmshow at night. We went without making it known to my mother. While we were there at interval, I came across my mother just close to where we sat.
+1498	Sadness	When my family heard that my Mother's cousin who lives in England wrote us to tell that he had cancer of the lymph glands.
+1499	Sadness	When my family and I heard of the death of my grandfather.  We had  seen him a few weeks earlier and it seemed that he had just been waiting to see us.
+1500	Fear	When I had left my home, my father, under false pretences, got me in his car and drove home where we were all alone. He was seethed with rage because I withrew from his authority. He hit me, kicked me and threatened me.
+1501	Shame	I had to pay a fine because of speeding.
+1502	Guilt	The first time I went away with my boyfriend and lied about where we were staying.
+1503	Disgust	I had to wash my grandmother because she did not get to the bathroom on time.
+1504	Fear	I was to meet one of my friends (girl) at the library at 8:00 already dark. She would be walking alone. She was 45 minutes late but I kept waiting, calling her room and other places she could have been.
+1505	Guilt	When I lied to the physiology teacher.
+1506	Anger	When my dad told me about something he had done against my mother.
+1507	Anger	My sister had promised to help me to do a translation from English into German. But the day I needed her she told me that she was busy - I was very angry.
+1508	Disgust	When we were young, a friend of mine tried to dissect a frog while  we were playing near his home.
+1509	Guilt	[ No response.]
+1510	Anger	My little niece, who is very talkative, suddenly became very naughty and began wetting her pants.  She did it one afternoon.
+1511	Joy	The day the Real Madrid team of basket ball qualified for the final at Athens.
+1512	Anger	A person walking his dog allowed it to defecate on the footpath outside my house. Although it had happened before, this was the first time I had witnessed it. All the skills I had learnt from PY 263 were thrown out the window when his indifference to my protestation was obvious to me.
+1513	Shame	I look up to my Karate-teacher. When I came to a training lesson after I had not trained for one week, I was totally stiff. I was ashamed.
+1514	Guilt	I failed to complete a working task within the agreed time.
+1515	Shame	[ No response.]
+1516	Joy	[ No response.]
+1517	Shame	I told my primary teacher I hadn't done my homework as my mother was in a car accident. My teacher rang that night to see how my mother was - she was fine i.e. no accident !
+1518	Guilt	My baby sister was 2-3 months old and when I was trying to get her on my back, she slipped and fell.
+1519	Guilt	Car accident. I let a 16-year old, incompetent parson take the wheel and I feel very guilty about what happened even though I suffered the worst injuries.
+1520	Joy	When I saw a friend of mine, whom I had not seen for a long time and I had lost his address and telephone number.
+1521	Shame	In an examination ,which other students found easy I could hardly think and did not know what to answer.
+1522	Sadness	I have once been very sad and lonely.  This was when I was trying to organize a play as a student (15 years).  Instead of materializing, it fizzled out.  The worst thing was that the play fell apart completely and I found myself weeping uncontrollably.  Now when I think of it, I laugh it off; but at that time it was intense.
+1523	Fear	Going to take my driving test.
+1524	Fear	When I realized that we are living on borrowed time, and that the nuclear holocaust appears to come closer every day.
+1525	Disgust	When I went to visit a relative and saw how messy and dirty his place was, in the absence of his wife.
+1526	Shame	Again, a quarrel had come up in our difficult relationship.  My life-partner threw all the books off the shelf.  I am sure that it disturbed our neighbours since this happened late in the night.
+1527	Joy	I met again a very good friend whom I had not seen for a long time.
+1528	Shame	After making a joke about a friend's marriage that was too personal.
+1529	Guilt	When my Bictorian \friend\" was staying at my house we ere going á|places together, and sleeping together. At the time I had a á|boyfriend locally. The first time I had to face him after á|sleeping with the guy from Melbourne I felt very guilty."
+1530	Sadness	The day I was to receive my gold-medal for the M.A, my grandmother, who I loved very much, died after an illness.  She  died a few hours before the convocation.  While I was attending the convocation I had to control my grief as she would not have liked me to miss it.  It was a day she had been waiting for, but did not get to see.
+1531	Fear	I felt fear of the purest kind after a car accident.  The incident and images of horror kept coming back to my mind.  I wondered what could have happened to my sister, my friend and me, though nothing very serious actually happened.
+1532	Disgust	Does not apply.
+1533	Shame	When I failed one of the tests because I had not worked hard enough.
