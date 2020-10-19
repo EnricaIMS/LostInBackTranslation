@@ -21,9 +21,15 @@ $ pip install nltk==3.4.4
 * [PyTorch](https://pytorch.org) version >= 1.4.0
 
 ### Emotion Module
-Both the analysis of emotion connotations and the re-ranking of hypotheses are based on an emotion classifier. You are free to use one of your choice.
+Both the analysis of emotion connotations and the re-ranking of hypotheses are based on an emotion classifier. A different emotion classifiers is used for each emotion corpus.
 
-Put ...
+Put the pretrained emotion classifiers in the folder emotion_module/trained-classifiers.
+
+
+|    ISEAR | BLOGS | TALES |  TEC  |
+|------------:|------------:|-------------:|----------|
+|[Download](https://drive.google.com/file/d/1hX0ey3EcVCMdL8ZkQ4Y-YiEmVNT8T_Y2/view?usp=sharing)| [Download](https://drive.google.com/file/d/1gA092woQIeh54omQStThvhLsStLOnH6l/view?usp=sharing) | [Download](https://drive.google.com/file/d/1Oh0V6QQ1dW8j_uqRYwz4FHveUmAkxVPX/view?usp=sharing) | [Download](https://drive.google.com/file/d/1KpfQne8l0QX3sybD3xu6RivUoC-K25eG/view?usp=sharing)|
+
 
 ## Data Preprocessing
 
@@ -32,14 +38,17 @@ Put ...
 $ git clone https://github.com/EnricaIMS/LostInBackTranslation.git
 $ cd LostInBackTranslation
 ```
+0.1 Get data in folder data
 
-1. Preprocess the data.
+
+
+2. Classify the data.
 
 ```sh
-$ python -m sesame.preprocess
+$ python -m emotion_module.classify_file.py $FILENAME
 ```
-The code above puts the data in the right format (Sentence_id EmotionLabel TargetEmotion Text).
-The same format is required both for analysis, emotion recover and transfer.
+
+3. Main.py
 
 # Contact
 For questions, please contact `enrica.troiano@ims.uni-stuttgart.de`.
