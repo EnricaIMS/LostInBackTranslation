@@ -1,5 +1,5 @@
 Put in this folder your emotion-annotated data in .txt. 
-The (tab separated) data have the format:
+The (tab separated) data must have the format:
 
 Sentence_id	Emotion_label	Text
 
