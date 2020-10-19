@@ -1,18 +1,20 @@
 '''
-Tkes a (tab separated) file with the following format:
-Sentence id\tEmotion\tTargetEmotions\tText
+Takes a (tab separated) file with the following format:
+Sentence id\tEmotion\tText
 (The name of the corpus from which the text comes must be in config.ini)
 
-Returns a file in ../../data/ which is just like the input, 
-but with Emotion being the predicted emotion.                                 
+Returns a file in ../../data/ of the form Sentence id\tEmotion\tTargetEmotion\tText
+where Emotion is now the predicted emotion, and the target emotion depends on the
+goal of pipeline usage.                    
 
 '''
 
 import torch, configparser, warnings, datetime
-import torch.nn as nn
-from torch.autograd import Variable
 import sys, dill, re
+import torch.nn as nn
+import pandas as pd
 
+from torch.autograd import Variable
 from objective.emotion import EmotionClassifier
 
 script='./scripts/emotion_module/classify_file.py'
@@ -53,36 +55,44 @@ def makePrediction(sentence):
     currentEmotion=max(scores, key=scores.get)
     return(currentEmotion,scores)
             
-def classify_file(nameInput,emo_labels):
+def classify_file(nameInput,emo_labels,goal):
     f=open('../../data/classified_'+currentCorpus+'.txt','w')
     ordered_emotions=[emo.lower() for emo in sorted(emo_labels, key=emo_labels.get)]
-    with open(nameInput, 'r') as myfile:
-        for line in myfile:        
-            #classify the original sentence
-            sentence=line.split('\t')[-1].strip()
-            target_emotions=line.split('\t')[-2].strip()
-            ids=line.split('\t')[0]
-            original_emotion=line.split('\t')[1]
-            sentence=re.sub('[^A-Za-z0-9,;:\-\(\)\'\"\!\?\.]',' ', sentence)
-            emotions_scores=makePrediction(sentence)
-    
-            emoscore=emotions_scores[1]
 
-            emoscore=[str(emoscore[emo]) for emo in ordered_emotions]
-            scores='\t'.join(emoscore)
-
-            f.write(ids+'\t'+emotions_scores[0]+'\t'+target_emotions+'\t'+sentence+'\n') #emotions_scores[0] is the predicted emotion   
+    myFile = pd.read_csv(nameInput, sep="\t", header=None)
+    colsINPUT = ["Sentence_id", "EmotionLabel", "Sentence"]
+    myFile.columns = colsINPUT
     
+    # What will be inserted in TargetEmotion column in output file, depending on goal
+    if goal == "Simple_Translation":
+        target_emotions = 'None'
+    
+    else:
+        # use emotion labels and as target emotions
+        target_emotions = ', '.join(emo_labels).lower()
+
+    for i,row in myFile.iterrows():
+        #classify the original sentence
+        sentence=row["Sentence"].strip()
+        print(sentence)
+        ids=row["Sentence_id"]
+            
+        sentence=re.sub('[^A-Za-z0-9,;:\-\(\)\'\"\!\?\.]',' ', sentence)
+        emotions_scores=makePrediction(sentence)
+
+        f.write(str(ids)+'\t'+emotions_scores[0]+'\t'+target_emotions+'\t'+sentence+'\n') #emotions_scores[0] is the predicted emotion       
     f.close()
+    print("{} : {} : STATUS : File has been preprocessed and classified. Output saved in ../../data/ .".format(script, datetime.datetime.now(),nameInput))
 
 if __name__ == "__main__":
     nameInput=sys.argv[1]    
     print("{} : {} : STATUS : Classifying {} .".format(script, datetime.datetime.now(),nameInput))
 
-    # Take name of corpus from which data comes
+    # Take name of corpus from which data comes and the goal of the analysis
     parameters=configFile('../../config/config.ini')
     locals().update(parameters)
     currentCorpus=parameters['Data'].strip()
+    goal=parameters['Goal'].strip()
 
     # Use the model trained on it
     EC=BiLSTM()
@@ -90,6 +100,4 @@ if __name__ == "__main__":
 
     # Classify the file
     emo_labels = allLabels[currentCorpus]
-    classify_file(nameInput,emo_labels)
-    
-    print("{} : {} : STATUS : File has been classified in ../../data/classified_{}.txt .".format(script, datetime.datetime.now(),nameInput))
+    classify_file(nameInput,emo_labels,goal)
