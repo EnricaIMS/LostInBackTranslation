@@ -11,17 +11,26 @@ or to perform emotion style transfer via re-ranking of the generated hypotheses.
 
 
 ## Installation and Requirements
-This project runs on python==3.7.3 and uses some additional NLTK packages.
+This project runs on python>=3.7 and uses some additional packages.
+
+* [Python](https://www.python.org) version >= 3.7.0
 
 ```sh
-$ pip install nltk==3.4.4
+$ conda create -n LostInBackTranslation python=3.7 anaconda
+$ pip install -r Requirements.txt
 ```
+### Input Data
+
 ### Translation Module
+
+[Download](https://github.com/pytorch/fairseq/blob/master/examples/wmt19/README.md) the models and put them into scripts/translation_module/translation_models
+
 * [FAIRSEQ](https://fairseq.readthedocs.io/en/latest/)
 * [PyTorch](https://pytorch.org) version >= 1.4.0
 
-### Emotion Module
-Both the analysis of emotion connotations and the re-ranking of hypotheses are based on an emotion classifier. A different emotion classifiers is used for each emotion corpus.
+
+### Emotion Modules
+Both the emotion-informed selection and the subsequent analysis of emotion change are based on an emotion classifier. A different classifiers is used for the data coming from a specific emotion corpus.
 
 Put the pretrained emotion classifiers in the folder emotion_module/trained-classifiers.
 
@@ -43,9 +52,9 @@ $ cd LostInBackTranslation
 
 
 2. Classify the data.
-
+mv to scripts.emotion_module
 ```sh
-$ python -m emotion_module.classify_file.py $FILENAME
+$ python classify_file.py $FILENAME
 ```
 
 3. Main.py
