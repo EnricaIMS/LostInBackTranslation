@@ -25,11 +25,14 @@ $ pip install -r Requirements.txt
 |[ISEAR](https://drive.google.com/file/d/1hX0ey3EcVCMdL8ZkQ4Y-YiEmVNT8T_Y2/view?usp=sharing)| [BLOGS](https://drive.google.com/file/d/1gA092woQIeh54omQStThvhLsStLOnH6l/view?usp=sharing) | [TALES](https://drive.google.com/file/d/1Oh0V6QQ1dW8j_uqRYwz4FHveUmAkxVPX/view?usp=sharing) | [TEC](https://drive.google.com/file/d/1KpfQne8l0QX3sybD3xu6RivUoC-K25eG/view?usp=sharing)|
 |------------|------------|------------|------------|
 
-### Input Data
+
+### Setting Data and other Parameters
 A different classifiers is used for the data coming from a specific emotion corpus:
-### Examples
+
+
+## Examples
 
 
 
-# Contact
+## Contact
 For questions, please contact `enrica.troiano@ims.uni-stuttgart.de`.
