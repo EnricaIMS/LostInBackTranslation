@@ -171,7 +171,8 @@ class iTranslate(object):
 
 
 def main():
-    args = '--path translation_models/wmt19.en-de.joined-dict.ensemble/model1.pt:translation_models/wmt19.en-de.joined-dict.ensemble/model2.pt:translation_models/wmt19.en-de.joined-dict.ensemble/model3.pt translation_models/wmt19.en-de.joined-dict.ensemble/ --beam 5 --source-lang en --target-lang de --remove-bpe --batch-size 32 --buffer-size 32 --replace-unk --bpe fastbpe --bpe-codes translation_models/wmt19.en-de.joined-dict.ensemble/bpecodes --nbest 5'
+    path='../../../../backtranslation/scripts/translation_module/'
+    args = '--path '+path+'translation_models/wmt19.en-de.joined-dict.ensemble/model1.pt:'+path+'translation_models/wmt19.en-de.joined-dict.ensemble/model2.pt:'+path+'translation_models/wmt19.en-de.joined-dict.ensemble/model3.pt '+path+'translation_models/wmt19.en-de.joined-dict.ensemble/ --beam 5 --source-lang en --target-lang de --remove-bpe --batch-size 32 --buffer-size 32 --replace-unk --bpe fastbpe --bpe-codes '+path+'translation_models/wmt19.en-de.joined-dict.ensemble/bpecodes --nbest 5'
     inputs = '''
             Emotions are nice little creatures, but they are lost in translation.
             Participants to the ISEAR experiment described sad events.
