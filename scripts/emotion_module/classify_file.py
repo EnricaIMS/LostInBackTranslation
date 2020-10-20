@@ -15,7 +15,8 @@ import torch.nn as nn
 import pandas as pd
 
 from torch.autograd import Variable
-from objective.emotion import EmotionClassifier
+sys.path.append('./emotion_module')
+from emotion_module.objective.emotion import EmotionClassifier
 
 script='./scripts/emotion_module/classify_file.py'
 warnings.filterwarnings('ignore', '.*Source*')
@@ -39,9 +40,9 @@ def configFile(inifile):
     return parameters
 
 class BiLSTM:
-    def loadModel(self,currentCorpus:str):
-        fields_path = './trained-classifiers/' + 'BiLSTM' + '-' + currentCorpus + "_fields.dill"
-        self.model = torch.load('./trained-classifiers/' + 'BiLSTM' + '-' + currentCorpus +".pt")
+    def loadModel(self,currentCorpus:str,path_to_Classifiers):
+        fields_path = path_to_Classifiers + 'BiLSTM' + '-' + currentCorpus + "_fields.dill"
+        self.model = torch.load(path_to_Classifiers + 'BiLSTM' + '-' + currentCorpus +".pt")
         self.model.eval()
         with open(fields_path, 'rb') as f:
             self.fields = dill.load(f)
@@ -50,26 +51,26 @@ class BiLSTM:
         scores = self.emocl.get_scores(text)
         return scores
     
-def makePrediction(sentence):
+def makePrediction(sentence,EC):
     scores=EC.getPredictions([sentence])[0]
     currentEmotion=max(scores, key=scores.get)
     return(currentEmotion,scores)
-            
-def classify_file(nameInput,emo_labels,goal):
-    f=open('../../data/classified_'+currentCorpus+'.txt','w')
+
+
+
+
+def classify_file(nameInput,emo_labels,EC):
+    f=open('../data/classified_input.txt','w')
     ordered_emotions=[emo.lower() for emo in sorted(emo_labels, key=emo_labels.get)]
 
     myFile = pd.read_csv(nameInput, sep="\t", header=None)
     colsINPUT = ["Sentence_id", "EmotionLabel", "Sentence"]
     myFile.columns = colsINPUT
     
-    # What will be inserted in TargetEmotion column in output file, depending on goal
-    if goal == "Simple_Translation":
-        target_emotions = 'None'
-    
-    else:
-        # use emotion labels and as target emotions
-        target_emotions = ', '.join(emo_labels).lower()
+    # What will be inserted in TargetEmotion column in output file
+    # even if the goal is not emotion transfer (RQ3) 
+    # -for consistency in file formats
+    target_emotions = ', '.join(emo_labels).lower()
 
     for i,row in myFile.iterrows():
         #classify the original sentence
@@ -77,26 +78,27 @@ def classify_file(nameInput,emo_labels,goal):
         ids=row["Sentence_id"]
             
         sentence=re.sub('[^A-Za-z0-9,;:\-\(\)\'\"\!\?\.]',' ', sentence)
-        emotions_scores=makePrediction(sentence)
+        emotions_scores=makePrediction(sentence,EC)
 
         f.write(str(ids)+'\t'+emotions_scores[0]+'\t'+target_emotions+'\t'+sentence+'\n') #emotions_scores[0] is the predicted emotion       
     f.close()
-    print("{} : {} : STATUS : File has been preprocessed and classified. Output saved in ../../data/ .".format(script, datetime.datetime.now(),nameInput))
+    print("{} : {} : STATUS : File has been preprocessed and classified. Output saved in ../data/ .".format(script, datetime.datetime.now(),nameInput))
 
 if __name__ == "__main__":
-    nameInput=sys.argv[1]    
+    nameInput = sys.argv[1]
+    path_to_Classifiers = './emotion_module/trained-classifiers/'
     print("{} : {} : STATUS : Classifying {} .".format(script, datetime.datetime.now(),nameInput))
 
     # Take name of corpus from which data comes and the goal of the analysis
-    parameters=configFile('../../config/config.ini')
+    parameters=configFile('../config/config.ini')
     locals().update(parameters)
     currentCorpus=parameters['Data'].strip()
     goal=parameters['Goal'].strip()
 
     # Use the model trained on it
     EC=BiLSTM()
-    EC.loadModel(currentCorpus)
+    EC.loadModel(currentCorpus,path_to_Classifiers)
 
     # Classify the file
     emo_labels = allLabels[currentCorpus]
-    classify_file(nameInput,emo_labels,goal)
+    classify_file(nameInput,emo_labels,EC)
