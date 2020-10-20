@@ -39,16 +39,16 @@ Download and move our pretrained BiLSTMs in ```emotion_module/trained-classifier
 
 ## Example Usage
 
-First, classify the text before running the pipeline.
+Move to the folder ```scripts``` to classify the text before running the pipeline: automatically assigned labels will be used as input emotions.
 
 ```sh
-$ python -m scripts.classify_emotions ../data/ISEAR.txt
+$ python -m emotion_module.classify_emotions ../data/ISEARtest.txt
 ```
 
 Next: translate, back-Translate and measure the change in emotions.
 
 ```sh
-$ py -m scripts.main ../data/classified_input.txt
+$ py -m main.py ../data/classified_input.txt
 ```
 
 ## Contact
