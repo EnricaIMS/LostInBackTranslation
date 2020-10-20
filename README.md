@@ -45,7 +45,7 @@ First, classify the text before running the pipeline.
 $ python -m scripts.classify_emotions ../data/ISEAR.txt
 ```
 
-Now translate, back-Translate and measure the change in emotions.
+Next: translate, back-Translate and measure the change in emotions.
 
 ```sh
 $ py -m scripts.main ../data/classified_input.txt
