@@ -52,11 +52,9 @@ class Translation:
      
     def forwardbackTranslation(self,inputText:str,numForward:int,numBackward:int,sourceLanguage:str,targetLanguages:list):
         translations=list()
-        
         # Translate current sentence with the models that have already been uploaded
         for f in forwardpairs.keys(): #consider all the language pairs of forward translation (e.g. en->de, en->ru)
             
-        
             languages=f.split('2')
             target=languages[1]
             source=languages[0]
@@ -64,8 +62,6 @@ class Translation:
             back=target+'2'+source # direction of backtranslation
             
             inputText=sent_tokenize(inputText)
-
-            print('{} : {} : STATUS : The Translation Model will now translate the input text from {} to {}.'.format(script, datetime.datetime.now(),source,target))
             
             #the backtranslations for one input
             translation=list()
@@ -127,7 +123,6 @@ class Translation:
                         backSentences=backTranslation[:numBackward] #so just take some backtranslations, even if not unique    
                     else:
                         backSentences=list(uniques_backward.keys())[:numBackward]
-                    print(backSentences)
     
                     if len(backSentences)<numBackward:
                         while len(backSentences)<numBackward:
@@ -162,15 +157,8 @@ class Translation:
                     missing_tr.write(inputText+' : added as a backtranslation'+str(len(missing))+'times.\n')
                     for r in range(missing):
                         translation.append(inputText)
-                        
-                
-
             
             for y in translation:
                 translations.append([y,target])     
-            print('{} : {} : STATUS : Produced {} backward translations for the current sentence'.format(script, datetime.datetime.now(), len(translations)))
-                              
-                        
-        print('{} : {} : STATUS : Done with backtranslation.'.format(script, datetime.datetime.now()))
-        
+
         return translations
