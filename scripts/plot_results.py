@@ -39,9 +39,9 @@ def plotResults(goal):
     df.style.background_gradient(cmap='Blues')
     plt.figure()
 
-    if goal=='Simple_Overgeneration':
+    if goal=='RQ3':
         log_norm=LogNorm(vmin=0, vmax=.5)
-    if goal=='Restore_Overgeneration':
+    if goal=='RQ2':
         log_norm= SymLogNorm(linthresh=0.001, vmin=-.1,vmax=1.)
     else:
         log_norm= SymLogNorm(linthresh=0.001, vmin=-.04, vmax=.35)

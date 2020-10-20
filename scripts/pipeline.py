@@ -56,7 +56,7 @@ class Paraphrase(object):
         self._sentence=sentence
         self._score=score
         self._EmoScore=EmoScore
-        self._allEmoScores=allEmoScores #this serves just when goal= Restore_Overgenerate
+        self._allEmoScores=allEmoScores
         self._sourceLanguage=sourceLanguage
         self._targetLanguage=targetLanguage
         self._targetEmotion=targetEmotion
@@ -89,7 +89,6 @@ def loadTranslationModels(sourceLanguage:str,targetLanguages:list,decoding:str,n
     global TRM
     TRM=trans.Translation() #this will load models for all source-target pairs
     TRM.loadTranslationModel(sourceLanguage,targetLanguages,decoding,numbForwtransl,numbBacktransl)      
-
 
 
 def scoreInput(originalEmo,sentenceID, sentence:str,trainingData):
@@ -186,12 +185,12 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
             instance._sentenceID=p._sentenceID
             instance._targetEmotion=emo.strip() 
             instance._EmoScore=current_emo
-            if goal=='Restore_Overgeneration':
+            if goal=='RQ2':
                 instance._allEmoScores=scores    
             
             sort_paraphrases.append(instance)
             
-            if goal=='Restore_Overgeneration':
+            if goal=='RQ2':
                 target_in_original=float(ORIGINALemoscores[index_of_target]) #score of target emo in the original sentence
                 delta=current_emo-target_in_original
                 instance._score+=delta
@@ -199,7 +198,7 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
                 #paraphrase score, which can be added to LM score
                 instance._score+=current_emo
         
-        if goal=='Restore_Overgeneration':
+        if goal=='RQ2':
             #take paraphrases with minimum delta
             sort_paraphrases = sorted(sort_paraphrases, key=lambda x: x._score)
             deltas = [x._score for x in sort_paraphrases]        
@@ -216,7 +215,7 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
     #with Restore_Overgenerate, comment this line if I want to minimize delta between the original emotion scores
     # and those of the paraphrase
     # when this is uncommented, I am taking only the paraphrase which minimizes the original emotion
-    if goal=='Restore_Overgeneration':
+    if goal=='RQ2':
         delta_minimizer=[s for s in selected if s._targetEmotion==originalEmo.strip().lower()][0]
         selected=list()
         #basically we take the same item seven times, one per target emo
