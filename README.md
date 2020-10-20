@@ -4,8 +4,9 @@ A NMT-based pipeline for the analysis of emotions in back-translations. The pipe
 Emotion Preservation in Neural Machine Translation](add link here), can be used to compare the emotion connotation of input texts vs. their back-translations 
 or to perform emotion style transfer via re-ranking of the generated hypotheses. A visualization of the pipeline is shown below.
 
-![procedure](fig/pipeline.png)
-
+<p align="center">
+<img align="center" src="fig/pipeline.png" width="790" height="120">
+</p>
 
 ## Installation and Requirements
 This project runs on [Python](https://www.python.org) version >= 3.7.0. Clone the repository and install the additional packages with:
