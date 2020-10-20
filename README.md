@@ -17,25 +17,22 @@ $ cd LostInBackTranslation
 $ pip install -r Requirements.txt
 ```
 
-### Input Data
-
 ### Translation Module
 
 [Download](https://github.com/pytorch/fairseq/blob/master/examples/wmt19/README.md) the ensamble models pretrained by [Ng et al.(2019)](https://www.aclweb.org/anthology/W19-5333.pdf) and store them in scripts/translation_module/translation_models.
 
 
 ### Emotion Modules
-Both the emotion-informed selection and the subsequent analysis of emotion change are based on an emotion classifier. A different classifiers is used for the data coming from a specific emotion corpus.
+Both the emotion-informed selection and the subsequent analysis of emotion change are based on an emotion classifier. A different classifiers is used for the data coming from a specific emotion corpus:
 
-Put the pretrained emotion classifiers in the folder emotion_module/trained-classifiers.
+|[ISEAR](https://drive.google.com/file/d/1hX0ey3EcVCMdL8ZkQ4Y-YiEmVNT8T_Y2/view?usp=sharing)| [BLOGS](https://drive.google.com/file/d/1gA092woQIeh54omQStThvhLsStLOnH6l/view?usp=sharing) | [TALES](https://drive.google.com/file/d/1Oh0V6QQ1dW8j_uqRYwz4FHveUmAkxVPX/view?usp=sharing) | [TEC](https://drive.google.com/file/d/1KpfQne8l0QX3sybD3xu6RivUoC-K25eG/view?usp=sharing)|
+|------------|------------|------------|------------|
 
+Download and move the pretrained emotion classifiers in the folder emotion_module/trained-classifiers.
+### Input Data
 
-|    ISEAR | BLOGS | TALES |  TEC  |
-|------------:|------------:|-------------:|----------|
-|[Download](https://drive.google.com/file/d/1hX0ey3EcVCMdL8ZkQ4Y-YiEmVNT8T_Y2/view?usp=sharing)| [Download](https://drive.google.com/file/d/1gA092woQIeh54omQStThvhLsStLOnH6l/view?usp=sharing) | [Download](https://drive.google.com/file/d/1Oh0V6QQ1dW8j_uqRYwz4FHveUmAkxVPX/view?usp=sharing) | [Download](https://drive.google.com/file/d/1KpfQne8l0QX3sybD3xu6RivUoC-K25eG/view?usp=sharing)|
+### Examples
 
-
-## Data Preprocessing
 
 
 # Contact
