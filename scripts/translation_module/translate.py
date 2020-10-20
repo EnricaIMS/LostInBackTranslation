@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 
 '''
-Translate files. Specify decoding method and numb. of 
-forward and backward hypotheses in configs/config.ini
+Translate files. Decoding method and 
+numb. of forward and backward hypotheses 
+are in configs/config.ini
 '''
 
 import torch, re, string
@@ -18,6 +19,7 @@ script='./translation_module/translate.py'
 class Translation:
     
     def loadTranslationModel(self,sourceLanguage:str,targetLanguages:list,decoding:str,numForward:int,numBackward:int):
+        path='../../../backtranslation/scripts/'
         global forwardpairs
         global backwardpairs
         forwardpairs={}
@@ -37,8 +39,8 @@ class Translation:
 
         #load the models
         for t in targetLanguages:
-            forward='--path translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/model4.pt translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/ --source-lang '+sourceLanguage+' --target-lang '+t+' --remove-bpe --bpe fastbpe --bpe-codes translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/bpecodes '+configuration+' --tokenizer moses'
-            backward='--path translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/model4.pt translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/ --source-lang '+t+' --target-lang '+sourceLanguage+' --remove-bpe --bpe fastbpe --bpe-codes translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/bpecodes '+configuration+' --tokenizer moses'
+            forward='--path '+path+'translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/model4.pt '+path+'translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/ --source-lang '+sourceLanguage+' --target-lang '+t+' --remove-bpe --bpe fastbpe --bpe-codes '+path+'translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/bpecodes '+configuration+' --tokenizer moses'
+            backward='--path '+path+'translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/model4.pt '+path+'translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/ --source-lang '+t+' --target-lang '+sourceLanguage+' --remove-bpe --bpe fastbpe --bpe-codes '+path+'translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/bpecodes '+configuration+' --tokenizer moses'
             forwardpairs[sourceLanguage+'2'+t]=iTranslate(forward)
             print('{} : {} : STATUS : Loaded model for forward translation.'.format(script, datetime.datetime.now()))
 
@@ -73,40 +75,37 @@ class Translation:
                 sentence=re.sub('"','',sentence)
                 sentence=sentence.replace('\\','').strip()
                 current_sentence=list()
-                #GO FORWARD
-                forwardTranslation=forwardpairs[f].translate_batch([sentence])
                 
-                # CLUSTER
-                # If there is the number of cluster parameter, select only N sentences (centroids of N clusters) for backtranslation
-                if cluster!='None':
-                    N=int(cluster)
-                    selectedForward=cm.select(N,forwardTranslation,target) #N number of clusters, list of sentences to be clustered, language of translations
-                    forwardSentences=selectedForward
-
-                #Take only some of them (uniques numforward)
-                else:
-                    uniques_forward={} # (original sentence:stripped sentence)These will be used for backtranslation
-                    #Try to take numForward uniques from the ones that have been produced
-                    for line in forwardTranslation:
-                        # If two sentences are the same (regardless of punctuation and upper/lowercase), consider only 1
-                        stripped=line.translate(str.maketrans('', '', string.punctuation)) # strip from punctuation
-                        u=stripped.lower().strip()
-                        if u not in uniques_forward.values():
-                            uniques_forward[line]=u
+                '''
+                Go forward: Translate sentence by sensence.
+                Try to take numForward uniques translations. 
+                '''
+                forwardTranslation=forwardpairs[f].translate_batch([sentence])
+        
+                uniques_forward={} # (original sentence:stripped sentence) later used for backtranslation
+                
+                for line in forwardTranslation:
+                    # If two sentences are the same (regardless of punctuation and upper/lowercase), consider only 1
+                    stripped=line.translate(str.maketrans('', '', string.punctuation)) 
+                    u=stripped.lower().strip()
+                    if u not in uniques_forward.values():
+                        uniques_forward[line]=u
                     
-                    forwardSentences=list(uniques_forward.keys())[:numForward]
+                forwardSentences=list(uniques_forward.keys())[:numForward]
                 #but if this is not possible, take some (# of missing sentences to reach the numForward) from cleanForward
-                    if len(forwardSentences)<numForward:
-                        missings=numForward-len(forwardSentences)
-                        while len(forwardSentences)<numForward:
-                            if missings>len(forwardSentences): #there are more missing sentences than sentences in forwardtranslation
-                                randSentences=[random.choice(forwardSentences)]
-                            else: 
-                                missings=numForward-len(forwardSentences)
-                                randSentences=random.sample(forwardSentences,missings)
-                            for r in randSentences:
-                                forwardSentences.append(r)
-                #GO BACKWARD
+                if len(forwardSentences)<numForward:
+                    missings=numForward-len(forwardSentences)
+                    while len(forwardSentences)<numForward:
+                        if missings>len(forwardSentences): #there are more missing sentences than sentences in forwardtranslation
+                            randSentences=[random.choice(forwardSentences)]
+                        else: 
+                            missings=numForward-len(forwardSentences)
+                            randSentences=random.sample(forwardSentences,missings)
+                        for r in randSentences:
+                            forwardSentences.append(r)
+                '''
+                Go backward.
+                '''
                 back_uniques={}
                 for sentence in forwardSentences:
          
@@ -141,15 +140,11 @@ class Translation:
                                 backSentences.append(r)
             
                     current_sentence.append(backSentences)
-                    
-            
                 
                 current_sentence=[item for sublist in current_sentence for item in sublist]
-            
                 translation.append(current_sentence)
             
             if len(inputText)!=1:
-            
                 #merge the sentence by sentence translations
                 merge_translation=list(zip(*translation))
             
@@ -175,9 +170,6 @@ class Translation:
                 translations.append([y,target])     
             print('{} : {} : STATUS : Produced {} backward translations for the current sentence'.format(script, datetime.datetime.now(), len(translations)))
                               
-
-                               
-
                         
         print('{} : {} : STATUS : Done with backtranslation.'.format(script, datetime.datetime.now()))
         
