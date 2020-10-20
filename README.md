@@ -4,29 +4,24 @@ A NMT-based pipeline for the analysis of emotions in back-translations. The pipe
 Emotion Preservation in Neural Machine Translation](add link here), can be used to compare the emotion connotation of input texts vs. their back-translations 
 or to perform emotion style transfer via re-ranking of the generated hypotheses. A visualization of the pipeline is shown below.
 
-
-
 ![procedure](fig/pipeline.png)
 
 
-
 ## Installation and Requirements
-This project runs on python>=3.7 and uses some additional packages.
-
-* [Python](https://www.python.org) version >= 3.7.0
+* This project runs on [Python](https://www.python.org) version >= 3.7.0. 
+* Clone the repository and install the additional packages with:
 
 ```sh
-$ conda create -n LostInBackTranslation python=3.7 anaconda
+$ git clone https://github.com/EnricaIMS/LostInBackTranslation.git
+$ cd LostInBackTranslation
 $ pip install -r Requirements.txt
 ```
+
 ### Input Data
 
 ### Translation Module
 
-[Download](https://github.com/pytorch/fairseq/blob/master/examples/wmt19/README.md) the models and put them into scripts/translation_module/translation_models
-
-* [FAIRSEQ](https://fairseq.readthedocs.io/en/latest/)
-* [PyTorch](https://pytorch.org) version >= 1.4.0
+[Download](https://github.com/pytorch/fairseq/blob/master/examples/wmt19/README.md) the ensamble models pretrained by [Ng et al.(2019)](https://www.aclweb.org/anthology/W19-5333.pdf) and store them in scripts/translation_module/translation_models.
 
 
 ### Emotion Modules
@@ -42,22 +37,6 @@ Put the pretrained emotion classifiers in the folder emotion_module/trained-clas
 
 ## Data Preprocessing
 
-0. Clone the repository
-```sh 
-$ git clone https://github.com/EnricaIMS/LostInBackTranslation.git
-$ cd LostInBackTranslation
-```
-0.1 Get data in folder data
-
-
-
-2. Classify the data.
-mv to scripts.emotion_module
-```sh
-$ python classify_file.py $FILENAME
-```
-
-3. Main.py
 
 # Contact
 For questions, please contact `enrica.troiano@ims.uni-stuttgart.de`.
