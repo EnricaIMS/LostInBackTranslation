@@ -91,7 +91,7 @@ def loadTranslationModels(sourceLanguage:str,targetLanguages:list,decoding:str,n
     TRM.loadTranslationModel(sourceLanguage,targetLanguages,decoding,numbForwtransl,numbBacktransl)      
 
 
-def scoreInput(originalEmo,sentenceID, sentence:str,trainingData):
+def scoreInput(originalEmo,sentenceID, sentence:str,trainingData,emoLabels):
     '''
     Give emotion scores to input sentence.
     '''
@@ -109,15 +109,16 @@ def scoreInput(originalEmo,sentenceID, sentence:str,trainingData):
     # Scored input will be saved here
     nameFILE=path_to_Output+'scored_input.txt'
     with open(nameFILE,'a') as scoredINPUT:
-        labelAndScores=css.makePrediction(sentence,EC) # (classified emo, {emo1:score, emo2:score...})
-        scores=list(labelAndScores[1].values())
+        labelAndScores=css.makePrediction(sentence,EC,emoLabels) # (classified emo, [emo1score, emo2score...})
+        scores=list(labelAndScores[1])
         input_emotion_score=np.max(scores)
         ORIGINALscores=[str(round(x,3)) for x in scores]
         mystr='\t'+'\t'.join(ORIGINALscores)
         scoredINPUT.write(str(sentenceID)+'\t'+originalEmo+'\t'+sentence+mystr+'\n')
 
-    print('{} : {} : STATUS : Scored input sentence: {}.'.format(script, datetime.datetime.now(), str(sentenceID)))
+    print('{} : {} : STATUS : Processed input sentence: {}.'.format(script, datetime.datetime.now(), str(sentenceID)))
     return(input_emotion_score,ORIGINALscores)
+
 
 def paraphraseSentences(sentence: str, sentenceID, numbForwtransl:int, numbBacktransl:int, sourceLanguage:str, targetLanguages:list):     
     '''
@@ -135,11 +136,10 @@ def paraphraseSentences(sentence: str, sentenceID, numbForwtransl:int, numbBackt
         instance._sentenceID=sentenceID
         outputsentences.append(instance)
     
-    return(outputsentences)
-    
+    return(outputsentences)    
 
 
-def scoreParaphrase(paraphrases:list,goal:str):
+def scoreParaphrase(paraphrases:list,goal:str,emoLabels):
     '''
     Emotion Classifier module in pipeline.
     Give emotion scores to backtranslations.
@@ -148,8 +148,8 @@ def scoreParaphrase(paraphrases:list,goal:str):
 
     for instance in paraphrases:
         p=instance._sentence
-        emoscore=css.makePrediction(p,EC)
-        scores=[round(x,3) for x in list(emoscore[1].values())]
+        emoscore=css.makePrediction(p,EC,emoLabels)
+        scores=[round(x,3) for x in list(emoscore[1])]
         instance._EmoScore=scores                        
         scoredParaphrases.append(instance)      
 
@@ -163,7 +163,6 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
     '''
     selected=list()
 
-    #select best for every target emotion
     for emo in targetEmotion:
         sort_paraphrases=list()
         emo=emo.strip()
@@ -177,7 +176,7 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
             index_of_target=emo_maps[emo]    
             current_emo=scores[index_of_target] #score of target in paraphrases
         
-            # I cannot just modify the p._Emoscore otherwise I loose the info for the different emotions
+            # I cannot just modify the p._Emoscore otherwise I lose the info for the different emotions
             instance=Paraphrase(p) 
             instance._sentence=p._sentence
             instance._sourceLanguage=p._sourceLanguage
@@ -195,7 +194,6 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
                 delta=current_emo-target_in_original
                 instance._score+=delta
             else:
-                #paraphrase score, which can be added to LM score
                 instance._score+=current_emo
         
         if goal=='RQ2':
@@ -237,14 +235,14 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
     return selected
 
 
-def processLine(originalEmo,targetEmotion:list, text: str, sentenceID, sourceLanguage: str, targetLanguages:list, numbForwtransl:int, numbBacktransl: int, trainingData:str, numTopParaphrases: int, goal:str):        
+def processLine(originalEmo,targetEmotion:list, text: str, sentenceID, sourceLanguage: str, targetLanguages:list, numbForwtransl:int, numbBacktransl: int, trainingData:str, numTopParaphrases: int, goal:str,emoLabels):        
     '''
     Get paraphrases/backtranslations for
     every input line.
     '''
-    original_emo_score=scoreInput(originalEmo,sentenceID, text, trainingData)
+    original_emo_score=scoreInput(originalEmo,sentenceID, text, trainingData, emoLabels)
     paraphrases = paraphraseSentences(text, sentenceID, numbForwtransl, numbBacktransl, sourceLanguage, targetLanguages)
-    scoredParaphrases=scoreParaphrase(paraphrases,goal)
+    scoredParaphrases=scoreParaphrase(paraphrases,goal,emoLabels)
     
     paraphraseStrings = get_best_paraphrases(scoredParaphrases, numTopParaphrases,targetEmotion,originalEmo, original_emo_score[0],original_emo_score[1],goal)
     
@@ -263,7 +261,7 @@ def readInput():
                 yield line
 
 
-def translateAndscore(sourceLanguage:str, targetLanguages:str, numbForwtransl:int, numbBacktransl:int, trainingData:str, numTopParaphrases: int, decoding:str, goal: str):
+def translateAndscore(sourceLanguage:str, targetLanguages:str, numbForwtransl:int, numbBacktransl:int, trainingData:str, numTopParaphrases: int, decoding:str, goal: str, emoLabels):
     '''
     Combine all the functions above.
     '''
@@ -281,7 +279,7 @@ def translateAndscore(sourceLanguage:str, targetLanguages:str, numbForwtransl:in
         sentence=line[-1]
         sentence=re.sub('\ +', ' ',sentence)
         originalEmo=line[1]
-        outputsentence=processLine(originalEmo,targetEmotion,sentence,sentenceID, sourceLanguage,targetLanguages, numbForwtransl, numbBacktransl, trainingData, numTopParaphrases, goal)
+        outputsentence=processLine(originalEmo,targetEmotion,sentence,sentenceID, sourceLanguage,targetLanguages, numbForwtransl, numbBacktransl, trainingData, numTopParaphrases, goal, emoLabels)
         resultingParaphrases.append(outputsentence)
         
         for o in outputsentence:
@@ -327,7 +325,8 @@ if __name__ == "__main__":
 
 
     # Start main process    
-    final_paraphrases = translateAndscore(sourceLanguage, targetLanguages, numbForwtransl, numbBacktransl, trainingData, numTopParaphrases, decoding, goal)
+    emoLabels=css.chooseEmoLabels(trainingData)
+    final_paraphrases = translateAndscore(sourceLanguage, targetLanguages, numbForwtransl, numbBacktransl, trainingData, numTopParaphrases, decoding, goal, emoLabels)
     
 
     print('{} : {} : STATUS : End of the script.'.format(script, datetime.datetime.now()))
