@@ -8,7 +8,7 @@ This script:
       (RQ1 vs. RQ2 vs. RQ3)
 '''
 import configparser, sys, argparse
-import datetime, re, os
+import datetime, re, os, copy
 
 #to access elements of Tensor
 from torch.autograd import Variable
@@ -166,17 +166,18 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
     for emo in targetEmotion:
         sort_paraphrases=list()
         emo=emo.strip()
-    
+        
+        if goal=='RQ2' and emo!=originalEmo:
+            continue
+        
         for p in scoredParaphrases:
             score=0
-            p._score=score
-            # the score of the sentence for its target emotion
-        
-            scores=p._EmoScore    # set value to paraphrase obj
+            p._score=score 
+            scores=p._EmoScore
             index_of_target=emo_maps[emo]    
             current_emo=scores[index_of_target] #score of target in paraphrases
         
-            # I cannot just modify the p._Emoscore otherwise I lose the info for the different emotions
+            # I cannot modify p._Emoscore or I lose info about different emotions
             instance=Paraphrase(p) 
             instance._sentence=p._sentence
             instance._sourceLanguage=p._sourceLanguage
@@ -184,20 +185,21 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
             instance._sentenceID=p._sentenceID
             instance._targetEmotion=emo.strip() 
             instance._EmoScore=current_emo
+
             if goal=='RQ2':
                 instance._allEmoScores=scores    
-            
-            sort_paraphrases.append(instance)
-            
-            if goal=='RQ2':
-                target_in_original=float(ORIGINALemoscores[index_of_target]) #score of target emo in the original sentence
+                target_in_original=float(ORIGINALemoscores[index_of_target]) #score of target emo in input
                 delta=current_emo-target_in_original
                 instance._score+=delta
             else:
                 instance._score+=current_emo
+            sort_paraphrases.append(instance)
         
+        '''
+        Rerank, depending on RQ.
+        '''
         if goal=='RQ2':
-            #take paraphrases with minimum delta
+            #take paraphrases with minimum delta with input emotion
             sort_paraphrases = sorted(sort_paraphrases, key=lambda x: x._score)
             deltas = [x._score for x in sort_paraphrases]        
             min_delta=min(deltas, key=lambda x:abs(x-0))
@@ -209,29 +211,23 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
 
         for ts in top_scoring:
             selected.append(ts)
-    
-    #with Restore_Overgenerate, comment this line if I want to minimize delta between the original emotion scores
-    # and those of the paraphrase
-    # when this is uncommented, I am taking only the paraphrase which minimizes the original emotion
+
+
     if goal=='RQ2':
-        delta_minimizer=[s for s in selected if s._targetEmotion==originalEmo.strip().lower()][0]
+        #take only the paraphrase which minimizes the original emotion
+        delta_minimizer=selected[0] #item with most similar emotion to input
         selected=list()
-        #basically we take the same item seven times, one per target emo
         for emo in targetEmotion:
+            #take it many times, i.e. one per target emo
             emo=emo.strip()
-            instance=Paraphrase(p)
-            instance._sentence=delta_minimizer._sentence
-            instance._sourceLanguage=delta_minimizer._sourceLanguage
-            instance._targetLanguage=delta_minimizer._targetLanguage
-            instance._sentenceID=delta_minimizer._sentenceID
-            instance._targetEmotion=emo #this is the only thing which changes from one to the other
-         
+            new_paraphrase=copy.deepcopy(delta_minimizer)
+            new_paraphrase._targetEmotion=emo #only difference btw one and another
             index_of_target=emo_maps[emo]
-            print(delta_minimizer._allEmoScores)
-            current_emo=delta_minimizer._allEmoScores[index_of_target] #from all the scores of the sentence,take the one corresponding to the current target emo
-            instance._EmoScore=current_emo
-            selected.append(instance)
-    
+            #from all scores of the sentence, take that of current emo
+            current_emo=delta_minimizer._allEmoScores[index_of_target]
+            new_paraphrase._EmoScore=current_emo
+            selected.append(new_paraphrase)
+        
     return selected
 
 
@@ -270,7 +266,7 @@ def translateAndscore(sourceLanguage:str, targetLanguages:str, numbForwtransl:in
     myinput=readInput()
     
     # Save output here
-    outputFile=open(path_to_Output+'paraphrases.txt','w')
+    outputFile=open(path_to_Output+'scored_backtranslations.txt','w')
         
     for line in myinput:
         line=line.strip().split('\t')                  

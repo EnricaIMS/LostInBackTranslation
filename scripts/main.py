@@ -43,7 +43,7 @@ def loadData(InputFile,trainData):
     original=pd.read_csv(InputFile, sep='\t',header=None)
                   
     scored=pd.read_csv(path_to_Output+'scored_input.txt',sep='\t',header=None)   
-    paraphrases=pd.read_csv(path_to_Output+'paraphrases.txt',sep='\t',header=None,quoting=3)
+    paraphrases=pd.read_csv(path_to_Output+'scored_backtranslations.txt',sep='\t',header=None,quoting=3)
 
     # put data in the right format, depending on the corpus   
     if 'TEC' in trainData or 'TALES' in trainData or 'BLOGS' in trainData:
