@@ -22,12 +22,14 @@ script='./scripts/emotion_module/classify_file.py'
 warnings.filterwarnings('ignore', '.*Source*')
 
 # Different labels, depending on the used corpus
-allLabels={'BLOGS':{"Joy":1, "Fear":2,"Anger":3, "Sadness":4,"Disgust":5, "Noemo":6, "Surprise":0},
-           'DIALOGUES':{"Joy":1, "Fear":2,"Anger":3, "Sadness":4,"Disgust":5, "Noemo":6, "Surprise":0 },
-           'ISEAR':{"Joy":1, "Fear":2, "Anger":3, "Sadness":4,"Disgust":5, "Shame":6, "Guilt":0 },
-           'TALES':{"Joy":1, "Fear":2,"Anger":3, "Sadness":4,"Disgust":5, "Noemo":6, "Surprise":0 },
-           'TEC':{"Joy":1, "Fear":2,"Anger":3, "Sadness":4,"Disgust":5, "Surprise":0 }}
-
+def chooseEmoLabels(corpus):
+    allLabels={'BLOGS':{"Joy":1, "Fear":2,"Anger":3, "Sadness":4,"Disgust":5, "Noemo":6, "Surprise":0},
+            'DIALOGUES':{"Joy":1, "Fear":2,"Anger":3, "Sadness":4,"Disgust":5, "Noemo":6, "Surprise":0 },
+            'ISEAR':{"Joy":1, "Fear":2, "Anger":3, "Sadness":4,"Disgust":5, "Shame":6, "Guilt":0 },
+            'TALES':{"Joy":1, "Fear":2,"Anger":3, "Sadness":4,"Disgust":5, "Noemo":6, "Surprise":0 },
+            'TEC':{"Joy":1, "Fear":2,"Anger":3, "Sadness":4,"Disgust":5, "Surprise":0 }}
+    emo_labels = allLabels[corpus]
+    return emo_labels
 
 def configFile(inifile):
     config = configparser.ConfigParser()
@@ -51,17 +53,20 @@ class BiLSTM:
         scores = self.emocl.get_scores(text)
         return scores
     
-def makePrediction(sentence,EC):
+def makePrediction(sentence,EC,emoLabels):
     scores=EC.getPredictions([sentence])[0]
     currentEmotion=max(scores, key=scores.get)
+    
+    ordered_emotions=[emo.lower() for emo in sorted(emoLabels, key=emoLabels.get)]
+    scores=[scores[emo] for emo in ordered_emotions]
     return(currentEmotion,scores)
 
 
 
 
-def classify_file(nameInput,emo_labels,EC):
+def classify_file(nameInput,currentCorpus,EC):
     f=open('../data/classified_input.txt','w')
-    ordered_emotions=[emo.lower() for emo in sorted(emo_labels, key=emo_labels.get)]
+    emo_labels=chooseEmoLabels(currentCorpus)
 
     myFile = pd.read_csv(nameInput, sep="\t", header=None)
     colsINPUT = ["Sentence_id", "EmotionLabel", "Sentence"]
@@ -78,7 +83,7 @@ def classify_file(nameInput,emo_labels,EC):
         ids=row["Sentence_id"]
             
         sentence=re.sub('[^A-Za-z0-9,;:\-\(\)\'\"\!\?\.]',' ', sentence)
-        emotions_scores=makePrediction(sentence,EC)
+        emotions_scores=makePrediction(sentence,EC,emo_labels)
 
         f.write(str(ids)+'\t'+emotions_scores[0]+'\t'+target_emotions+'\t'+sentence+'\n') #emotions_scores[0] is the predicted emotion       
     f.close()
@@ -100,5 +105,4 @@ if __name__ == "__main__":
     EC.loadModel(currentCorpus,path_to_Classifiers)
 
     # Classify the file
-    emo_labels = allLabels[currentCorpus]
-    classify_file(nameInput,emo_labels,EC)
+    classify_file(nameInput,currentCorpus,EC)
