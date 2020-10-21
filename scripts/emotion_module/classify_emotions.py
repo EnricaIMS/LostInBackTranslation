@@ -69,12 +69,17 @@ def classify_file(nameInput,currentCorpus,EC):
     emo_labels=chooseEmoLabels(currentCorpus)
 
     myFile = pd.read_csv(nameInput, sep="\t", header=None)
+    if myFile.shape[1]==1:
+        #if you're using plain text. this puts it in right format
+        myFile.insert(0,"EmotionLabel",["" for x in range(myFile.shape[0])])
+        myFile.insert(0,"Sentence_id", [numb for numb in range(myFile.shape[0])])
+
     colsINPUT = ["Sentence_id", "EmotionLabel", "Sentence"]
     myFile.columns = colsINPUT
     
     # What will be inserted in TargetEmotion column in output file
     # even if the goal is not emotion transfer (RQ3) 
-    # -for consistency in file formats
+    # -for consistency in file formats among RQ1, RQ2 and RQ3
     target_emotions = ', '.join(emo_labels).lower()
 
     for i,row in myFile.iterrows():
