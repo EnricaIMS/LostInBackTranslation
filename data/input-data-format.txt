@@ -1,12 +1,6 @@
-Put in this folder your emotion-annotated data in .txt. 
-The (tab separated) data must have the format:
+Put in this folder your line-by-line .txt data. 
+
+If you use emotion-annotated data, it must be 
+tab separated and have the format:
 
 Sentence_id	Emotion_label	Text
-
-After preprocessing, the pipeline will be run on data_preprocessed.txt,
-which has the format
-
-Sentence_id	Emotion_label	TargetEmotion Text
-
-Note that the column TargetEmotion is present even for the simple analysis
-of the NMT output (where it is just a placeholder).
