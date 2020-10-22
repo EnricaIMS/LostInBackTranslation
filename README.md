@@ -25,7 +25,7 @@ Download the pretrained [ensamble models](https://github.com/pytorch/fairseq/blo
 
 Both the emotion-informed selection and the subsequent analysis of emotion change are based on an emotion classifier. 
 
-Download and move our pretrained BiLSTMs in ```emotion_module/trained-classifiers```. Each of them will output different emotion labels, as explained in the paper.
+Download and extract our pretrained BiLSTMs in ```emotion_module/trained-classifiers```. Each of them will output different emotion labels, as explained in the paper.
 
 |[ISEAR](https://drive.google.com/file/d/1hX0ey3EcVCMdL8ZkQ4Y-YiEmVNT8T_Y2/view?usp=sharing)| [BLOGS](https://drive.google.com/file/d/1gA092woQIeh54omQStThvhLsStLOnH6l/view?usp=sharing) | [TALES](https://drive.google.com/file/d/1Oh0V6QQ1dW8j_uqRYwz4FHveUmAkxVPX/view?usp=sharing) | [TEC](https://drive.google.com/file/d/1KpfQne8l0QX3sybD3xu6RivUoC-K25eG/view?usp=sharing)|
 |------------|------------|------------|------------|
