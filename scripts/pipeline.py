@@ -37,14 +37,14 @@ args = parser.parse_args()
 #Order of emotion in the classifier output vector
 #(will be useful to select the correct emotion score)
 
-emo_maps={'joy': 1, 'fear':2, 'anger':3, 'sadness':4, 'disgust':5}
-if 'ISEAR' in args.input:
-    emo_maps['guilt']= 0
-    emo_maps['shame']=6
-if 'TEC' in args.input or 'TALES' in args.input or 'BLOGS' in args.input or 'DIALOGUES' in args.input:
-    emo_maps['surprise']= 0
-if 'TALES' in args.input or 'BLOGS' in args.input or 'DIALOGUES' in args.input:
-    emo_maps['noemo']=6
+#emo_maps={'joy': 1, 'fear':2, 'anger':3, 'sadness':4, 'disgust':5}
+#if 'ISEAR' in args.input:
+#    emo_maps['guilt']= 0
+#    emo_maps['shame']=6
+#if 'TEC' in args.input or 'TALES' in args.input or 'BLOGS' in args.input or 'DIALOGUES' in args.input:
+#    emo_maps['surprise']= 0
+#if 'TALES' in args.input or 'BLOGS' in args.input or 'DIALOGUES' in args.input:
+#    emo_maps['noemo']=6
 
 
 
@@ -212,7 +212,6 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
         for ts in top_scoring:
             selected.append(ts)
 
-
     if goal=='RQ2':
         #take only the paraphrase which minimizes the original emotion
         delta_minimizer=selected[0] #item with most similar emotion to input
@@ -227,7 +226,7 @@ def get_best_paraphrases(scoredParaphrases:list, numTopParaphrases:int,targetEmo
             current_emo=delta_minimizer._allEmoScores[index_of_target]
             new_paraphrase._EmoScore=current_emo
             selected.append(new_paraphrase)
-        
+
     return selected
 
 
@@ -283,8 +282,8 @@ def translateAndscore(sourceLanguage:str, targetLanguages:str, numbForwtransl:in
             em_score=str(round(o._EmoScore,3))
             outputFile.write(sentenceID+'\t'+o._targetEmotion+'\t'+o._sentence+'\t'+em_score+'\n')
             
-    outputFile.close()   
-        
+    outputFile.close()
+
     return resultingParaphrases
 
 
