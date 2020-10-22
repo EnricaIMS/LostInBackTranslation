@@ -1,17 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-########################################################################
-#       THIS SCRIPT CHECKS THE DIFFERECE BETWEEN THE EMOTION SCORES    #
-#           BETWEEN THE INPUT SENTENCES AND THE PARAPHRASES            #
-#        This can be used also for other translation methods           #
-#                                                                      #
-#   How to:
-#                python deltaEmo.py Translation input
-#
-#               (input: namefilecontainingsentences.txt)
-#
-#
-########################################################################
+'''
+Calls pipeline to produce backtranslations.
+Checks the diff btw the emotion score of
+backtranslations and input texts.
+'''
 
 
 import sys, os, datetime, configparser, re
@@ -93,8 +86,7 @@ def compareEmotionscores(original, emoNames, scored, paraphrases,top_n):
             
             #take its backtranslations
             translations=paraphrases.loc[paraphrases['Sentence_id'] == originalSentenceID]
-            if translations.empty:
-                 continue            
+
             for i, transl in translations.iterrows():
                 target=transl['TARGETemo']
                 score=transl['emoScore']
@@ -149,7 +141,6 @@ def computeDeltas(InputFile):
     print('{} : {} : STATUS : End of the script.'.format(script, datetime.datetime.now()))
  
 
-''' MAIN METHOD'''
 if __name__ == "__main__":
     InputFile=sys.argv[1]       
     command='python pipeline.py -i '+InputFile
