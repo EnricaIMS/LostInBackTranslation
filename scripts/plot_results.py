@@ -11,7 +11,6 @@ from matplotlib.colors import LogNorm, SymLogNorm
 
 script='./plot_results.py'
 path_to_Output='../output/'
-path_to_Figure='../fig/'
 
 def plotResults(goal):
     
@@ -47,7 +46,7 @@ def plotResults(goal):
         log_norm= SymLogNorm(linthresh=0.001, vmin=-.04, vmax=.35)
     sns_plot = sns.heatmap(df, annot=True, norm=log_norm, cmap="YlGnBu")
     
-    figureName=path_to_Figure+'deltas.pdf'
+    figureName=path_to_Output+'deltas.pdf'
     plt.savefig(figureName,bbox_inches="tight")
 
     print('{} : {} : STATUS : Saved plots for {}.'.format(script, datetime.datetime.now(), nameofFile))
