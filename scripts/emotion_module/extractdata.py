@@ -1,9 +1,10 @@
 from emotion_module.objective.emocl.ued_handler import UEDDataset, UEDLoader 
 import random, sys
     
-datasets=sys.argv[1].split(',')
+datasets=['isear','tec','blogs','tales']
 
 for name in datasets:
+
     corpus=name.strip()
     if corpus=='blogs':
         corpus='emotiondata-aman'
