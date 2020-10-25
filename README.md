@@ -32,9 +32,10 @@ Download and extract our pretrained BiLSTMs in ```emotion_module/trained-classif
 
 ## Pipeline Configuration
 
-* **Data:** Put your text in the folder ```data```. To obtain the testsets used in our experiments, Run the The Unified Emotion Dataset script. Put the resulting unified-dataset.jsonl file into the datasets/ subfolder of the cloned repository, and run.
-
-Alternatively, You can run the pipeline on your own text (see ```data/input-data-format.txt```).
+* **Data:** Put your own text in the folder ```data``` (see ```data/input-data-format.txt```). Alternatively, get the texts of our experiments:
+  * run the [Unified Emotion Dataset](http://www.ims.uni-stuttgart.de/data/unifyemotion) script, which will download and store many emotion corpora;
+  * move the resulting ```unified-dataset.jsonl``` into ```data/unified-corpora/```;
+  * extract the testsets in ```data``` with ``` python -m emotion_module.extractdata```.
 
 * **Parameter Setting:** Follow ```config/config-documentation.ini``` to set your ```config.ini``` file and specify the parameters of the pipeline, like the number of forward and back- translations, the dataset on which the classifier was trained, and the goal of pipeline usage (**RQ1**, or **RQ2**, or **RQ3**).
 
