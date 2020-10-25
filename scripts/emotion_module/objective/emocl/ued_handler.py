@@ -1,6 +1,6 @@
 import logging
 
-from base import Dataset
+from emotion_module.preprocessing import Dataset
 
 from torchtext.data import Dataset, Example, Field
 
