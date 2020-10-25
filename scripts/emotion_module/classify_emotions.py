@@ -68,11 +68,10 @@ def classify_file(nameInput,currentCorpus,EC):
     f=open('../data/classified_input.txt','w')
     emo_labels=chooseEmoLabels(currentCorpus)
 
-    myFile = pd.read_csv(nameInput, sep="\t", header=None)
-    if myFile.shape[1]==1:
-        #if you're using plain text. this puts it in right format
-        myFile.insert(0,"EmotionLabel",["" for x in range(myFile.shape[0])])
-        myFile.insert(0,"Sentence_id", [numb for numb in range(myFile.shape[0])])
+    myFile = pd.read_csv(nameInput,header=None)
+    #put data in right format
+    myFile.insert(0,"EmotionLabel",["" for x in range(myFile.shape[0])])
+    myFile.insert(0,"Sentence_id", [numb for numb in range(myFile.shape[0])])
 
     colsINPUT = ["Sentence_id", "EmotionLabel", "Sentence"]
     myFile.columns = colsINPUT
