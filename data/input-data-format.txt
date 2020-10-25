@@ -1,6 +1,1 @@
 Put in this folder your line-by-line .txt data. 
-
-If you use emotion-annotated data, it must be 
-tab separated and have the format:
-
-Sentence_id	Emotion_label	Text
