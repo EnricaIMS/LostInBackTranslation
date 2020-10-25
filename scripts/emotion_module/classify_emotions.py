@@ -61,35 +61,28 @@ def makePrediction(sentence,EC,emoLabels):
     scores=[scores[emo] for emo in ordered_emotions]
     return(currentEmotion,scores)
 
-
-
-
 def classify_file(nameInput,currentCorpus,EC):
     f=open('../data/classified_input.txt','w')
     emo_labels=chooseEmoLabels(currentCorpus)
-
-    myFile = pd.read_csv(nameInput,header=None)
-    #put data in right format
-    myFile.insert(0,"EmotionLabel",["" for x in range(myFile.shape[0])])
-    myFile.insert(0,"Sentence_id", [numb for numb in range(myFile.shape[0])])
-
-    colsINPUT = ["Sentence_id", "EmotionLabel", "Sentence"]
-    myFile.columns = colsINPUT
     
-    # What will be inserted in TargetEmotion column in output file
-    # even if the goal is not emotion transfer (RQ3) 
-    # -for consistency in file formats among RQ1, RQ2 and RQ3
-    target_emotions = ', '.join(emo_labels).lower()
+    with open(nameInput,'r') as myFile:
+        line_number=1    
+        # What will be inserted in TargetEmotion column in output file
+        # even if the goal is not emotion transfer (RQ3) 
+        # -for consistency in file formats among RQ1, RQ2 and RQ3
+        target_emotions = ', '.join(emo_labels).lower()
 
-    for i,row in myFile.iterrows():
-        #classify the original sentence
-        sentence=row["Sentence"].strip()
-        ids=row["Sentence_id"]
+        for line in myFile:
+
+            ids=line_number
+            sentence=line.strip()
+            sentence=re.sub('[^A-Za-z0-9,;:\-\(\)\'\"\!\?\.]',' ', sentence)
             
-        sentence=re.sub('[^A-Za-z0-9,;:\-\(\)\'\"\!\?\.]',' ', sentence)
-        emotions_scores=makePrediction(sentence,EC,emo_labels)
+            #classify sentence
+            emotions_scores=makePrediction(sentence,EC,emo_labels)
 
-        f.write(str(ids)+'\t'+emotions_scores[0]+'\t'+target_emotions+'\t'+sentence+'\n') #emotions_scores[0] is the predicted emotion       
+            f.write(str(ids)+'\t'+emotions_scores[0]+'\t'+target_emotions+'\t'+sentence+'\n') #emotions_scores[0] is the predicted emotion       
+            line_number+=1
     f.close()
     print("{} : {} : STATUS : File has been preprocessed and classified. Output saved in ../data/ .".format(script, datetime.datetime.now(),nameInput))
 
