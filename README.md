@@ -44,7 +44,7 @@ Move to the folder ```scripts``` to classify the text before running the pipelin
 ```sh
 $ python -m emotion_module.classify_emotions ../data/NAME_OF_FILE.txt
 ```
-If you're using our test data, NAME_OF_FILE has to correspond to data in config.<br\ >
+If you're using our test data, NAME_OF_FILE has to correspond to data in config.<br/>
 
 Next: translate, back-Translate and measure the change in emotions. 
 
