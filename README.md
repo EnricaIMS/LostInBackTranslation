@@ -49,7 +49,7 @@ If you're using our test data, NAME_OF_FILE has to correspond to data in config.
 Next: translate, back-Translate and measure the change in emotions. 
 
 ```sh
-$ py -m main.py ../data/classified_input.txt
+$ python main.py ../data/classified_input.txt
 ```
 
 ## Contact
