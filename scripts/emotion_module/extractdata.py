@@ -13,10 +13,10 @@ loader = UEDLoader('../data/unified-corpora/unified-dataset.jsonl')
 for name in datasets:
     print("{} : {} : STATUS : Extracting {} data from ../data/unified-corpora".format(script, datetime.datetime.now(),name))
 
-    corpus=name.strip()
-    if corpus=='BLOGS':
+    corpus=name.strip().lower()
+    if corpus=='blogs':
         corpus='emotiondata-aman'
-    if corpus=='TALES':
+    if corpus=='tales':
         corpus='tales-emotion'
     
 
