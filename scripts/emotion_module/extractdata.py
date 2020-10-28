@@ -7,16 +7,16 @@ import random, sys, datetime
 
 script='./emotion_module/extractdata.py'
 
-datasets=['isear','tec','blogs','tales']
-loader = UEDLoader('../data/unified-coropora/unified-dataset.jsonl')
+datasets=['ISEAR','TEC','BLOGS','TALES']
+loader = UEDLoader('../data/unified-corpora/unified-dataset.jsonl')
    
 for name in datasets:
     print("{} : {} : STATUS : Extracting {} data from ../data/unified-corpora".format(script, datetime.datetime.now(),name))
 
     corpus=name.strip()
-    if corpus=='blogs':
+    if corpus=='BLOGS':
         corpus='emotiondata-aman'
-    if corpus=='tales':
+    if corpus=='TALES':
         corpus='tales-emotion'
     
 
