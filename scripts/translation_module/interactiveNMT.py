@@ -6,7 +6,7 @@
 """
 Translate raw text with a trained model. Batches data on-the-fly.
 
-This allows to call the models from a customized path..
+Allows to call the models from a customized path.
 """
 
 import unicodedata
@@ -170,15 +170,3 @@ class iTranslate(object):
         return hypotheses
 
 
-def main():
-    path='../../../../backtranslation/scripts/translation_module/'
-    args = '--path '+path+'translation_models/wmt19.en-de.joined-dict.ensemble/model1.pt:'+path+'translation_models/wmt19.en-de.joined-dict.ensemble/model2.pt:'+path+'translation_models/wmt19.en-de.joined-dict.ensemble/model3.pt '+path+'translation_models/wmt19.en-de.joined-dict.ensemble/ --beam 5 --source-lang en --target-lang de --remove-bpe --batch-size 32 --buffer-size 32 --replace-unk --bpe fastbpe --bpe-codes '+path+'translation_models/wmt19.en-de.joined-dict.ensemble/bpecodes --nbest 5'
-    inputs = '''
-            Emotions are nice little creatures, but they are lost in translation.
-            Participants to the ISEAR experiment described sad events.
-            '''.strip().split('\n')
-    it = iTranslate(args)
-    print(it.translate_batch(inputs))
-
-if __name__ == '__main__':
-    main()
