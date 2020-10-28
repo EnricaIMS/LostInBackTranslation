@@ -43,8 +43,8 @@ def configFile(inifile):
 
 class BiLSTM:
     def loadModel(self,currentCorpus:str,path_to_Classifiers):
-        fields_path = path_to_Classifiers + 'BiLSTM' + '-' + currentCorpus + "_fields.dill"
-        self.model = torch.load(path_to_Classifiers + 'BiLSTM' + '-' + currentCorpus +".pt")
+        fields_path = path_to_Classifiers + 'BiLSTM' + '-' + currentCorpus + "/BiLSTM" + '-' + currentCorpus + "_fields.dill"
+        self.model = torch.load(path_to_Classifiers + 'BiLSTM' + '-' + currentCorpus + '/BiLSTM' + '-'+ currentCorpus + ".pt")
         self.model.eval()
         with open(fields_path, 'rb') as f:
             self.fields = dill.load(f)
