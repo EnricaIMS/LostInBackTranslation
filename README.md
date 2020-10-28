@@ -25,7 +25,7 @@ Download the pretrained [ensamble models](https://github.com/pytorch/fairseq/blo
 
 Both the emotion-informed selection and the subsequent analysis of emotion change are based on an emotion classifier. 
 
-[Download](https://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/lost-in-back-translation/) our pretrained BiLSTMs and move them in ```emotion_module/trained-classifiers```. Each of the models will output different emotion labels, as explained in the paper.
+[Download](https://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/lost-in-back-translation/) our pretrained BiLSTMs and extract them in ```emotion_module/trained-classifiers```. Each of the models will output different emotion labels, as explained in the paper.
 
 ## Pipeline Configuration
 
@@ -44,6 +44,7 @@ Move to the folder ```scripts``` to classify the text before running the pipelin
 ```sh
 $ python -m emotion_module.classify_emotions ../data/NAME_OF_FILE.txt
 ```
+If you're using our test data, NAME_OF_FILE has to correspond to data in config.<br\ >
 
 Next: translate, back-Translate and measure the change in emotions. 
 
