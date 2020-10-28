@@ -39,14 +39,12 @@ Both the emotion-informed selection and the subsequent analysis of emotion chang
 
 ## Example Usage
 
-Move to the folder ```scripts``` to extract and classify the text before running the pipeline. 
+Move to the folder ```scripts``` to classify the text before running the pipeline. Automatically assigned labels will be used as input emotions.
 
 ```sh
-$ python -m emotion_module.extract_data
 $ python -m emotion_module.classify_emotions ../data/NAME_OF_FILE.txt
 ```
 
-Automatically assigned labels will be used as input emotions.
 Next: translate, back-Translate and measure the change in emotions. 
 
 ```sh
