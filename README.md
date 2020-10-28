@@ -25,10 +25,7 @@ Download the pretrained [ensamble models](https://github.com/pytorch/fairseq/blo
 
 Both the emotion-informed selection and the subsequent analysis of emotion change are based on an emotion classifier. 
 
-Download and extract our pretrained BiLSTMs in ```emotion_module/trained-classifiers```. Each of them will output different emotion labels, as explained in the paper.
-
-|[ISEAR](https://drive.google.com/file/d/1hX0ey3EcVCMdL8ZkQ4Y-YiEmVNT8T_Y2/view?usp=sharing)| [BLOGS](https://drive.google.com/file/d/1gA092woQIeh54omQStThvhLsStLOnH6l/view?usp=sharing) | [TALES](https://drive.google.com/file/d/1Oh0V6QQ1dW8j_uqRYwz4FHveUmAkxVPX/view?usp=sharing) | [TEC](https://drive.google.com/file/d/1KpfQne8l0QX3sybD3xu6RivUoC-K25eG/view?usp=sharing)|
-|------------|------------|------------|------------|
+[Download](https://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/lost-in-back-translation/) our pretrained BiLSTMs and move them in ```emotion_module/trained-classifiers```. Each of the models will output different emotion labels, as explained in the paper.
 
 ## Pipeline Configuration
 
@@ -42,13 +39,15 @@ Download and extract our pretrained BiLSTMs in ```emotion_module/trained-classif
 
 ## Example Usage
 
-Move to the folder ```scripts``` to classify the text before running the pipeline: automatically assigned labels will be used as input emotions.
+Move to the folder ```scripts``` to extract and classify the text before running the pipeline. 
 
 ```sh
-$ python -m emotion_module.classify_emotions ../data/ISEARtest.txt
+$ python -m emotion_module.extract_data
+$ python -m emotion_module.classify_emotions ../data/NAME_OF_FILE.txt
 ```
 
-Next: translate, back-Translate and measure the change in emotions.
+Automatically assigned labels will be used as input emotions.
+Next: translate, back-Translate and measure the change in emotions. 
 
 ```sh
 $ py -m main.py ../data/classified_input.txt
