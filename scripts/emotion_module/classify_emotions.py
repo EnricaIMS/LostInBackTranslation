@@ -1,11 +1,11 @@
 '''
-Takes a (tab separated) file with the following format:
-Sentence id\tEmotion\tText
-(The name of the corpus from which the text comes must be in config.ini)
+Name of the corpus on which classifier was trained 
+must be in config.ini
 
-Returns a file in ../../data/ of the form Sentence id\tEmotion\tTargetEmotion\tText
-where Emotion is now the predicted emotion, and the target emotion depends on the
-goal of pipeline usage.                    
+Output in../../data/ has the format 
+Sentence id\tEmotion\tTargetEmotion\tText
+where Emotion is predicted emotion, and TargetEmotion 
+depends on the goal of pipeline usage (RQ1, RQ2 or RQ3).                    
 
 '''
 
