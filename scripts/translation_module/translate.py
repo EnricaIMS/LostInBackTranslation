@@ -29,7 +29,7 @@ class Translation:
             if decoding=='Beamsearch':
                 configuration='--beam 5 --nbest 1'
             else:
-                configuration=' --sampling --sampling-topk 10 --beam 1 --nbest 1'
+                configuration=' --sampling --sampling-topk 10 --beam 100 --nbest 100'
 
         else:
             configuration=' --beam 100 --nbest 100'
