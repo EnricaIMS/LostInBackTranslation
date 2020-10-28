@@ -1,10 +1,14 @@
+'''
+Extracts text used in our experiment in folder data.
+'''
+
 from emotion_module.objective.emocl.ued_handler import UEDDataset, UEDLoader 
 import random, sys, datetime
 
 script='./emotion_module/extractdata.py'
 
 datasets=['isear','tec','blogs','tales']
-loader = UEDLoader('/home/users2/troianea/Projekte/projectdata/emotion_classification/LexicalSubstitution4StyleTransfer/David/emotion-transfer/datasets/unified-dataset.jsonl')
+loader = UEDLoader('../data/unified-coropora/unified-dataset.jsonl')
    
 for name in datasets:
     print("{} : {} : STATUS : Extracting {} data from ../data/unified-corpora".format(script, datetime.datetime.now(),name))

@@ -19,7 +19,7 @@ script='./translation_module/translate.py'
 class Translation:
     
     def loadTranslationModel(self,sourceLanguage:str,targetLanguages:list,decoding:str,numForward:int,numBackward:int):
-        path='../../../backtranslation/scripts/'
+
         global forwardpairs
         global backwardpairs
         forwardpairs={}
@@ -39,8 +39,8 @@ class Translation:
 
         #load the models
         for t in targetLanguages:
-            forward='--path '+path+'translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/model4.pt '+path+'translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/ --source-lang '+sourceLanguage+' --target-lang '+t+' --remove-bpe --bpe fastbpe --bpe-codes '+path+'translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/bpecodes '+configuration+' --tokenizer moses'
-            backward='--path '+path+'translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/model4.pt '+path+'translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/ --source-lang '+t+' --target-lang '+sourceLanguage+' --remove-bpe --bpe fastbpe --bpe-codes '+path+'translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/bpecodes '+configuration+' --tokenizer moses'
+            forward='--path translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/model4.pt translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/ --source-lang '+sourceLanguage+' --target-lang '+t+' --remove-bpe --bpe fastbpe --bpe-codes translation_module/translation_models/wmt19.'+sourceLanguage+'-'+t+'.joined-dict.ensemble/bpecodes '+configuration+' --tokenizer moses'
+            backward='--path translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/model4.pt translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/ --source-lang '+t+' --target-lang '+sourceLanguage+' --remove-bpe --bpe fastbpe --bpe-codes translation_module/translation_models/wmt19.'+t+'-'+sourceLanguage+'.joined-dict.ensemble/bpecodes '+configuration+' --tokenizer moses'
             forwardpairs[sourceLanguage+'2'+t]=iTranslate(forward)
             print('{} : {} : STATUS : Loaded model for forward translation.'.format(script, datetime.datetime.now()))
 
